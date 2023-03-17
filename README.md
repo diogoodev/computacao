@@ -1,3 +1,7 @@
+# Computacao
+
+Repositório com as anotações feitas e aprendizados tirados durante ao longo dos quatro anos de Licenciatura em Computação pela UFT.
+
 <img alt="Light" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/img/printscreen.png">
 
 |                                                                                                                                                                           |                                                                                                                                                               |                                                                                                                                                               |
@@ -43,7 +47,3 @@ Se você não tem ideia de por onde começar, comece na página [[00. home]]!
 
 Se você gostou da ideia e quiser a adicionar/editar alguma feature, crie uma issue detalhando sua ideia.
 Ou melhor ainda, faça um pull request!
-
-# Computacao
-
-Repositório com as anotações feitas e aprendizados tirados durante ao longo dos quatro anos de Licenciatura em Computação pela UFT.
