@@ -1,9 +1,0 @@
-**Linguagem**::  
-**Links**::
-
----
-
-# Código
-```js
-
-```

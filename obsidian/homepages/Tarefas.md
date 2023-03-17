@@ -1,3 +1,0 @@
-- [x] Tarefa Teste1 📅 2022-12-01
-- [x] Tarefa Teste2 📅 2022-12-03
-- [x] Tarefa Teste3 📅 2022-12-06
