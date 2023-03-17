@@ -11,6 +11,8 @@ tag: ", Introdução, IntComputação"
 
 ## Pontos Principais
 
+[Histórico e Evolução dos Computadores - YouTube](https://www.youtube.com/watch?v=BJIv_wu0fJs)
+
 ## Anotações no PDF
 
 [[001 - inicio]]
