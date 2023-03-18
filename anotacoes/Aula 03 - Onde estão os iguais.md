@@ -1,5 +1,8 @@
-Tópico::
-Links::
+---
+tag: pensamento_computacional
+---
+Tópico:: padroes, similiariades e reconhecimento
+Links::[[011-1-1 Pensamento Computacional]]
 
 ---
 ### Pontos chaves da aula
