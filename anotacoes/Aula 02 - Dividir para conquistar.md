@@ -22,3 +22,4 @@ Links::[[011-1-1 Pensamento Computacional]]
 	Alem disso conseguimos resolver problemas complexos de forma mais simples, alem de facilitar a compreensão de novos problemas.
 	Ao dividr em pequenos problemas coseguimos elevar o foco nos detalhes.
 	Quanto melhor a especificação do probema mais efetivo será a solução.
+	
