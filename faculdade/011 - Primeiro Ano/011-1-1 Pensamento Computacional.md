@@ -8,6 +8,7 @@ Links: [[011-1 Primeiro Semestre]]  [[011-1-0 Modulo I]]
 ## Aulas
 - [[Aula 01 - Introdução]]
 - [[Aula 02]]
+- [[Aula 03 - Onde estão os iguais]]
 
 ## Atividades
 
