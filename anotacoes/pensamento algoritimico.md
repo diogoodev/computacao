@@ -1,0 +1,2 @@
+Link:: [[conteudo base]]
+Está relacionado com os [[Algoritimos]], apesar de não ser no uso em computores e sim na forma, ou seja, é a criação de passos para se chegar em um objetivo, seja ele matematico ou não

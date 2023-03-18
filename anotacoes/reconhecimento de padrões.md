@@ -1,0 +1,1 @@
+Reconhecer padrões e similiariades levam a identificar tendencias de comportamento.
