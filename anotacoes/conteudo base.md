@@ -24,6 +24,15 @@ Links:: [[Aula 02 - Dividir para conquistar]]
 	- Usar metodos pedagagicos invadores como o que vimos hoje, no caso o ensino da programação, é fundamental para que a transversionalidade seja aplicada de forma eficiente.
 
 - [Quem disse que precisa de computador para programar? Conheça os benefícios das atividades desplugadas - Faber Castell Educação (faber-castell.com.br)](https://www.educacao.faber-castell.com.br/quem-disse-que-precisa-de-computador-para-programar-conheca-os-beneficios-das-atividades-desplugadas/)
+	- [[Atividades desplugadas]] são usadas como meio para ensinar sobre programação sem um computador
+	- Alungs beneficios são a organização do pensamento lógico e reflexivo
+	- Aprender programação nas escolas não necessariamente irá formar programadores, mas sim pessoas capzes de entender o mundo digital em que se vive.
+	- Quando se aprende a programar tambem se aprende a se organizar a se expressar e a compartilhar ideias de novas maneiras.
+	- As [[Atividades desplugadas]] incentivam a resolução de problemas, desafiando e expondo o aluno o tempo todo a novas situações fazendo com que ele busque sair do nivel abstrado de ideias e aplica soluçoes concretas, novas e diferentes.
+	- Elas tambem podem ajudar a entender como funciona os computadores.
+	- Exemplos de atividade que podem ser desenvolvidas:
+		- Contrução de um tabuleiro de 64 casas(8x8), que deve ser jogado com cartas contendo  as setas. Objetivo: levar o personagem do ponto A ao ponto B no menor caminho possivel
+		- Exemplo de atividade simples:  o professor pode fazer um trabalho de pixel art em que os meninos fazem um desenho específico, com determinadas cores, com determinados parâmetros, e eles trabalham com as células e localização em uma folha quadriculada.
 
 
 ### Video
