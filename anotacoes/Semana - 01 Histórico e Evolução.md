@@ -49,14 +49,14 @@ tag: ", IntComputação"
 
 ### Primera Geração: Válvulas (1945-1955)
 
-	-colossos por Turing (1943)
+-colossos por Turing (1943)
 	- Substituto do Heath Robinson
 	- ENIAC por Mauchly e Eckert (1943-1946)
 		- Grande estrutura e muito consumo de energia
 		- Chaves manuais para entrada de dados
 		- Sucessor EDVAC
 	- IAS por john Von Neumann (1946)
-		- Arquitetura de Von Neuman é usada até hoje
+		- [[Arquitetura de Von Neuman]] é usada até hoje
 		- ![[Aula - 01 Histórico e Evolução 2023-03-17 22.32.08.excalidraw]]
 	-UNIVAC 
 		- Primeiro computador para fins comerciais

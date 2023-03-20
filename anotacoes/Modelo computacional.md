@@ -6,12 +6,13 @@ Links:: [[Componentes Basicos]]
 
 - Modelo básico 
 	- [[CPU]]
-	- Armazenamento Secundário 
+	-[[Armazenamento Secundário ]]
 		- Disco rigido, pendrive etc.
 		- Alta capacidade de armazenamento, mas não é acessado rapidamente.
-	- Memória Principal 
+	- [[Memoria Principal]] 
 		- Acesso rapido
 	- Dispositivos E/S
 		- Monitores, teclados, mouse
 	- Barremento
 - Funcionamento 
+	- ![[Modelo computacional 2023-03-20 18.29.40.excalidraw]]

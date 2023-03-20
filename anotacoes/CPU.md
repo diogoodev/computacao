@@ -21,4 +21,8 @@ Links:: [[Componentes Basicos]] [[Modelo computacional]] [[Hardware e software]]
 	- Registradores:
 		- Aréas pequenas de armazenamento
 		- Função de melhorar o desempenho 
-	Baicamente esta relacionado com o modelo de Van Newman 
+	Baicamente esta relacionado com a [[Arquitetura de Von Neuman]] 
+	A CPU basicamente executa as intruções presentes nos programa 
+	A memória principal  armazaena os programas e dados que estão sendo usado pela CPU.
+	Todos os programas modernos executam programas armazenados em memória.
+	
