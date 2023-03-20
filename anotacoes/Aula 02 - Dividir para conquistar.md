@@ -8,15 +8,15 @@ Links::[[011-1-1 Pensamento Computacional]]
 
 ## Conteúdos 
 
-	[[slides]]
-	[[conteudo base]]
-	[[conteudo complementar]]
+- [[slides]]
+- [[conteudo base]]
+- [[conteudo complementar]]
 ## Pontos chaves da aula
-	 [[Decomposição]]
-	 [[Problemas complexos]]
-	 [[simplificação]]
+-  [[Decomposição]]
+-  [[Problemas complexos]]
+-  [[simplificação]]
 
-### Anvançando nos conceitos de decomposição
+### Avançando nos conceitos de decomposição
 
 Podemos Dizer que temos ao decompor um problema isso resulta em problemas menores que podem ou não estarem relacionados entre si.
 Com isso podemos resolver os problemas sem seguir uma ordem espefica desde que eles não estejam relacioandos.

@@ -10,7 +10,7 @@ Links::[[011-1-1 Pensamento Computacional]]
 - Entendimento de Padrões
 - Entender como as repetições e similiaridades podem auxiliar na resolução de problemas
 
-### Reconhcer Padrões
+### Reconhecer Padrões
 
 	- Pode ser usado a  decomponsição para esse reconhecimento
 	- Dependedo do problema a ser resovildo podemos identificar padrões convenientes de acordo com o problema

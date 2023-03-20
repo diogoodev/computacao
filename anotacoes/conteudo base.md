@@ -32,7 +32,7 @@ Links:: [[Aula 02 - Dividir para conquistar]]
 
 2. [Quem disse que precisa de computador para programar? Conheça os benefícios das atividades desplugadas - Faber Castell Educação (faber-castell.com.br)](https://www.educacao.faber-castell.com.br/quem-disse-que-precisa-de-computador-para-programar-conheca-os-beneficios-das-atividades-desplugadas/)
 	- [[Atividades desplugadas]] são usadas como meio para ensinar sobre programação sem um computador
-	- Alungs beneficios são a organização do pensamento lógico e reflexivo
+	- Alguns beneficios são a organização do pensamento lógico e reflexivo
 	- Aprender programação nas escolas não necessariamente irá formar programadores, mas sim pessoas capzes de entender o mundo digital em que se vive.
 	- Quando se aprende a programar tambem se aprende a se organizar a se expressar e a compartilhar ideias de novas maneiras.
 	- As [[Atividades desplugadas]] incentivam a resolução de problemas, desafiando e expondo o aluno o tempo todo a novas situações fazendo com que ele busque sair do nivel abstrado de ideias e aplica soluçoes concretas, novas e diferentes.
