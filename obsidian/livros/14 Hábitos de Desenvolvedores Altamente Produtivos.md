@@ -2,7 +2,7 @@ Autor:: Zeno Rocha
 Status:: #em-progresso 
 páginasLidas:: 56
 Páginas:: 135
-Genero:: #progração #desenvolvimento-pessoal
+Genero:: #desenvolvimento-pessoal
 data_inicio::
 data_conclusao:
 Nota:: 8/10
