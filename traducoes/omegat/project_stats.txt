@@ -1,0 +1,15 @@
+21/03/23 22:07
+Estatística do Projeto
+
+                           	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (incluindo espaços)	#Arquivos	
+Total de palavras:         	      539	    5971	                   27088	                         32427	        2	
+Restantes:                 	      535	    5914	                   26809	                         32096	        2	
+Únicos:                    	      527	    5940	                   26885	                         32200	        2	
+Segmentos únicos restantes:	      523	    5883	                   26606	                         31869	        2	
+
+
+Estatísticas do arquivo individual:
+
+Nome do arquivo               	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (incluindo espaços)	Caracteres únicos (incluindo espaços)	Caracteres únicos restantes (incluindo espaços)	
+Documento1.docx               	                418	                415	             406	                       403	             4824	               4784	           4793	                     4753	                            21711	                             21528	                          21508	                                    21325	                                  26027	                                   25809	                                25800	                                          25582	
+Vimrc Configuration Guide.docx	                121	                120	             121	                       120	             1147	               1130	           1147	                     1130	                             5377	                              5281	                           5377	                                     5281	                                   6400	                                    6287	                                 6400	                                           6287	

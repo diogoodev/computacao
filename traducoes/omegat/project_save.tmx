@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since I started using Vim in 2016, I’ve discovered several lesser-known features that Vim offers out of the box without any plugins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="jenif" changedate="20230321T222421Z" creationid="jenif" creationdate="20230321T222421Z">
+        <seg>Dese que eu comecei a usar o Vim em 2016 Since I started using Vim in 2016, I’ve discovered several lesser-known features that Vim offers out of the box without any plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="jenif" changedate="20230322T010710Z" creationid="jenif" creationdate="20230322T010710Z">
+        <seg>vVimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why I love Vim: It’s the lesser-known features that make it so amazing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="jenif" changedate="20230321T220254Z" creationid="jenif" creationdate="20230321T220254Z">
+        <seg>Por que eu amo o VIM: São os recursos menos conhecidos que o tornam incrivel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>by Amit Kulkarni</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="jenif" changedate="20230321T220308Z" creationid="jenif" creationdate="20230321T220308Z">
+        <seg>Por Amit Kulkarni</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
