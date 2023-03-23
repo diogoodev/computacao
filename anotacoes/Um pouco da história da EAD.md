@@ -15,3 +15,23 @@ Links::[[Historia da EAD no mundo]]
 Depois da Segunda Guerra Mundial, houve uma melhora nas metodologias aplicadas, e elas foram influenciadas pelos meios de comunicação.
 Um dos destaques da época  foram  as experiências de Fred Keller (1983) para o ensino da recepção do Código Morse.
 Foi a partir  da década  de 60 que houve um grande impulso, por meio das institucionalizações de varias ações na educação secundário  e superior. Alguns destaques
+
+Nivel Secundário 
+
+-  Hermods- NKI Skolen, na Suécia;
+- Rádio ECCA, na llhas Canárias;
+-  Air Correspondence High School, na Coréia do Sul;
+-  School of the Air, na Austrália;
+- Telesecundária, no México; e
+- National Extension College, no Reino Unido.
+
+Em nível universitário, temos:
+
+- Open University, no Reino Unido;
+- FernUniversität, na Alemanha;
+- Indira Gandhi National Open University, na Índia; e
+- Universidade Estatal a Distância, na Costa Rica
+ Universidade Nacional Aberta,  da  Venezuela;  a  Universidade  Nacional  de  Educação a Distância, da Espanha; o Sistema de Educação a Distância,  da  Colômbia;  a  Universidade  de  Athabasca,  no  Canadá;  a  Universidade  para  Todos  os  Homens  e  as  28  universidades  locais  por  televisão  na  China  Popular;
+
+Atualmente mais de 80 paises adotam educação a distancia, em todos os niveis de ensino formal. A educação a distanica tem sindo muito usada para o aperfeiçoamento de professores.
+No ensino não formal, algumas áreas de saúde, agricultura e previdência social, tanto pela iniciativa privada como pela governamental.
