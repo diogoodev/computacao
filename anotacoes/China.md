@@ -15,6 +15,4 @@ Hoje em dia o S istema Chinês de Universidade pela Televisão(Dianda) coordena 
 - Novos alunos anualmente  300  mil  alunos 
 - Formou  mais  de  1,5  milhão de alunos.
 
-Em Hong Kong, existem algumas inciavitvas que começaram em 1956, com a School of  Proessional  and  Continuing  Education  (Universidade  de  Hong  
-
-Kong)
+Em Hong Kong, existem algumas inciavitvas que começaram em 1956, com a School of  Proessional  and  Continuing  Education  (Universidade  de  Hong  Kong). 
