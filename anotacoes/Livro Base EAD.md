@@ -73,3 +73,17 @@ Links::
 >%%TAGS%%
 >
 ^2fvh8ma9a7e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-27T00:35:50.962Z","updated":"2023-03-27T00:35:50.962Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":146231,"end":146428},{"type":"TextQuoteSelector","exact":"A segunda Lei de Diretrizes e Bases (n” 9.394, de 20 de de-zembro  de  1996),  a  Lei  Darcy  Ribeiro,  fi nalmente  foi  respon-sável por um novo status da EAD, antes clandestina ou excep-cional. ","prefix":"r vários marcos signifi cativos.","suffix":"Curiosamente, o co-autor e relat"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%A segunda Lei de Diretrizes e Bases (n” 9.394, de 20 de de-zembro  de  1996),  a  Lei  Darcy  Ribeiro,  fi nalmente  foi  respon-sável por um novo status da EAD, antes clandestina ou excep-cional.*
+>%%LINK%%[[#^lfercb3jw4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^lfercb3jw4
