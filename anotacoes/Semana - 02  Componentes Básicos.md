@@ -15,4 +15,4 @@ A atividade 2 é composta por 6 questões e tem um valor de 3,5 pontos. Vocês t
 
 ## Pontos principais
 - [[Componentes Basicos]]
-- [[slide da aula]]
+- [[IC - Slides Semana 02]]
