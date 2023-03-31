@@ -10,3 +10,13 @@ Links:: [[Semana - 03 Software]]
 ### Pontos Principais
 
 ### Resumo
+
+
+```timestamp 
+ 00:27
+ ```
+- [[Hardware e software]]
+- [[Peopleware]]
+-
+
+
