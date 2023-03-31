@@ -80,6 +80,15 @@ Utilizar o hardware do computador de forma mais eficiente;
 	- Controle do modo de entrada de dados e do modo de apresentação das insformações na tela do monitor.
 	- Tres tipos de interfaces
 		-  [[Linha de comando]]
-		- [[Menu]]
+		- [[Baseada em Menu]]
 		- [[Grafica]]
 
+No incio dos computadores, não era utilizado SO, porem com a necessaidade de melhor utilização dos recursos e como consequencia dos avanços tecnologicos, surgiram os [[Sistema operacional]].
+```timestamp 
+ 22:43
+ ```
+Já em relação aos softwares, no primordios (1940) tinhamos dois niveis de linguagem de programação.
+	- Maquina: Onde ocorrica a programação
+	- Logica digital: Onde os programas eram efetivamente executados
+Então logo no inico dos anos 50, se viu a necessidade de um terceiro nivel nos computadores.
+Esse computadores vinham equipados com [[Compilador interpretador]], isso fez com que o hardware pudesse ser simplificado, um vez que ele executaria um pequeno conjunto de 
