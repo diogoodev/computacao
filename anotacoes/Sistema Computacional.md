@@ -65,4 +65,21 @@ Utilizar o hardware do computador de forma mais eficiente;
 3. A [[BIOS]] realiza o [[POST]]
 4. [[POST]] comparado com o [[CMOS]]
 5. A [[BIOS]] procura os arquivos do [[Sistema operacional]]
+6. Depois a [[BIOS]] carrega na [[Memoria Principal]] o [[Kernel]] que estava armazenado no [[Armazenamento Secundário]]
+7.  O [[Sistema operacional]] carega informações de configuração;
+8. Exibe a area de trabalho
+9. Executa o [[Startup]] executa  programa programas pre instalados.
+
+```timestamp 
+ 19:09
+ ```
+
+- Comunicação do SO com os [[Dispositivos Entrada e Saida]]
+	- Driver de dispositivo - Programa que possibilida a comunicação do SO com os [[Dispositivos Entrada e Saida]]
+- Interface com o usuário
+	- Controle do modo de entrada de dados e do modo de apresentação das insformações na tela do monitor.
+	- Tres tipos de interfaces
+		-  [[Linha de comando]]
+		- [[Menu]]
+		- [[Grafica]]
 
