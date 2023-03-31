@@ -17,6 +17,7 @@ Links:: [[Semana - 03 Software]]
  ```
 - [[Hardware e software]]
 - [[Peopleware]]
--
+
+- 
 
 
