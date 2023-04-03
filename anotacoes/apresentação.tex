@@ -1,0 +1,86 @@
+\documentclass{beamer}
+\usepackage{graphicx}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+
+\title{Apresentação}
+\author{Diogo Moura}
+\date{\today}
+
+\usetheme{Hannover}
+
+\begin{document}
+
+\frame{\titlepage}
+\frame{
+  \frametitle{Sumário}
+  \tableofcontents}
+
+\section{Introdução}
+\begin{frame}
+  \frametitle{Introdução ao modelo de Apresentação}
+  \begin{block}{Exemplo de bloco 1}
+    Aqui vai o texto do bloco 1
+\end{block}
+
+\begin{block}{Exemplo de bloco 2}
+  Aqui vai o texto do bloco 2
+\end{block}
+\end{frame}
+
+\section{Corpo}
+\begin{frame}
+  \frametitle{Desenvolvimento}
+  \begin{columns}[t]
+    \begin{column}{5cm}
+      aqui vai o texto da primeira coluna
+      
+    \end{column}
+
+    aqui vai o texto da segunda coluna
+    
+  \end{columns}
+  
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Desenvolvimento parte 2}
+  \begin{columns}[t]
+    \begin{column}{5cm}
+      \begin{block}{exemplo}
+
+        Uso de bloco em colunas
+        
+      \end{block}
+      aqui vai o texto da primeira coluna
+      
+    \end{column}
+
+    aqui vai o texto da segunda coluna
+    
+  \end{columns}
+\end{frame}
+
+\begin{frame}{Caixas}
+  \begin{center}
+    \begin{tabular}{|c|}
+      \hline 
+      Quando quiser adicionar uma quantidade maior de texto,\\ pode-se usar o ambiente tabular\\
+      \hline
+    \end{tabular}
+  \end{center}
+  \footnote{Notas de rodapé}
+\end{frame}
+
+\begin{frame}{Transição}
+  \transdissolve
+  \begin{itemize}
+    \item item 1 \pause
+    \item item 2 \pause
+    \item item 3 
+    
+  \end{itemize}
+\end{frame}
+
+\end{document}

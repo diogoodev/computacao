@@ -31,3 +31,4 @@ Já o Latex, o que você vê é o que você soignifica.
 
 No caso do latex o computador é que fara o trabalho de formatação, já o word o autor é o responsavel.
 
+- [[Codigo feito durante a aula]]
