@@ -1,0 +1,21 @@
+# Fdb version 3
+["pdflatex"] 1680500393 "/home/diogo/Documents/Matrix/computacao/anotacoes/exercicio-ic.tex" "exercicio-ic.pdf" "exercicio-ic" 1680500393
+  "/etc/texmf/web2c/texmf.cnf" 1680499498 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/diogo/Documents/Matrix/computacao/anotacoes/exercicio-ic.tex" 1680500393 210 741602c7088c24452586f4477e8f1deb ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1136768653 1508 efecb4a315fe0975509670a272d75ef5 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1248133631 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1654720880 20144 7555b7429d80bef287ebb82117811acc ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1654720880 8448 e0391042ca0932ede1098ae14ada60ba ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1656792629 31050 293f2cc98a3575c4228b5157bf850b8f ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1658757727 39561 34c98e380bf7c7201ee6a7909aff625a ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1658757727 39561 34c98e380bf7c7201ee6a7909aff625a ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1680499516 4595794 2d34e5a126a0aa697a2f4f787f7af198 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1680499537 2865634 4c82355c777705f51e2c7437329a00ec ""
+  "exercicio-ic.aux" 1680500393 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "exercicio-ic.tex" 1680500393 210 741602c7088c24452586f4477e8f1deb ""
+  (generated)
+  "exercicio-ic.aux"
+  "exercicio-ic.log"
+  "exercicio-ic.pdf"

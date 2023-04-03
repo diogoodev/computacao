@@ -7,10 +7,9 @@ Links:: [[Semana - 03 Software]]
 ```timestamp-url 
  https://www.youtube.com/watch?v=T7yHDLVBlew
  ```
+
+
 ### Pontos Principais
-
-### Resumo
-
 
 ```timestamp 
  00:27
@@ -18,6 +17,8 @@ Links:: [[Semana - 03 Software]]
 - [[Hardware e software]]
 - [[Peopleware]]
 -  [[Sistema Computacional]]
-- 
+-  [[Sistema Operacional]]
+- [[Software Utilitários]]
+- [[Software Aplicativos]]
 
 

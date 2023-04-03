@@ -45,7 +45,7 @@ Hoje em dia não precisamos mais interagir direatamente no hadware para consegui
 Softwares em geral visam tornar a utilização do computador mais conveniente ao usuario final.
 Utilizar o hardware do computador de forma mais eficiente;
 
-[[Sistema operacional ]]= [[Kernel]]+ programas do sistema + aplicações
+[[Sistema Operacional ]]= [[Kernel]]+ programas do sistema + aplicações
 	- Residente no disco rigido (maioria dos casos)
 	- Diferentes tipos de sistemas operacionais
 
@@ -64,9 +64,9 @@ Utilizar o hardware do computador de forma mais eficiente;
 2. O processador procura a [[BIOS]]
 3. A [[BIOS]] realiza o [[POST]]
 4. [[POST]] comparado com o [[CMOS]]
-5. A [[BIOS]] procura os arquivos do [[Sistema operacional]]
+5. A [[BIOS]] procura os arquivos do [[Sistema Operacional]]
 6. Depois a [[BIOS]] carrega na [[Memoria Principal]] o [[Kernel]] que estava armazenado no [[Armazenamento Secundário]]
-7.  O [[Sistema operacional]] carega informações de configuração;
+7.  O [[Sistema Operacional]] carega informações de configuração;
 8. Exibe a area de trabalho
 9. Executa o [[Startup]] executa  programa programas pre instalados.
 
@@ -83,7 +83,7 @@ Utilizar o hardware do computador de forma mais eficiente;
 		- [[Baseada em Menu]]
 		- [[Grafica]]
 
-No incio dos computadores, não era utilizado SO, porem com a necessaidade de melhor utilização dos recursos e como consequencia dos avanços tecnologicos, surgiram os [[Sistema operacional]].
+No incio dos computadores, não era utilizado SO, porem com a necessaidade de melhor utilização dos recursos e como consequencia dos avanços tecnologicos, surgiram os [[Sistema Operacional]].
 ```timestamp 
  22:43
  ```
@@ -91,4 +91,11 @@ Já em relação aos softwares, no primordios (1940) tinhamos dois niveis de lin
 	- Maquina: Onde ocorrica a programação
 	- Logica digital: Onde os programas eram efetivamente executados
 Então logo no inico dos anos 50, se viu a necessidade de um terceiro nivel nos computadores.
-Esse computadores vinham equipados com [[Compilador interpretador]], isso fez com que o hardware pudesse ser simplificado, um vez que ele executaria um pequeno conjunto de 
+Esse computadores vinham equipados com [[Compilador interpretador]], isso fez com que o hardware pudesse ser simplificado, um vez que ele executaria um pequeno conjunto de micro instruções armazendas ao inves de todo o programa em linguagem de maquina.
+A partir do surgimento dos [[Sistema Operacional]] as linguangens de progrmação evoluiram.
+Entre 50 e 63, com a melhora dos computadores (tecnologia) surgiram dispositivos mais modernos como impressoras, fitas magneticas,  discos de armazenamento e outros.
+O desenvolvimento dos computadores aconteceu rapidamente por alguns fatores como os sitemas operacionais e as linguagens de programação.
+
+
+A quinta geração traz o processamento paralelo e a tecnologia de supercondutores.
+

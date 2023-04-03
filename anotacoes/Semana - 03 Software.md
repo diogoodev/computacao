@@ -9,7 +9,7 @@ Nessa semana iremos trabalhar o conteúdo relacionado aos sistemas computacionai
 Temos disponível a vídeo-aula, o material (em .pdf) apresentado no vídeo, além da atividade 3.
 
 A atividade 3 é composta por 8 questões e tem um valor de 3,5 pontos. Vocês terão até o dia 01/04/2023, às 23:59h, para realizarem a atividade 3.
-## Pontos principais
+## Conteúdo
 - [[Software]]
 - [[IC - Slides Semana 03]]
 -
