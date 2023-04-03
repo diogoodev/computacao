@@ -2,6 +2,7 @@
 \usepackage{graphicx}
 \usepackage[brazil]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage[normalem]{ulem}
 
 \title{Exemplo de Aula}
 \author{Diogo Moura}
@@ -9,10 +10,109 @@
 
 \begin{document}
 \maketitle
+\section{Introdução}
 Knuth, no seu livro de \TeX{},
 faz diferencia o pessoal
 que trabalha com \TeX{} em
 \TeX{}nicos e \TeX perto
 
 Para usar tem que \textsl{estudar}!
+\subsection{Comandos Básicos}
+Aqui aprenderemos os comandos básicos do latex.
+
+\centering{Comandos Iniciais}
+
+\flushleft{ a esquerda}
+
+{\scriptsize muito pequeno}
+
+{\footnotesize menor}
+
+{\small pequeno}
+
+{\large grande}
+
+{\LARGE maior ainda}
+
+{\huge maior}
+
+{\Huge maior de todos}
+
+\emph{enfase}
+
+\flushright{ a direita}
+  
+{\tiny o menor}
+
+\textit{itálico}
+
+\textbf{negrito}
+
+\textrm{romano}
+
+\textsf{sans serif}
+
+\texttt{Maquina de escrever}
+
+\textsc{caixa alta}
+
+\uline{sublinhado}
+
+\uuline{duplo sublinhado}
+
+\uwave{sublinhado curvo}
+
+\sout{riscado}
+
+\xout{muito riscado}
+
+\flushleft{}
+\subsection{listas}
+
+Iremos iniciar pelas listas e descrições:
+\begin{enumerate}
+  \item Lista 1:
+  \begin{itemize}
+    \item Conteúdo 1
+    \item[-] Conteúdo 2
+  \end{itemize}
+  \item Lista 2:
+  \item Lista 3:
+\end{enumerate}
+
+\subsection*{tabelas}
+Exemplos de uso de tabelas
+\begin{table}
+  
+  \centering
+  \begin{tabular}[c]{r|l}
+    \hline
+    7C0 & HEXADECIMAL \\
+    7C3 & HEXADECIMAL \\
+    3700 & OCTAL \\ \cline{2 - 2}
+    1111010101 & BINÁRIO \\
+    \hline \hline
+    0.1984 & decimal \\
+    \hline
+    2 & 1\\ 
+    &
+    
+  \end{tabular}
+  \caption{Tabela 1}
+  \label{tab:mylabel}
+\end{table}
+
+Exemplo tabela 2
+
+\begin{table}
+  \begin{tabular}{c r @{.} l}
+    Expressão Pi &
+    \multicolumn{2}{c}{Valor} \\
+    \hline
+    $\pi$ & 3 & 1416 \\
+    $\pi^{\pi}$ & 36 & 46 \\
+  \end{tabular}
+\end{table}
+
+
 \end{document}
