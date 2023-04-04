@@ -12,3 +12,9 @@ Links:: [[011-1-1 Pensamento Computacional]]
 - [[Conteúdo complementar 04]]
 
 ## Pontos chaves
+
+- [[Abstração]]
+
+### Annotações
+
+
