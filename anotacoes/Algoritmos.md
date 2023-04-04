@@ -20,6 +20,3 @@ Conjunto de regras para a resolução de um problema.
 > Não pode ser ambiguo
 > Efetivo, tentar prever falhas
 
-
-
-
