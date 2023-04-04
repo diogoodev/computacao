@@ -87,3 +87,101 @@ Links::
 >%%TAGS%%
 >
 ^lfercb3jw4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:41:40.473Z","updated":"2023-04-04T02:41:40.473Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":628144,"end":628506},{"type":"TextQuoteSelector","exact":"O  conceito  de  heutagogia  (heuta  —  auto,  próprio  —  e  agogus — guiar) surge com o estudo da auto-aprendizagem na perspectiva  do  conhecimento  compartilhado.  Trata-se  de  um  conceito que expande a concepçªo de andragogia ao reconhe-cer as experiências cotidianas como fonte de saber e incorpora a autodireçªo da aprendizagem com foco nas experiências","prefix":"es entre heutagogia e andragogia","suffix":".Long  (apud  Hase  e  Kenyon,  "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%O  conceito  de  heutagogia  (heuta  —  auto,  próprio  —  e  agogus — guiar) surge com o estudo da auto-aprendizagem na perspectiva  do  conhecimento  compartilhado.  Trata-se  de  um  conceito que expande a concepçªo de andragogia ao reconhe-cer as experiências cotidianas como fonte de saber e incorpora a autodireçªo da aprendizagem com foco nas experiências*
+>%%LINK%%[[#^s0msf6ew5i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^s0msf6ew5i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:42:23.584Z","updated":"2023-04-04T02:42:23.584Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":661073,"end":661388},{"type":"TextQuoteSelector","exact":"Tanto  a  epistemologia  genética  de  Piaget  quanto  o  so-cioconstrutivismo  de  Vygotsky,  apesar  de  suas  diferenças,  sªo consideradas teorias interacionistas. É por meio de inte-rações  que  os  seres  humanos  se  desenvolvem  e  aprendem,  defendem essas teorias abordadas em outros capítulos deste livro","prefix":") em EAD.Pedagogias da interaçªo","suffix":".O conceito de zona de desenvolv"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Tanto  a  epistemologia  genética  de  Piaget  quanto  o  so-cioconstrutivismo  de  Vygotsky,  apesar  de  suas  diferenças,  sªo consideradas teorias interacionistas. É por meio de inte-rações  que  os  seres  humanos  se  desenvolvem  e  aprendem,  defendem essas teorias abordadas em outros capítulos deste livro*
+>%%LINK%%[[#^x9ypf0x88u|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^x9ypf0x88u
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:43:10.083Z","updated":"2023-04-04T02:43:10.083Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":574593,"end":575670},{"type":"TextQuoteSelector","exact":"O  cognitivismo  debruça-se  sobre  os  processos  internos  de percepçªo, representaçªo, armazenamento e recuperaçªo de conhecimentos. O conceito de esquemas mentais, fundamen-tal ao cognitivismo, origina-se diretamente da teoria de Piaget.1 Segundo  a  concepçªo  genético-evolutiva,  o  conhecimento  é  fruto  da  interaçªo  entre  o  sujeito  e  o  objeto  (ou  mundo  ex-terior),  através  de  um  processo  permanente  de  construçªo  e  reconstruçªo  que  resulta  na  formaçªo  das  estruturas  cogniti-vas. Se as estruturas lógicas do pensamento sªo elaboradas ati-vamente pelo indivíduo, a aprendizagem nªo pode equivaler a uma recepçªo passiva do conhecimento. O ensino é, nessa perspectiva,  a  açªo  de  potencializar  e  favorecer  a  constru-çªo  de  estruturas  cognitivas.  As  situações  externas  só  podem  infl uenciar  o  desenvolvimento  do  indivíduo  se  ele  já  tiver  construído estruturas (esquemas cognitivos) que lhe permitam assimilar  essas  situações,  apropriar-se  delas  e  empregá-las  na  construçªo de novos conhecimentos (Almeida, 2000","prefix":"rnos ao aluno” (Mizukami, 1986).","suffix":").O  desenvolvimento  do  indiví"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%O  cognitivismo  debruça-se  sobre  os  processos  internos  de percepçªo, representaçªo, armazenamento e recuperaçªo de conhecimentos. O conceito de esquemas mentais, fundamen-tal ao cognitivismo, origina-se diretamente da teoria de Piaget.1 Segundo  a  concepçªo  genético-evolutiva,  o  conhecimento  é  fruto  da  interaçªo  entre  o  sujeito  e  o  objeto  (ou  mundo  ex-terior),  através  de  um  processo  permanente  de  construçªo  e  reconstruçªo  que  resulta  na  formaçªo  das  estruturas  cogniti-vas. Se as estruturas lógicas do pensamento sªo elaboradas ati-vamente pelo indivíduo, a aprendizagem nªo pode equivaler a uma recepçªo passiva do conhecimento. O ensino é, nessa perspectiva,  a  açªo  de  potencializar  e  favorecer  a  constru-çªo  de  estruturas  cognitivas.  As  situações  externas  só  podem  infl uenciar  o  desenvolvimento  do  indivíduo  se  ele  já  tiver  construído estruturas (esquemas cognitivos) que lhe permitam assimilar  essas  situações,  apropriar-se  delas  e  empregá-las  na  construçªo de novos conhecimentos (Almeida, 2000*
+>%%LINK%%[[#^mex8m4qh9fo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mex8m4qh9fo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:43:53.342Z","updated":"2023-04-04T02:43:53.342Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":569445,"end":570235},{"type":"TextQuoteSelector","exact":"Perspectivas pedagógicas dominantesEmbora nªo exista acordo quanto à categorizaçªo das teorias pedagógicas, seguimos abordagem de Greeno, Collins e Resnick (1996) ao identifi car três grandes perspectivas que se apóiam em premissas diferenciadas sobre o que signifi ca aprender e ensinar. Sªo elas:• A perspectiva associacionista, que considera aprendizagem como mudança de comportamento.• A  perspectiva cognitiva (e aqui se incluem as teorias cons-trutivistas  e  socioconstrutivistas),  que  vê  a  aprendizagem  como alcance da compreensªo.• A  perspectiva  situada,  que  entende  a  aprendizagem  como  prática social.Vejamos  mais  detalhadamente  cada  uma  dessas  perspecti-vas  em  termos  de  fundamentos  teóricos  e  implicações  para  a  aprendizagem, o ensino e a avaliaçªo.","prefix":"processo de ensino-aprendizagem.","suffix":"Perspectiva associacionistaOs  f"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Perspectivas pedagógicas dominantesEmbora nªo exista acordo quanto à categorizaçªo das teorias pedagógicas, seguimos abordagem de Greeno, Collins e Resnick (1996) ao identifi car três grandes perspectivas que se apóiam em premissas diferenciadas sobre o que signifi ca aprender e ensinar. Sªo elas:• A perspectiva associacionista, que considera aprendizagem como mudança de comportamento.• A  perspectiva cognitiva (e aqui se incluem as teorias cons-trutivistas  e  socioconstrutivistas),  que  vê  a  aprendizagem  como alcance da compreensªo.• A  perspectiva  situada,  que  entende  a  aprendizagem  como  prática social.Vejamos  mais  detalhadamente  cada  uma  dessas  perspecti-vas  em  termos  de  fundamentos  teóricos  e  implicações  para  a  aprendizagem, o ensino e a avaliaçªo.*
+>%%LINK%%[[#^mkrl4m5p0p|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mkrl4m5p0p
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:44:46.072Z","updated":"2023-04-04T02:44:46.072Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":681580,"end":682240},{"type":"TextQuoteSelector","exact":"O pontapé inicial foi dado por Moore (1989), que aborda as relações entre alunos, professores e conteúdo em EAD por meio de três tipos de interaçªo: aluno/professor, aluno/aluno e  aluno/conteúdo.  Sobre  esse  artigo  baseia-se  boa  parte  da  discussªo que se seguiu sobre interaçªo em EAD.Hillman, Willis e Gunawardena (1994) adicionam a intera-çªo aluno/interface. Soo e Bonk (1998) acrescentam a interaçªo do aluno com ele próprio (learner-self). Sutton (2001) introduz a idéia da interaçªo vicária. Anderson (2003a, 2003b) amplia a perspectiva de Moore, incluindo mais três tipos de interaçªo: professor/professor, professor/conteúdo e conteúdo/conteúdo","prefix":"teraçªo especifi camente em EAD.","suffix":".Há  obviamente  muitos  outros "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%O pontapé inicial foi dado por Moore (1989), que aborda as relações entre alunos, professores e conteúdo em EAD por meio de três tipos de interaçªo: aluno/professor, aluno/aluno e  aluno/conteúdo.  Sobre  esse  artigo  baseia-se  boa  parte  da  discussªo que se seguiu sobre interaçªo em EAD.Hillman, Willis e Gunawardena (1994) adicionam a intera-çªo aluno/interface. Soo e Bonk (1998) acrescentam a interaçªo do aluno com ele próprio (learner-self). Sutton (2001) introduz a idéia da interaçªo vicária. Anderson (2003a, 2003b) amplia a perspectiva de Moore, incluindo mais três tipos de interaçªo: professor/professor, professor/conteúdo e conteúdo/conteúdo*
+>%%LINK%%[[#^usfp7u0nomr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^usfp7u0nomr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:47:38.888Z","updated":"2023-04-04T02:47:38.888Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":619703,"end":621045},{"type":"TextQuoteSelector","exact":"O termo andragogia (do grego andros — adulto— e ago-gus — guiar, conduzir, educar) foi utilizado pela primeira vez em 1833, pelo professor alemªo Alexander Kapp, com o ob-jetivo  de  descrever  os  elementos  da  teoria  de  educaçªo  de  Platªo, que exercitava a indagaçªo, a interaçªo e a dialética com pequenos grupos de jovens e adultos. Mas esse esforço caiu no esquecimento e, apenas após a Primeira Guerra Mun-dial, começaram a surgir nos Estados Unidos e na Europa os conceitos educacionais que levavam em conta as característi-cas específi cas do aprendiz adulto. Em 1921, o professor ale-mªo  Rosenstock  empregou  o  termo  andragogia  para  indicar  as bases fi losófi cas e metodológicas, bem como a atuaçªo dos professores envolvidos com a educaçªo de adultos. Em 1926, Eduard  C.  Linderman  publicou  o  resultado  de  sua  pesquisa  sobre educaçªo de adultos desenvolvida para a American As-sociation for Adult Education sob o título The meaning of adult education.  Nesse  trabalho  Linderman  revela  a  infl uência  do pensamento de John Dewey, ao afi rmar que “A fonte de maior valor na educaçªo do adulto é a experiência do aprendiz. Se educaçªo  é  vida,  vida  é  educaçªo  (...)  a  genuína  educaçªo  manterá o fazer e o pensar juntos (...) A experiência é o livro vivo do aprendiz adulto” (Linderman, 1926, p. 9-10)","prefix":"uas experiências em um contexto.","suffix":".O sentido da experiência na and"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%O termo andragogia (do grego andros — adulto— e ago-gus — guiar, conduzir, educar) foi utilizado pela primeira vez em 1833, pelo professor alemªo Alexander Kapp, com o ob-jetivo  de  descrever  os  elementos  da  teoria  de  educaçªo  de  Platªo, que exercitava a indagaçªo, a interaçªo e a dialética com pequenos grupos de jovens e adultos. Mas esse esforço caiu no esquecimento e, apenas após a Primeira Guerra Mun-dial, começaram a surgir nos Estados Unidos e na Europa os conceitos educacionais que levavam em conta as característi-cas específi cas do aprendiz adulto. Em 1921, o professor ale-mªo  Rosenstock  empregou  o  termo  andragogia  para  indicar  as bases fi losófi cas e metodológicas, bem como a atuaçªo dos professores envolvidos com a educaçªo de adultos. Em 1926, Eduard  C.  Linderman  publicou  o  resultado  de  sua  pesquisa  sobre educaçªo de adultos desenvolvida para a American As-sociation for Adult Education sob o título The meaning of adult education.  Nesse  trabalho  Linderman  revela  a  infl uência  do pensamento de John Dewey, ao afi rmar que “A fonte de maior valor na educaçªo do adulto é a experiência do aprendiz. Se educaçªo  é  vida,  vida  é  educaçªo  (...)  a  genuína  educaçªo  manterá o fazer e o pensar juntos (...) A experiência é o livro vivo do aprendiz adulto” (Linderman, 1926, p. 9-10)*
+>%%LINK%%[[#^1yls745p4fy|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1yls745p4fy
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-04T02:54:35.874Z","updated":"2023-04-04T02:54:35.874Z","document":{"title":"Estado_da_Arte.pdf","link":[{"href":"urn:x-pdf:95bd957edee72f44aaf26662d1f6c987"},{"href":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf"}],"documentFingerprint":"95bd957edee72f44aaf26662d1f6c987"},"uri":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/Estado_da_Arte.pdf","selector":[{"type":"TextPositionSelector","start":617748,"end":618395},{"type":"TextQuoteSelector","exact":"A andragogia vem sendo considerada como um novo con-ceito  educacional  voltado  à  educaçªo  de  adultos  que  tomam  a  decisªo  de  aprender  algo  que  seja  importante  para  sua  vida  e trabalho, passando a ter um papel ativo em seu processo de aprendizagem  e  na  realizaçªo  de  atividades  nas  mesmas  con-dições que os demais participantes (professor e alunos). No en-tanto,  a  análise  das  bases  em  que  a  andragogia  se  apóia  leva  a  compreender  que  esse  ‘novo’  conceito  decorre  da  expansªo  de concepções educacionais na perspectiva da formaçªo con-tinuada e ao longo da vida, superando o período da educaçªo escolar","prefix":" e suas relações com a pedagogia","suffix":".A  pedagogia  (do  grego  paidó"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%A andragogia vem sendo considerada como um novo con-ceito  educacional  voltado  à  educaçªo  de  adultos  que  tomam  a  decisªo  de  aprender  algo  que  seja  importante  para  sua  vida  e trabalho, passando a ter um papel ativo em seu processo de aprendizagem  e  na  realizaçªo  de  atividades  nas  mesmas  con-dições que os demais participantes (professor e alunos). No en-tanto,  a  análise  das  bases  em  que  a  andragogia  se  apóia  leva  a  compreender  que  esse  ‘novo’  conceito  decorre  da  expansªo  de concepções educacionais na perspectiva da formaçªo con-tinuada e ao longo da vida, superando o período da educaçªo escolar*
+>%%LINK%%[[#^2k4g456td6|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2k4g456td6
