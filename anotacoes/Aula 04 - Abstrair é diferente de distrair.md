@@ -35,4 +35,13 @@ Então o que precisamos entender o que é relevante e o que não é relevante pr
 	- [[Padronização]] -  Reconhecemos padrões no apartamento vemos que todos os comondos são retangulares.
 	- [[Abstração]] - Identificamos que precisamos apenas das medidads de largura e comprimento de uma dos ambientes para resolver o problema o restão não é interessante.
 
+- Partes importantes
+```timestamp 
+ 00:42
+ ```
+
+- Uso
+```timestamp 
+ 01:09
+ ```
 
