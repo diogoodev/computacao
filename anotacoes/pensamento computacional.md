@@ -5,4 +5,4 @@ Não é necessario o uso de computadores
 1. [[Decomposição]]
 2. [[Abstração]]
 3. [[Padronização]]
-4. [[Algoritimos]]
+4. [[Algoritmos]]
