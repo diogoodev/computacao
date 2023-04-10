@@ -24,5 +24,6 @@ A atividade 4 tem um valor de 3,5 pontos. Vocês terão até o dia 15/04/2023, �
 
 ### Anotações
 
+
 Explorando apresentações no Latex.
 
