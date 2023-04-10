@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.3)  3 APR 2023 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.3)  8 APR 2023 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -749,15 +749,15 @@ Package rerunfilecheck Info: File `apresentação.out' has not changed.
 (rerunfilecheck)             Checksum: E226A36F9CB0BF956FBE79AE07965A98;167.
  ) 
 Here is how much of TeX's memory you used:
- 22776 strings out of 478023
- 444799 string characters out of 5841209
+ 22775 strings out of 478023
+ 444791 string characters out of 5841209
  716589 words of memory out of 5000000
- 40728 multiletter control sequences out of 15000+600000
+ 40727 multiletter control sequences out of 15000+600000
  479914 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,489b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on apresentação.pdf (9 pages, 68093 bytes).
+Output written on apresentação.pdf (9 pages, 68182 bytes).
 PDF statistics:
  314 PDF objects out of 1000 (max. 8388607)
  284 compressed objects within 3 object streams
