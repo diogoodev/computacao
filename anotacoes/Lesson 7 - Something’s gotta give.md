@@ -61,4 +61,45 @@ Aqui estão alguns outros exemplos de voz passiva em diferentes tempos verbais:
 | 3d        | Who had planted the trees? |                         |
 | 3e        | Who is making the cake? |                           |
 
- 
+
+## Casos de uso do sufixo "-ing":
+
+### Gerúndio (Gerund):
+
+O gerúndio é usado após verbos auxiliares como "be" (am, is, are, was, were), "am/are/is/was/were being", "have" (have, has, had), "have been", "will be", "can be", "might be", etc., para formar tempos verbais progressivos (present continuous, past continuous, etc.). Exemplo: "I am reading a book" (Estou lendo um livro).
+
+| Exemplo | Gerúndio |
+|---------|----------|
+| 1       | I am reading a book. |
+| 2       | She is cooking dinner. |
+| 3       | They are playing soccer. |
+
+### Substantivo (Noun):
+
+O sufixo "-ing" pode ser usado para transformar um verbo em um substantivo. Nesse caso, o substantivo formado geralmente se refere à **ação ou atividade indicada** pelo verbo. Exemplo: "Swimming is good exercise" (Nadar é um bom exercício).
+
+| Exemplo | Substantivo |
+|---------|-------------|
+| 1       | Swimming is good exercise. |
+| 2       | I love reading. |
+| 3       | Writing is his favorite hobby. |
+
+### Adjetivo (Adjective):
+
+O sufixo "-ing" também pode ser usado para formar **adjetivos que descrevem características** temporárias de uma pessoa, coisa ou situação. Exemplo: "The weather is amazing today" (O clima está incrível hoje).
+
+| Exemplo | Adjetivo |
+|---------|----------|
+| 1       | The movie was boring. |
+| 2       | She found the book interesting. |
+| 3       | The weather is amazing today. |
+
+### Particípio Presente (Present Participle):
+
+O particípio presente é usado em tempos verbais compostos, como o present perfect continuous, o past perfect continuous, etc., e pode **indicar uma ação em andamento ou uma ação que está** sendo realizada por outra pessoa ou coisa. Exemplo: "I have been studying English" (Tenho estudado inglês).
+
+| Exemplo | Particípio Presente |
+|---------|---------------------|
+| 1       | I have been studying English. |
+| 2       | He is being rude. |
+| 3       | The report is being reviewed by the manager. |
