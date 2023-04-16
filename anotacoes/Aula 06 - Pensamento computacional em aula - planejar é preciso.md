@@ -13,7 +13,10 @@ Links:: [[011-1-1 Pensamento Computacional]]
 
 ## Pontos Principais
 
--
+- [[Escape room na educação]]
+- [[pensamento computacional]]
 
 ### Anotações
+
+
 
