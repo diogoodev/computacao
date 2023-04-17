@@ -12,6 +12,7 @@ Links: [[011-1 Primeiro Semestre]]  [[011-1-0 Modulo I]]
 - [[Aula 04 - Abstrair é diferente de distrair]]
 -  [[Aula 05 - O que são algoritmos?]]
 - [[Aula 06 - Pensamento computacional em aula - planejar é preciso]]
+- [[Aula 07 - Atividades desplugadas]]
 
 
 ## Atividades
