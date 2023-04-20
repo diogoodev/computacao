@@ -481,3 +481,227 @@ annotation-target:: artigo-AVA-aula7.pdf
 >%%TAGS%%
 >
 ^gf0ibykrw0i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:38:32.103Z","updated":"2023-04-20T20:38:32.103Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":24291,"end":24427},{"type":"TextQuoteSelector","exact":"característica uma interface planejada para atender  a  um  curso  ou  disciplina  específica  de  acordo  com  sua  proposta pedagógica","prefix":"izada.  Assim, os AVAs têm como ","suffix":". As instituições podem configur"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%característica uma interface planejada para atender  a  um  curso  ou  disciplina  específica  de  acordo  com  sua  proposta pedagógica*
+>%%LINK%%[[#^gkt0qqb66fo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gkt0qqb66fo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:38:41.343Z","updated":"2023-04-20T20:38:41.343Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":24487,"end":24525},{"type":"TextQuoteSelector","exact":"acordo com suas percepções pedagógicas","prefix":"igurar as interfaces do AVAs de ","suffix":". Para Caetano (2005 apud  CUNHA"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%acordo com suas percepções pedagógicas*
+>%%LINK%%[[#^8bcf6tjgng4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8bcf6tjgng4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:39:25.692Z","updated":"2023-04-20T20:39:25.692Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":24541,"end":25060},{"type":"TextQuoteSelector","exact":"2005 apud  CUNHA, 2014, p. 55), as principais características dos AVAs são: Armazenamento  do  repositório  educacional  em  um  servidor web  que  permita  o  acesso  múltiplo  de  usuários;  Formato modular dos repositórios de aulas que possibilita a reutilização dos conteúdos em outras oportunidades; A monitorização do acesso do aluno; A existência de ambientes distintos para o aluno e para o professor; A necessidade de um servidor próprio e  de  um  administrador  do  sistema  para  a  manutenção  do ambiente.","prefix":"ções pedagógicas. Para Caetano (","suffix":" Na  sua  construção,  são  adic"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%2005 apud  CUNHA, 2014, p. 55), as principais características dos AVAs são: Armazenamento  do  repositório  educacional  em  um  servidor web  que  permita  o  acesso  múltiplo  de  usuários;  Formato modular dos repositórios de aulas que possibilita a reutilização dos conteúdos em outras oportunidades; A monitorização do acesso do aluno; A existência de ambientes distintos para o aluno e para o professor; A necessidade de um servidor próprio e  de  um  administrador  do  sistema  para  a  manutenção  do ambiente.*
+>%%LINK%%[[#^8eggegvx31x|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8eggegvx31x
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:40:33.039Z","updated":"2023-04-20T20:40:33.039Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":25252,"end":25360},{"type":"TextQuoteSelector","exact":"sendo projetado com estratégias pedagógicas que estimulam a autonomia no processo de ensino e aprendizagem. ","prefix":"são de conteúdos, socialização, ","suffix":"A integração de ferramentas de i"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%sendo projetado com estratégias pedagógicas que estimulam a autonomia no processo de ensino e aprendizagem.*
+>%%LINK%%[[#^jbk78946ifj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jbk78946ifj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:42:02.720Z","updated":"2023-04-20T20:42:02.720Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":25738,"end":25897},{"type":"TextQuoteSelector","exact":"Os  AVAs  possibilitam  novos  espaços  de ensinar,  aprender,  assim  como  novos  modelos  de  (re)organizar  a  prática pedagógica na sala de aula virtual. ","prefix":"dependente  de  onde  estejam.  ","suffix":" Esses  espaços  têm  como  prin"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Os  AVAs  possibilitam  novos  espaços  de ensinar,  aprender,  assim  como  novos  modelos  de  (re)organizar  a  prática pedagógica na sala de aula virtual.*
+>%%LINK%%[[#^h3aweo3ka5k|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^h3aweo3ka5k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:42:26.486Z","updated":"2023-04-20T20:42:26.486Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":25950,"end":26282},{"type":"TextQuoteSelector","exact":"acilidade  de comunicação  com  o  professor;  facilidade  de  acesso  a  apontamentos, exercícios, problemas e exames; consulta de material de estudo; possibilidade de acesso a conteúdo que não são facilmente acessíveis; permite o estudo a qualquer  tempo  e  qualquer  hora;  possibilita  uma  maior  participação  nas atividades.","prefix":" como  principais  vantagens:  f","suffix":" A  vantagem  que  um  AVA  pode"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%acilidade  de comunicação  com  o  professor;  facilidade  de  acesso  a  apontamentos, exercícios, problemas e exames; consulta de material de estudo; possibilidade de acesso a conteúdo que não são facilmente acessíveis; permite o estudo a qualquer  tempo  e  qualquer  hora;  possibilita  uma  maior  participação  nas atividades.*
+>%%LINK%%[[#^itm224xarl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^itm224xarl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:43:33.416Z","updated":"2023-04-20T20:43:33.416Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":26555,"end":26673},{"type":"TextQuoteSelector","exact":"São  softwares disponibilizados através da Internet que facilitam e promovem a aprendizagem (SILVEIRA e PEIXOTO, 2014)","prefix":"ecer  cursos  ou  disciplinas.  ","suffix":". Tais recursos permitem integra"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%São  softwares disponibilizados através da Internet que facilitam e promovem a aprendizagem (SILVEIRA e PEIXOTO, 2014)*
+>%%LINK%%[[#^zj0qkxfjc1|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zj0qkxfjc1
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:44:20.616Z","updated":"2023-04-20T20:44:20.616Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":26978,"end":27065},{"type":"TextQuoteSelector","exact":"Nesse sentido, os AVAs possuem a capacidade de agregar várias mídias no mesmo ambiente.","prefix":"ivo (SILVEIRA e PEIXOTO, 2014). ","suffix":" Esses  ambientes  virtuais  são"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Nesse sentido, os AVAs possuem a capacidade de agregar várias mídias no mesmo ambiente.*
+>%%LINK%%[[#^e065kychqz5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^e065kychqz5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:45:14.320Z","updated":"2023-04-20T20:45:14.320Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":27074,"end":27477},{"type":"TextQuoteSelector","exact":"mbientes  virtuais  são  caracterizados  por  uma  lógica  de organização  horizontal,  na  qual  estão  presentes  a  “multivocalidade”,  a  não linearidade, a afetividade e a negociação entre os sujeitos, considerando que cada  um  atua  de  acordo  com  suas  especificidades,  mas  em  diálogos colaborativos  e  consensos  plurais,  característicos  de  gestão  e  atuação partilhada (SANTOS, 2018)","prefix":"dias no mesmo ambiente. Esses  a","suffix":". A  tabela  1  apresenta  uma  "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%mbientes  virtuais  são  caracterizados  por  uma  lógica  de organização  horizontal,  na  qual  estão  presentes  a  “multivocalidade”,  a  não linearidade, a afetividade e a negociação entre os sujeitos, considerando que cada  um  atua  de  acordo  com  suas  especificidades,  mas  em  diálogos colaborativos  e  consensos  plurais,  característicos  de  gestão  e  atuação partilhada (SANTOS, 2018)*
+>%%LINK%%[[#^d8k9r8l47q|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d8k9r8l47q
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:51:31.563Z","updated":"2023-04-20T20:51:31.563Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":34444,"end":34726},{"type":"TextQuoteSelector","exact":"onforme Santos (2009, p. 5664): Os ambientes virtuais de aprendizagem envolvem não só um conjunto  de  interfaces  para  socialização  de  informação,  de conteúdos  de  ensino  e  aprendizagem,  mas  também,  e, sobretudo,  as  interfaces  de  comunicação  síncronas  e assíncronas","prefix":"r e escrever nesses ambientes. C","suffix":". Os  AVAs  são  interfaces  de "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%onforme Santos (2009, p. 5664): Os ambientes virtuais de aprendizagem envolvem não só um conjunto  de  interfaces  para  socialização  de  informação,  de conteúdos  de  ensino  e  aprendizagem,  mas  também,  e, sobretudo,  as  interfaces  de  comunicação  síncronas  e assíncronas*
+>%%LINK%%[[#^wqg853krpe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wqg853krpe
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:51:48.069Z","updated":"2023-04-20T20:51:48.069Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":34759,"end":34851},{"type":"TextQuoteSelector","exact":"interação  que  incluem  ferramentas  que favorecem  a  aprendizagem  coletiva  e  individua","prefix":" Os  AVAs  são  interfaces  de  ","suffix":"l.  E,  através  de  ferramentas"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%interação  que  incluem  ferramentas  que favorecem  a  aprendizagem  coletiva  e  individua*
+>%%LINK%%[[#^0m2olu63u41f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0m2olu63u41f
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:52:12.288Z","updated":"2023-04-20T20:52:12.288Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":34954,"end":35296},{"type":"TextQuoteSelector","exact":"  ambiente  virtual  deve  ser  organizado  pedagogicamente pelos gestores, de maneira que proporcione atitudes e ações de  participação  ativa  e  oportunidades  de  interação  entre  os alunos, para que possam cooperar com o grupo e se sentirem desafiados  a  desempenhar  seu  papel  na  construção  do conhecimento (FERREIRA, 2014, p. 55)","prefix":"nesses ambientes é construída. O","suffix":". Os AVAs precisam apresentar po"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%ambiente  virtual  deve  ser  organizado  pedagogicamente pelos gestores, de maneira que proporcione atitudes e ações de  participação  ativa  e  oportunidades  de  interação  entre  os alunos, para que possam cooperar com o grupo e se sentirem desafiados  a  desempenhar  seu  papel  na  construção  do conhecimento (FERREIRA, 2014, p. 55)*
+>%%LINK%%[[#^mc3bnjfr9l|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mc3bnjfr9l
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T20:53:00.790Z","updated":"2023-04-20T20:53:00.790Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":35533,"end":35846},{"type":"TextQuoteSelector","exact":"Lopes (2001) afirma que um AVA precisa conter : Ferramentas de navegação que auxiliarão a movimentação do aluno nas páginas do curso, bem como a visualização dos conteúdos; Ferramentas  de  interatividade  que  permitirão  aos  alunos  acessarem áreas como e-mail, fórum, lista de discussão, chats, dentre outros;","prefix":"lidade nesses ambientes. Assim, ","suffix":"  Kiri-kerê: Pesquisa em Ensino,"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Lopes (2001) afirma que um AVA precisa conter : Ferramentas de navegação que auxiliarão a movimentação do aluno nas páginas do curso, bem como a visualização dos conteúdos; Ferramentas  de  interatividade  que  permitirão  aos  alunos  acessarem áreas como e-mail, fórum, lista de discussão, chats, dentre outros;*
+>%%LINK%%[[#^o3e4qbq1and|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^o3e4qbq1and
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T21:05:25.733Z","updated":"2023-04-20T21:05:25.733Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":37008,"end":37245},{"type":"TextQuoteSelector","exact":"Nessa perspectiva, os AVAs propiciam diferentes formas de ensinar e aprender,  uma  vez  que  flexibilizam  os  percursos  e  trajetórias  de  estudos, podendo admitir, simultaneamente, diferentes modelos pedagógicos e perfis de alunos. ","prefix":"utor desenvolvida pelos alunos. ","suffix":" Destarte, é possível, nesse esp"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Nessa perspectiva, os AVAs propiciam diferentes formas de ensinar e aprender,  uma  vez  que  flexibilizam  os  percursos  e  trajetórias  de  estudos, podendo admitir, simultaneamente, diferentes modelos pedagógicos e perfis de alunos.*
+>%%LINK%%[[#^3clmhf1gl3i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3clmhf1gl3i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T21:06:13.391Z","updated":"2023-04-20T21:06:13.391Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":37655,"end":37826},{"type":"TextQuoteSelector","exact":"s  AVAs  são  compreendidos  como  um  ambiente  de  aprendizagem virtual  que  contribuem  no  processo  de  ensino-aprendizagem  na  educação presencial  e  a  distância","prefix":"iva nesses ambientes virtuais. O","suffix":".  São  ambientes  com  amplas  "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%s  AVAs  são  compreendidos  como  um  ambiente  de  aprendizagem virtual  que  contribuem  no  processo  de  ensino-aprendizagem  na  educação presencial  e  a  distância*
+>%%LINK%%[[#^o4cl5fl2n6f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^o4cl5fl2n6f
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-20T21:06:32.564Z","updated":"2023-04-20T21:06:32.564Z","document":{"title":"Microsoft Word - Revista, n.12","link":[{"href":"urn:x-pdf:757e9f924dac6d3a24448d1af2ce64ee"},{"href":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf"}],"documentFingerprint":"757e9f924dac6d3a24448d1af2ce64ee"},"uri":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","target":[{"source":"vault:/faculdade/Livros e Pdf/artigo-AVA-aula7.pdf","selector":[{"type":"TextPositionSelector","start":37978,"end":38076},{"type":"TextQuoteSelector","exact":"nvolvidos nesse ambiente possuem alto grau de interação, aprendizagem significativa e colaborativa","prefix":"nhecimento, em que os sujeitos e","suffix":". Referências ALVES,  Alessandra"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%nvolvidos nesse ambiente possuem alto grau de interação, aprendizagem significativa e colaborativa*
+>%%LINK%%[[#^d5c86agpuob|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d5c86agpuob
