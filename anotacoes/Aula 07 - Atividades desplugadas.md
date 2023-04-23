@@ -12,7 +12,7 @@ Links:: [[011-1-1 Pensamento Computacional]]
 
 ## Pontos principais
 
-- Atividades desplugadas
+- [[computação desplugada]]
 
 ### Anotações
 

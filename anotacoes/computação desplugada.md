@@ -1,0 +1,6 @@
+Tópico::
+Links:: [[Aula 07 - Atividades desplugadas]]
+
+---
+
+A ideia da computação desplugada (unplugged) é justamente a de que aspectos da computação podem ser ensinados sem o uso de computadores e o [[pensamento computacional]] pode fazer uso de atividades desplugadas. O pensamento computacional desplugado pode fazer uso de exemplos físicos e materiais comuns para simular o comportamento de máquinas e, deste modo, é utilizado para introduzir conceitos de computação a pessoas não técnicas e, principalmente para crianças, nos anos iniciais de sua formação. Claro que o pensamento computacional pode ser desenvolvido em atividades plugadas (plugged), mas é uma opção ou uma necessidade devido à escassez de recursos em países pobres. As aulas que adotam o pensamento computacional com atividades desplugadas podem ocorrer através da aprendizagem cinestésica, que é um estilo de aprendizagem em que o aluno aprende fazendo, colocando a mão na massa. Por exemplo: movimentar-se, usar cartões, recortar, dobrar, colar, desenhar, pintar, resolver enigmas e jogos) e com os estudantes trabalhando de forma colaborativa para aprender conceitos da computação.
