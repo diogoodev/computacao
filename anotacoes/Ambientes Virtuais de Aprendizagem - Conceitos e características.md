@@ -1,10 +1,10 @@
 Tópico::
-Links::
+Links:: [[Aula 07 - EaD-AVEA]] [[011-1-2 Introdução ao Ensino à Distância e Ambiente Virtual de Ensino-Aprendizagem]]
 
 ---
 
 %%
-annotation-target:: artigo-AVA-aula7.pdf
+annotation-target:: Ambientes Virtuais de Aprendizagem - Conceitos e características.pdf
 %%
 
 >%%
