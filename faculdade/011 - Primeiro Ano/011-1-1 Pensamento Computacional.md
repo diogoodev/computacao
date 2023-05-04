@@ -13,8 +13,4 @@ Links: [[011-1 Primeiro Semestre]]  [[011-1-0 Modulo I]]
 -  [[Aula 05 - O que são algoritmos?]]
 - [[Aula 06 - Pensamento computacional em aula - planejar é preciso]]
 - [[Aula 07 - Atividades desplugadas]]
-
-
-## Atividades
-
-## Provas
+- [[Aula 09 - Aplicar é divertido!]]
