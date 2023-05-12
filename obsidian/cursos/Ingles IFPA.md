@@ -16,5 +16,6 @@ tag: english
 - [[Lesson 2 - Talking about unreal situations]]
 - [[Lesson 7 - Something’s gotta give]]
 - [[Lesson 8 - Human Rights]]
+- [[Lesson 9 - Face to Face]]
 
 
