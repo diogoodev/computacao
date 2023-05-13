@@ -25,3 +25,20 @@ IDE alternativa: [https://visualg3.com.br/baixar-o-visualg3-0/](https://visualg
 ### Topicos Principais
 
 ### Resumo
+
+Problema 2: A media de idade de 3 pessoas
+
+Entrada: idade1 + idade2 + idade 3
+Processamento:  I1+ I2 + I3 / 3
+Saida:  a media
+
+#### Ciclo de desenvolvimento de um programa
+- Analisar o problema: Compreeder o que o seu programa deve fazer
+- Planejar a solução: Pensar em uma sequencia logica de passos para resolver o problema
+- Escolher ferramentas: Testar as ferramentas, entender como elas funcionam, quais editores, quais compiladores, quais os beneficios de cada uma.
+- Codificar: Enfetivamente codificar
+- Testar e corrigir erros:  Principais erros são o de sintaxe e semanticos, erros de logica e erros de ambiente
+- Produzir Documentação: explicando como o codigo funciona
+- Fluxogramas e Diagramas de Fluxo
+
+Poblema 3:  Escrever um fluxograma que leia dois numeros inseridos pelo usuario e mostre  resultado.
