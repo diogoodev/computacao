@@ -13,19 +13,19 @@ Links:: [[Ingles IFPA]]
 ## Integrated media & Getting on
 
 - [x] Vídeo - TV News
-- [ ] Vídeo - Interview with Ms. Earhart
-- [ ] Texto - Safe and sound
-- [ ] Áudio - Safe and sound
+- [x] Vídeo - Interview with Ms. Earhart
+- [x] Texto - Safe and sound
+- [x] Áudio - Safe and sound
 
 ## Evaluation activities
 
 #todo 
 - [x] Starting point
 - [x] So I listen to the radio
-- [ ] What if 9
-- [ ] Considering options
-- [ ] The right tone
-- [ ] Test -Interviewing Ms. Earhatt.
+- [x] What if 9
+- [x] Considering options
+- [x] The right tone
+- [x] Test -Interviewing Ms. Earhatt.
 
 ## TV media Vocabulary
 Links: #englishflashcards
