@@ -10,7 +10,7 @@ Links:: [[Modulo II]]  [[011-1 Primeiro Semestre]]
 ### Cronograma
 | SEMANA | INÍCIO | TÓPICO                                                                                                                                                    |
 |--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1ª     | 13/05  | Apresentação do Plano de Ensino (Ementa; Objetivos; Metodologia; Conteúdo Programático; Cronograma de Aula); Apresentação do docente; Educação na Constituição Federal de 1988; Lei de Diretrizes e Bases da Educação (LDB); Exercícios |
+| 1ª     | 13/05  | Apresentação do [[Plano da Disciplina - Práticas de Ensino de Computação]]; [[Educação na Constituição Federal de 1988]]; [[Lei de Diretrizes e Bases da Educação (LDB)]]; Exercícios |
 | 2ª     | 20/05  | Lei 13.005/2014: Plano Nacional de Educação (PNE) 2014-2024; Diretrizes, Metas e Indicadores do PNE; Mapa de Monitoramento da Execução do PNE; Sistema Nacional de Avaliação da Educação.                                                  |
 | 3ª     | 27/05  | Plano Nacional de Educação Digital (PNED); Eixos Estruturantes e Objetivos; Inclusão Digital; Educação Digital Escolar; Capacitação e Especialização Digital; Pesquisa e Desenvolvimento (P&D) em Tecnologias da Informação e Comunicação (TICs).                    |
 | 4ª     | 03/06  | Diretrizes Curriculares Nacional (DCNs): Educação Básica; Educação Infantil; Educação Profissional Técnica de Nível Médio; Educação do Campo; Educação Indígena; Educação Quilombola; Educação para Relações Étnico-racial; Educação Ambiental; Ensino Médio; |
