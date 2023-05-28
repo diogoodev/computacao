@@ -17,4 +17,5 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 
 ## Resumo
 
-- [[Teste de Mesa]]
+- [[Teste de Mesa]] esse teste é feito manualmente atualizando todas as variáveis envolvidas e analisando como elas se comportam.
+- [[Fundamentos de Lógica]]
