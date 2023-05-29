@@ -84,3 +84,23 @@ lógicas:
 |  V  |  F  |   | F |  V | V | V | F |  | V  |   | F | V | F | F  | 
 |  F  |  V  |   | V |  F | V | F | V |  | V  |   | V | F | V | V  |    
 |  F  |  F  |   | V |  F | V | V | F |  | V  |   | V | F | F | F  | 
+
+**Exercício 7:** Dadas as seguintes proposições:  
+- q = o dia está ensolarado.  
+- q = o mar está calmo.  
+- Eu vou andar de barco se: ( p ∧q ) v (¬ q)
+
+|  p  |  q  | ( |p  |v  | q |)  | v |(  |¬ | q | ) |
+|:---:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|  V  |  V  |   |  |   |  |  |  |  |   |   |  |  |  |    
+|  V  |  F  |   |  |   |  |  |  |  |   |   |  |  |   |    
+|  F  |  V  |   |  |   |  |  |  |  |   |   |  |  |   |       
+|  F  |  F  |   |  |   |  |  |  |  |   |   |  |  |   | 
+
+Dadas as seguintes proposições:  
+	- p = o dia está ensolarado.  
+	- q = terminei todas minhas obrigações.  
+
+- Sabendo que o dia está chuvoso e eu terminei minhas  
+obrigações. 
+Qual das expressões a seguir está correta?
