@@ -90,17 +90,40 @@ lógicas:
 - q = o mar está calmo.  
 - Eu vou andar de barco se: ( p ∧q ) v (¬ q)
 
-|  p  |  q  | ( |p  |v  | q |)  | v |(  |¬ | q | ) |
+|  p  |  q  | ( |p  | ∧ | q |)  | v |(  |¬ | q | ) |
 |:---:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|  V  |  V  |   |  |   |  |  |  |  |   |   |  |  |  |    
-|  V  |  F  |   |  |   |  |  |  |  |   |   |  |  |   |    
-|  F  |  V  |   |  |   |  |  |  |  |   |   |  |  |   |       
-|  F  |  F  |   |  |   |  |  |  |  |   |   |  |  |   | 
+|  V  |  V  |   | v | V  | v |  | V |  | f |  v |  |  |      
+|  V  |  F  |   | v | F  | f |  | V |  | v  |  f |  |  |    
+|  F  |  V  |   | f | F  | v |  | F |  | f |  v |  |  |        
+|  F  |  F  |   | f | F  | f |  | V |  | v |  f |  |  |  
 
 Dadas as seguintes proposições:  
-	- p = o dia está ensolarado.  
-	- q = terminei todas minhas obrigações.  
+	- p = o dia está ensolarado.   F
+	- q = terminei todas minhas obrigações.   V
 
 - Sabendo que o dia está chuvoso e eu terminei minhas  
 obrigações. 
+
 Qual das expressões a seguir está correta?
+
+( p ∧ q ) v (¬ q) = TRUE  
+( p ∧q ) v q = FALSE 
+
+**( p ∧¬ q) = FALSE** 
+
+|  p  |  q  | ( |p  | ∧ | ¬ | q |)  |  
+|:---:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|  V  |  V  |   | v | F |  f | v |  |     
+|  V  |  F  |   | v | V |   v | f |  |  
+|  F  |  V  |   | f | F |  f  | v |  |       
+|  F  |  F  |   | f | F |  v  | f |  | 
+
+( ¬ p ∧¬ q) = TRUE
+
+|  p  |  q  | ( | ¬ |p  | ∧ | ¬ | q |)  |  
+|:---:|:---:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|  V  |  V  |   | f | v |  F | f | v |     
+|  V  |  F  |   | f | v |  F | v | f |  
+|  F  |  V  |   | v | f |  F | f | v |       
+|  F  |  F  |   | v | f |  V | v | f | 
+
