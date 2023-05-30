@@ -15,7 +15,7 @@ Links:: [[Modulo II]]   [[011-1 Primeiro Semestre]]
 |--------|--------|--------------------------------------------|
 | 1ª     | 13/05  | [[Apresentação da Disciplina ]]                 |
 | 2ª     | 20/05  | [[Fluxogramas e Tabela Verdade]]                |
-| 3ª     | 27/05  | Expressões Lógicas na Programação           |
+| 3ª     | 27/05  | [[Expressões Lógicas na Programação]]           |
 | 4ª     | 03/06  | Introdução ao Portugol                      |
 | 5ª     | 10/06  | Desvio Condicional e Comandos de Repetição   |
 | 6ª     | 17/06  | Desvio Multi-Condicional                    |
