@@ -1,3 +1,4 @@
+
 Links: [[Aula 01 - Introdução]]
 
 # Algoritmo

@@ -2,14 +2,17 @@ Tópico::
 Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 
 ---
-## Textos
+> [!todo]
+>  - [ ] 📅 2023-05-30 Finalizar a aula 
+
+# Textos
 
 -  [[Slides - Aula 3]]
 - [[Apostila de Lógica]]
 
 
 
-## Desvios Multicondicionais em [[Fluxogramas]]
+# Desvios Multicondicionais em [[Fluxogramas]]
 
 **Exercício 01:**
 
@@ -55,9 +58,27 @@ variáveis mes, frio. Qual conectivo devemos colocar no fluxograma ?
 
 ![[Expressões Lógicas na Programação 2023-05-30 11.40.23.excalidraw]]
 
-## Introdução ao Portugol
+## Introdução ao [[Portugol]]
+![[Portugol#O que é Portugol?]]
+
+- [[Compilador interpretador|Compilador]]  –  ele  vai  auxiliar  a  verificar  se  a  sintaxe  e  a  semântica  do programa está correta;
+- Tipos de dados – toda variável tem um tipo, esses tipos podem ser numéricos (inteiro,  real), letra  (caracter), booleano (logico),  etc;
+- IDE – Ambiente Integrado  de Desenvolvimento;
+- Palavras reservadas - são palavras pré-definidas  para a linguagem  que não podem ser utilizadas  para outro propósito,  por exemplo
+- Exemplo: Algoritmo, Programa, Bloco, Procedimento, Inteiro, Real, Texto, Const, Var, Tipo, Início,  Imprima, Se, Então, Senão, Enquanto, Repita, Variando, Faça, Caso, Até, Vetor, Matriz,  Registro, Fim, Execute, Procedimento, Função, etc.
+
+- [[Operadores Relacionais]]:  
+!![[Operadores Relacionais]]
+
+- [[Operadores Aritméticos]]
+![[Operadores Aritméticos]]
+
+- [[Operadores Lógicos]]
+![[Operadores Lógicos]]
 
 
+## Considerações gerais
+- Veremos ao longo do curso muto sobre [[Algoritmos]] e sobre [[Programas]].
 
 ### Exercícios
 

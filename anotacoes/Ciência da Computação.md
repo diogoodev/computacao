@@ -14,7 +14,7 @@ sistemas computacionais**
 - Sistemas operacionais 
 - Ferramenta de desenvolvimento de programas 
 - Sistemas de Gerência de Banco de Dados 
-- Compiladores
+- [[Compilador interpretador|Compiladores]]
 
 **Desenvolve soluções computacionais para problemas de áreas como:**
  - Automação, medicina, biologia, robótica, música, educação e 

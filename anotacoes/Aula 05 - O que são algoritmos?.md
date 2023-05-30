@@ -17,8 +17,8 @@ Links:: [[011-1-1 Pensamento Computacional]]
 - [[Algoritmos]]
 
 ### Anotações
-- Descrever em passos uma atividade a ser executata, quando mais bem detalhada melhor.
-- Os passos/etapas são chamados de comandos/intruções e quando sitemastizamos de modo que façam sentido para a resolução do problema é o foco de um algoritimo.
+- Descrever em passos uma atividade a ser executada, quando mais bem detalhada melhor.
+- Os passos/etapas são chamados de comandos/instruções e quando sistematizamos de modo que façam sentido para a resolução do problema é o foco de um algorítimo.
 - [[Algoritmos]] é o pilar que de fato traz a programação para o pensamento computacional.
 - Na programação para que o computador/maquina entenda um algoritmo deve ser transcrito para código ([[Código fonte]]), por meio de uma [[Linguagem de programação]].
 -  Duas de se trabalhar algoritmo com crianças
