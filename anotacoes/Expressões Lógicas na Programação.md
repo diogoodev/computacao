@@ -9,8 +9,6 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 
 
 
-
-
 ## Desvios Multicondicionais em [[Fluxogramas]]
 
 **Exercício 01:**
@@ -58,6 +56,8 @@ variáveis mes, frio. Qual conectivo devemos colocar no fluxograma ?
 ![[Expressões Lógicas na Programação 2023-05-30 11.40.23.excalidraw]]
 
 ## Introdução ao Portugol
+
+
 
 ### Exercícios
 
