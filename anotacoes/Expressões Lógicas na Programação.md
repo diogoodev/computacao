@@ -3,12 +3,13 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 
 ---
 > [!todo]
->  - [ ] 📅 2023-05-30 Finalizar a aula 
+>  - [x] 📅 2023-05-30 Finalizar a aula
 
 # Textos
 
 -  [[Slides - Aula 3]]
 - [[Apostila de Lógica]]
+- [[Apostila de Portugol]]
 
 
 
