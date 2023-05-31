@@ -4,6 +4,7 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 ---
 > [!todo]
 >  - [x] 📅 2023-05-30 Finalizar a aula
+>  - [ ] 📅 2023-06-01 Tentar fazer os exercícios de Programação Sugeridos no material exercicios.pdf
 
 # Textos
 

@@ -12,5 +12,9 @@
 - [[Criar números decimais com JavaScript]]
 - [[Multiplicar dois decimais com JavaScript]]
 - [[Dividir um decimal por outro com JavaScript]]
+- [[Descobrir o resto em JavaScript]]
+- [[Atribuir de modo composto com adição aumentada]]
+- [[Atribuir de modo composto com subtração aumentada]]
+- [[Atribuir de modo composto com multiplicação aumentada]]
 
 
