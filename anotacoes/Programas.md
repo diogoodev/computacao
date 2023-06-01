@@ -1,5 +1,7 @@
 ---
 aliases: [Programa]
+
+---
 Tópico::
 Links:: [[Software]] [[Expressões Lógicas na Programação]]
 
