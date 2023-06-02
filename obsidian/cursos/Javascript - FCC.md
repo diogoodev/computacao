@@ -16,5 +16,9 @@
 - [[Atribuir de modo composto com adição aumentada]]
 - [[Atribuir de modo composto com subtração aumentada]]
 - [[Atribuir de modo composto com multiplicação aumentada]]
+- [[Atribuir de modo composto com divisão aumentada]]
+- [[Escapar aspas literais em strings]]
+- [[Cercar uma string com aspas simples]]]
+- [[Escapar sequências em strings]]
 
 
