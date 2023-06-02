@@ -20,5 +20,6 @@
 - [[Escapar aspas literais em strings]]
 - [[Cercar uma string com aspas simples]]]
 - [[Escapar sequências em strings]]
+- [[Concatenar strings com o operador mais]]
 
 
