@@ -1,6 +1,6 @@
-**Tópico**:: Javascript
+**Tópico**:: #JavaScript
 **Status**:: #em-progresso 
-**Url**:: freecodecamp.org
+**URL**:: www.freecodecamp.org
 
 --- 
 # Topics
@@ -21,5 +21,8 @@
 - [[Cercar uma string com aspas simples]]]
 - [[Escapar sequências em strings]]
 - [[Concatenar strings com o operador mais]]
+- [[Concatenar strings com o operador mais igual]]
+- [[Criar strings com variáveis]]
+- [[Adicionar variáveis para strings]]
 
 
