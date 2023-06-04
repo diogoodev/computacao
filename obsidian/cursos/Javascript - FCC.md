@@ -24,5 +24,9 @@
 - [[Concatenar strings com o operador mais igual]]
 - [[Criar strings com variáveis]]
 - [[Adicionar variáveis para strings]]
-
+- [[Encontrar o tamanho de uma string]]
+- [[Usar notação de colchetes para encontrar o primeiro caractere em uma string]]
+- [[Entender a imutabilidade das strings]]
+- [[Usar notação de colchetes para encontrar o enésimo caractere em uma string]]
+- [[Usar notação de colchetes para encontrar o último caractere em uma string]]
 
