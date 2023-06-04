@@ -29,4 +29,5 @@
 - [[Entender a imutabilidade das strings]]
 - [[Usar notação de colchetes para encontrar o enésimo caractere em uma string]]
 - [[Usar notação de colchetes para encontrar o último caractere em uma string]]
+- [[Usar notação de colchetes para descobrir o enésimo caractere antes do último em uma string]]
 
