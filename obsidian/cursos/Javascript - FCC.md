@@ -1,3 +1,6 @@
+---
+sticker: 1f918
+---
 **Tópico**:: #JavaScript  [[Linguagem de programação|Linguagens de Programação]]
 **Status**:: #em-progresso 
 **URL**:: www.freecodecamp.org
