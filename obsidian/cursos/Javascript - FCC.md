@@ -1,4 +1,4 @@
-**Tópico**:: #JavaScript
+**Tópico**:: #JavaScript  [[Linguagem de programação|Linguagens de Programação]]
 **Status**:: #em-progresso 
 **URL**:: www.freecodecamp.org
 
@@ -30,4 +30,7 @@
 - [[Usar notação de colchetes para encontrar o enésimo caractere em uma string]]
 - [[Usar notação de colchetes para encontrar o último caractere em uma string]]
 - [[Usar notação de colchetes para descobrir o enésimo caractere antes do último em uma string]]
+- [[Preencher espaços em branco]]
+- [[Armazenar múltiplos valores em uma variável usando arrays JavaScript]]
+- [[Aninhar um array em outro array]]
 

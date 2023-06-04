@@ -3,9 +3,12 @@ Links:: [[Javascript - FCC]]
 
 ---
 
-Você pode usar o mesmo princípio que nós acabamos de usar para recuperar o último caractere em uma string, para recuperar o enésimo caractere antes do último caractere.
+Podemos usar o mesmo princípio que usamos para recuperar o último caractere em uma string, para recuperar o enésimo caractere antes do último caractere.
 
-Por exemplo, você pode pegar o valor da antepenúltima letra da string `const firstName = "Augusta"` usando `firstName[firstName.length - 3]`
+Por exemplo, você pode pegar o valor da antepenúltima letra da string :
+`const firstName = "Augusta"`
+usando 
+`firstName[firstName.length - 3]`
 
 Exemplo:
 
@@ -19,3 +22,10 @@ const thirdToLastLetter = firstName[firstName.length - 3];
 ---
 
 Use notação de colchetes para descobrir o penúltimo caractere na string `lastName`.
+
+```js
+const lastName = "Moura"
+const thirdToLastLetter = lastName[lastName.lengh - 3]
+
+// thirdToLastLeeter ='u' 
+```
