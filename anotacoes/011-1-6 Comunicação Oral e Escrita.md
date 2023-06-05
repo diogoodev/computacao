@@ -14,7 +14,7 @@ Links:: [[Modulo II]]  [[011-1 Primeiro Semestre]]
 | SEMANA | INÍCIO | TÓPICO                              |
 |--------|--------|-------------------------------------|
 | 1ª     | 13/05  | [[A linguagem na aprendizagem]]          |
-| 2ª     | 20/05  | A conversação na oralidade           |
+| 2ª     | 20/05  | [[A conversação na oralidade]]           |
 | 3ª     | 27/05  | [[O texto acadêmico]]                   |
 | 4ª     | 03/06  | Linguagem e comunicação              |
 | 5ª     | 10/06  | Dos gêneros textuais                 |
