@@ -39,8 +39,9 @@ banner: https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.
 - [[Aninhar um array em outro array]]
 - [[Acessar array de dados com índices]]
 - [[Modificar dados de array com índices]]
-
-## Parte 2
 - [[Acessar arrays multidimensionais com índices]]
 - [[Manipular arrays com o método push]]
+
+## Parte 2
+
 
