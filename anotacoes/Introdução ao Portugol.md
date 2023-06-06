@@ -3,8 +3,8 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 
 ---
 > [!todo]
-> - [ ] ⏳ 2023-06-04 Refazer os exercicios da aula
-> - [ ] ⏳ 2023-06-05 Fazer atividade do forum
+> - [x] ⏳ 2023-06-04 Refazer os exercicios da aula
+> - [x] ⏳ 2023-06-05 Fazer atividade do forum
 
 # Textos
 - [[Slides - Licenciatura em Computação - Aula 4]]
