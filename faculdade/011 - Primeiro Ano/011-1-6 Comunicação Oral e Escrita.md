@@ -2,7 +2,7 @@
 tag: COE
 ---
 Tópico::
-Links:: [[Modulo II]]  [[011-1 Primeiro Semestre]]
+Links:: [[011-1 Primeiro Semestre]]
 
 ---
 ### Plano de Ensino
@@ -16,7 +16,7 @@ Links:: [[Modulo II]]  [[011-1 Primeiro Semestre]]
 | 1ª     | 13/05  | [[A linguagem na aprendizagem]]          |
 | 2ª     | 20/05  | [[A conversação na oralidade]]           |
 | 3ª     | 27/05  | [[O texto acadêmico]]                   |
-| 4ª     | 03/06  |               |
+| 4ª     | 03/06  |[[Linguagem e comunicação]]       |
 | 5ª     | 10/06  | Dos gêneros textuais                 |
 | 6ª     | 17/06  | A escrita dissertativa               |
 | 7ª     | 24/06  | A oralidade na comunicação           |

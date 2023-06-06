@@ -1,7 +1,7 @@
 ---
 tag: modulo-1, Ambientação
 ---
-Links: [[011-1 Primeiro Semestre]]  [[011-1-0 Modulo I]]
+Links: [[011-1 Primeiro Semestre]]  
 
 # Ambientação EAD
 ---

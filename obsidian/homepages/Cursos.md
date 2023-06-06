@@ -1,3 +1,6 @@
+---
+sticker: 1f4bb
+---
 <br/>
 
 ```button

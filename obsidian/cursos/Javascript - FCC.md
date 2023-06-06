@@ -1,5 +1,6 @@
 ---
 sticker: 1f918
+banner: https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
 ---
 **Tópico**:: #JavaScript  [[Linguagem de programação|Linguagens de Programação]]
 **Status**:: #em-progresso 
@@ -7,7 +8,7 @@ sticker: 1f918
 
 --- 
 # Topics
-
+## Parte 1
 - [[Multiplicar dois números com JavaScript]]
 - [[Dividir um número por outro com JavaScript]]
 - [[Incrementar um número com JavaScript]]
@@ -36,4 +37,10 @@ sticker: 1f918
 - [[Preencher espaços em branco]]
 - [[Armazenar múltiplos valores em uma variável usando arrays JavaScript]]
 - [[Aninhar um array em outro array]]
+- [[Acessar array de dados com índices]]
+- [[Modificar dados de array com índices]]
+
+## Parte 2
+- [[Acessar arrays multidimensionais com índices]]
+- [[Manipular arrays com o método push]]
 

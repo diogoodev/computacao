@@ -3,7 +3,7 @@
 ---
 tag: modulo-1, IntComputação
 ---
-Links: [[011-1 Primeiro Semestre]]  [[011-1-0 Modulo I]]
+Links: [[011-1 Primeiro Semestre]] 
 
 ## Plano de ensino
 

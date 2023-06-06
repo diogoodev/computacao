@@ -2,7 +2,7 @@
 ---
 tag: EAD&AVE, modulo-1
 ---
-Links: [[011-1 Primeiro Semestre]]  [[011-1-0 Modulo I]]
+Links: [[011-1 Primeiro Semestre]] 
 
 ## Plano de Ensino
 - [[Plano do Curso EAD]]
