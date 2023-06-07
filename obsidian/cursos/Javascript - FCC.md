@@ -41,6 +41,10 @@ banner: https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.
 - [[Modificar dados de array com índices]]
 - [[Acessar arrays multidimensionais com índices]]
 - [[Manipular arrays com o método push]]
+- [[Manipular arrays com o método pop]]
+- [[Manipular arrays com o método shift]]
+- [[Manipular arrays com o método unshift]]
+- [[Criar lista de compras]]
 
 ## Parte 2
 
