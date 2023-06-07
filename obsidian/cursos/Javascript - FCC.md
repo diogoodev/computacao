@@ -47,5 +47,7 @@ banner: https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.
 - [[Criar lista de compras]]
 
 ## Parte 2
+- [[Escrever JavaScript reutilizável com funções]]
+- 
 
 
