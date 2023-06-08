@@ -5,5 +5,6 @@
 --- 
 
 - [[Algoritmos e Lógica de Programação]]
+- [[ Python para Calouros]]
 
 
