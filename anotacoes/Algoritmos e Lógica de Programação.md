@@ -21,9 +21,9 @@ Links:: [[Web Full-Stack trendsIT]]
 | Dia 8 | Lógica de Programação | Aula 09 | [[Operadores Logicos (atividade)]] |
 | Dia 9 | Lógica de Programação | Aula 10 | [[Fluxograma (exemplo)]] |
 | Dia 10 | Lógica de Programação | Aula 11 | [[Seleção Múltipla (Caso-Escolha)]]|
-| Dia 11 | Lógica de Programação | Aula 12 | Exercício 2 (Reajuste Salarial) |
-| Dia 12 | Lógica de Programação | Aula 13 | Estrutura de Repetição (ParaFaça) |
-| Dia 13 | Lógica de Programação | Aula 14 | Estrutura de Repetição (EnquantoFaca / RepitaAte) |
-| Dia 14 | Lógica de Programação | Aula 15 | Vetores |
+| Dia 11 | Lógica de Programação | Aula 12 | [[Exercício 2 (Reajuste Salarial)]] |
+| Dia 12 | Lógica de Programação | Aula 13 | [[Estrutura de Repetição (ParaFaça)]] |
+| Dia 13 | Lógica de Programação | Aula 14 | [[Estrutura de Repetição (EnquantoFaca - RepitaAte)]] |
+| Dia 14 | Lógica de Programação | Aula 15 | [[Vetores]]|
 | Dia 15 | Lógica de Programação | Aula 16 | Matrizes |
 | Dia 16 | Lógica de Programação | Aula 17 | Procedimentos e Funções [Final] |

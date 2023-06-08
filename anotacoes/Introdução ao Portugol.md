@@ -10,7 +10,7 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 - [[Slides - Licenciatura em Computação - Aula 4]]
 
 ## Revisando
-![[Portugol]]
+!![[Portugol]]
 
 ## Como é Executado um Programa em Portugol?
 Todo programa em Portugol é executado de forma sequencial;  
