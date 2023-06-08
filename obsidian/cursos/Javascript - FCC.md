@@ -48,6 +48,7 @@ banner: https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.
 
 ## Parte 2
 - [[Escrever JavaScript reutilizável com funções]]
-- 
-
-
+- [[Passar valores para funções com argumentos]]
+- [[Retornar um valor de uma função com return]]
+- [[Conhecer o escopo global e funções]]
+- [[Conhecer o escopo local e funções]

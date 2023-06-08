@@ -1,3 +1,8 @@
+Tópico::
+Links:: https://dev.to/1cadumagalhaes/tudo-que-voce-precisa-saber-pra-usar-linux-4e50#quando-eu-deveria-usar-linux
+
+---
+
 # Tudo que você precisa saber pra usar Linux
 
 [#linux](https://dev.to/t/linux)[#beginners](https://dev.to/t/beginners)[#tutorial](https://dev.to/t/tutorial)[#ubuntu](https://dev.to/t/ubuntu)
