@@ -9,3 +9,7 @@ tag: JavaScript
 - [[Diferenciar escopo global e local em funções]]
 - [[Entender o valor undefined retornado de uma função]]
 - [[Atribuir com o valor retornado]]
+- [[Fila - Ficar na linha]]
+- [[Entender valores booleanos]]
+- [[Usar lógica condicional com instruções if]]
+- [[Comparar com o operador de igualdade]]
