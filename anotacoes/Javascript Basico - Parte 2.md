@@ -1,0 +1,11 @@
+---
+tag: JavaScript
+---
+- [[Escrever JavaScript reutilizável com funções]]
+- [[Passar valores para funções com argumentos]]
+- [[Retornar um valor de uma função com return]]
+- [[Conhecer o escopo global e funções]]
+- [[Conhecer o escopo local e funções]]
+- [[Diferenciar escopo global e local em funções]]
+- [[Entender o valor undefined retornado de uma função]]
+- [[Atribuir com o valor retornado]]
