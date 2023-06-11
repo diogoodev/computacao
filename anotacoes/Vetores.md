@@ -1,5 +1,5 @@
 Tópico::
-Links::[[Algoritmos e Lógica de Programação]]
+Links::[[Algoritmos e Lógica de Programação]] [[011-1-7 Fundamentos de Lógica de Programação]]
 
 ---
 

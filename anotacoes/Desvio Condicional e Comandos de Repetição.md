@@ -6,10 +6,11 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 
 - [[Livro sobre Programação em Portugol]]
 - [GitHub do Lucas Dev RJ](https://github.com/LucasDevRJ/logica_de_programacao_com_portugol) - Muitos exemplos de código em Portugol
+- [[Tabela ASCII]]
 
 ## Slides
 
-- 
+- [[Slides - Licenciatura em Computação - Aula 5]]
 
 ## Códigos
 
@@ -19,13 +20,17 @@ Links:: [[011-1-7 Fundamentos de Lógica de Programação]]
 - [EscopoDeVariaveis](https://chat.openai.com/EscopoDeVariaveis)
 - [UmaLetraPorLinha](https://chat.openai.com/UmaLetraPorLinha)
 - [EncontrarMaisVelhoDuranteLeitura](https://chat.openai.com/EncontrarMaisVelhoDuranteLeitura)
-- [TABELA ASCII](https://chat.openai.com/TABELA-ASCII)
-- [exercicios-Aula5](https://chat.openai.com/exercicios-Aula5)
+- [[Exercicios - Aula 5]]
 
 ## Escopo de Variáveis
 
-- [EscopoDeVariaveis](https://chat.openai.com/EscopoDeVariaveis)
+- [[Escopo de Variáveis]]
 
+## Cadeias e Vetores
+### Cadeias
+-
+### Vetores
+- [[Vetores]]
 ## Checklist Semanal 05 (11 a 18/06)
 >[!todo]
 > - [ ] Leitura do Livro sobre Programação em Portugol
