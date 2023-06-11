@@ -13,3 +13,5 @@ tag: JavaScript
 - [[Entender valores booleanos]]
 - [[Usar lógica condicional com instruções if]]
 - [[Comparar com o operador de igualdade]]
+- [[Comparar com o operador de igualdade estrita]]
+- [[Praticar a comparação de diferentes valores]]
