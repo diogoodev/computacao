@@ -17,3 +17,7 @@ tag: JavaScript
 - [[Praticar a comparação de diferentes valores]]
 - [[Comparar com o operador de desigualdade]]
 - [[Comparar com o operador de desigualdade estrita]]
+- [[Comparar com o operador maior que]]
+- [[Comparar com o operador maior ou igual]]
+- [[Comparar com o operador menor que]]
+- [[Comparar com o operador menor ou igual]]

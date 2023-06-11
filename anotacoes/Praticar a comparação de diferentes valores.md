@@ -2,7 +2,8 @@ Tópico:: #JavaScript
 Links:: [[Javascript - FCC]]
 
 ---
-Nos últimos dois desafios, aprendemos sobre o *operador de igualdade `(==)` e o operador de igualdade estrita `(===)`* . Vamos fazer uma breve revisão e praticar usando esses operadores mais uma vez.
+
+Nos últimos dois desafios, aprendemos sobre o operador de igualdade `(==)` e o operador de igualdade estrita `(===)`. Vamos fazer uma breve revisão e praticar usando esses operadores mais uma vez.
 
 Se os valores sendo comparados não são do mesmo tipo, o operador de igualdade fará a conversão de tipo e, então, avaliará os valores. No entanto, o operador de igualdade estrita vai comparar ambos os tipos de dados e os valores, sem converter de um tipo para outro.
 
@@ -22,14 +23,3 @@ typeof '3'
 ---
 
 A função `compareEquality` no editor compara dois valores usando o operador de igualdade. Modifique a função para que ela retorne a string `Equal` apenas quando os valores forem estritamente iguais.
-
-```js
-function compareEquality (val, val2){
-if (val === val2){
-return "Equal"
-}
-return "Not Equal"
-}
-
-compareEquality(2, "2"); // retorna false
-```
