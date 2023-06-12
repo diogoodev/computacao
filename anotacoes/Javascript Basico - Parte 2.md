@@ -21,3 +21,5 @@ tag: JavaScript
 - [[Comparar com o operador maior ou igual]]
 - [[Comparar com o operador menor que]]
 - [[Comparar com o operador menor ou igual]]
+- [[Comparar com o operador lógico AND]]
+- [[Comparar com o operador lógico OR]]
