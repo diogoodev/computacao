@@ -96,5 +96,19 @@ Caso haja também **mudanças da finalidade** para o tratamento de dados pessoa
 
 Ou, ainda, quando o tratamento de dados pessoais for condição para o fornecimento de produto ou de serviço ou para o exercício de direito da organização, o titular deverá ser informado com destaque sobre esse fato e sobre os meios pelos quais o titular poderá exercer os seus direitos.
 
-#### Correção de dados
+## Correção de dados
+
+Após consultar seus dados, você poderá alterá-los se identificar **informações incompletas, incorretas ou desatualizadas**.
+
+Essa possibilidade permite que você **atualize** seu endereço de e-mail ou residencial com o objetivo, por exemplo, de receber corretamente a fatura ou boleto para o pagamento de suas obrigações.
+
+Isso evita que você tenha problemas, caso não receba esses documentos, como ter seu nome negativado nos órgãos de controle ao crédito, por exemplo.
+## Portabilidade de dados
+
+O direito à portabilidade assegura ao titular a possibilidade de transferir seus dados pessoais para outra organização, de forma análoga aos casos de portabilidade de financiamento entre bancos.
+
+Essa alternativa também pode ocorrer para transferências de dados entre escolas, no caso de mudança do aluno de instituição, por exemplo.
+
+>[!Important]
+>A portabilidade dos dados para outro fornecedor de serviço ou produto deve ser realizada mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial.
 
