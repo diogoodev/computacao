@@ -58,7 +58,7 @@ Considere um diferencial se a organização lhe fornecer explicações sobre o t
 
 No entanto, no caso de cumprimento de obrigação legal, interesses legítimos de uso dos nossos dados por parte do Governo ou exercício regular de direito da organização, não poderemos nos opor a esse tratamento.
 
-Clique nos itens a seguir e veja alguns exemplos.
+A seguir e veja alguns exemplos.
 
 > [!Compra de Automóvel]
 > Na compra de um carro, é necessário que a organização compartilhe os dados do proprietário com os órgãos governamentais.
@@ -70,5 +70,31 @@ Para todos os outros casos, o tratamento das informações pode ser questionado 
 
 A organização deve sempre oferecer a opção do não consentimento. Clareza e transparência no tratamento dos dados pessoais são características que selecionam e fortalecem o posicionamento das boas organizações no mercado.
 
-Portanto, ter a liberdade de permitir ou não o tratamento dos seus dados, de acordo com cada caso, é mais um direito garantido pela LGPD.
+Portanto, *ter a liberdade de permitir ou não o tratamento dos seus dados, de acordo com cada caso,* é mais um direito garantido pela LGPD.
+
+## Revogação do consentimento
+No caso de o tratamento lhe parecer incompatível com o que foi apresentado ou a organização não esclarecer o uso que fará de seus dados, a LGPD lhe permite a **revogação**, que é o arrependimento do consentimento emitido inicialmente.
+
+Imagine que Fernando consentiu que a concessionária fizesse o armazenamento de seus dados pessoais, mas não consentiu que ela os compartilhasse com outras organizações, como empresas de seguro, por exemplo. Caso a empresa faça esse compartilhamento, ela estará violando o acordo que firmou com o titular das informações.
+
+Nesse caso, Fernando tem o direito de solicitar à concessionária a revogação do consentimento para armazenar seus dados.
+Conforme já mencionado, esse arrependimento na revogação total ou parcial do tratamento só é possível se a lei permitir, pois alguns dados fazem parte das estratégias de gestão do Governo, além de poderem ser utilizados por entidades privadas para cumprimento de obrigação legal ou exercício regular de direito, independentemente da vontade do titular.
+
+## Acesso aos dados
+De acordo com o artigo 9º da LGPD, a organização d*eve promover ao titular o acesso facilitado às informações sobre o tratamento de seus dados*, disponibilizando-os de forma clara para o atendimento do princípio do livre acesso, contendo os seguintes itens:
+
+- Finalidade específica do tratamento.
+- Forma e duração do tratamento, observados os segredos comercial e industrial.
+- Informações de contato do controlador de dados, ou seja, a quem competem as decisões referentes ao tratamento de dados pessoais. Você estudará o papel do controlador mais à frente, na unidade 4.
+- Informações sobre o uso compartilhado de dados pelo controlador e a finalidade.
+- Responsabilidades dos agentes que realizarão o tratamento.
+- Menção explícita aos direitos do titular.    
+
+Além disso, a LGPD determina que, nos casos em que o consentimento é requerido, ele será **considerado nulo**, caso as informações fornecidas ao titular tenham **conteúdo enganoso ou abusivo ou não tenham sido apresentadas previamente**.
+
+Caso haja também **mudanças da finalidade** para o tratamento de dados pessoais **não compatíveis com o consentimento original**, a organização deverá **informar previamente o titular** sobre tais mudanças, podendo o titular **revogar o consentimento** se discordar das alterações.
+
+Ou, ainda, quando o tratamento de dados pessoais for condição para o fornecimento de produto ou de serviço ou para o exercício de direito da organização, o titular deverá ser informado com destaque sobre esse fato e sobre os meios pelos quais o titular poderá exercer os seus direitos.
+
+#### Correção de dados
 
