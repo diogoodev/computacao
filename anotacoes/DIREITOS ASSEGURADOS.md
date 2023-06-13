@@ -2,6 +2,12 @@ Tópico:: #LGPD
 Links::
 
 ---
+# O que Veremos?
+
+Reconhecer os direitos garantidos pela LGPD é um passo muito importante para a proteção da nossa privacidade. Mas exercer esse direito vai além da proteção e permite a regulamentação do mercado, forçando a adequação das organizações e a transformação da realidade digital ou não.
+
+Além disso, esse reconhecimento nos traz uma outra perspectiva que será apresentada em [[DEVERES E RESPONSABILIDADES]]. Ao entendermos os nossos direitos como cidadãos, deveremos estar atentos às nossas responsabilidades enquanto partes de uma organização, na proteção da privacidade das outras pessoas a quem, de alguma forma, atendemos na oferta de nossos produtos e/ou serviços.
+
 # Para começar
 
 Na unidade anterior, você viu as diferenças entre dados e informações, como seus dados circulam pela internet, a diferença entre dados pessoais e pessoais sensíveis e o que é a LGPD nesse contexto da privacidade.
@@ -112,3 +118,105 @@ Essa alternativa também pode ocorrer para transferências de dados entre escola
 >[!Important]
 >A portabilidade dos dados para outro fornecedor de serviço ou produto deve ser realizada mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial.
 
+## Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade
+
+De acordo com o inciso XI do artigo 5º da LGPD, anonimização trata-se de:
+
+_“utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo”_.
+### Anonimização
+O procedimento de anonimização elimina a possibilidade de identificação do indivíduo a partir do tratamento de seus dados, observadas determinadas condições e circunstâncias previstas na LGPD.
+
+### Pseudonimização
+Este é outro procedimento que deve ser aplicado neste contexto. A LGPD traz o seguinte conceito para pseudonimização:
+
+_“(...) tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro”_.
+
+Em outras palavras, é como se as informações fossem embaralhadas e armazenadas em locais diferentes e, para serem utilizadas ou serem identificadas, devem ser reunidas e reorganizadas.
+
+No exemplo do quebra-cabeça, apresentado na unidade anterior, a imagem é desconstruída e as peças são armazenadas em locais diferentes.
+
+### Por que anonimizar ou pseudonimizar?
+
+Essas técnicas visam zelar pela privacidade do indivíduo, assegurando igualdade entre todos, evitando discriminação ou que, no caso de acessos indevidos aos nossos dados, eles possam ser identificados e utilizados.
+
+Portanto, essas duas alternativas são nossos direitos e principalmente deveres da organização, perante os dados do titular.
+
+## Eliminação de dados pessoais tratados
+Caso não deseje mais que seus dados sejam tratados pela organização, você tem o direito de solicitar a eliminação deles de sua base de dados.
+No entanto, a organização deve manter os dados se tiver de cumprir determinado requisito legal ou por exercício regular de um direito.
+
+É fundamental que a eliminação das informações seja realizada conforme documentos e procedimentos internos da organização, atendendo às boas práticas de segurança da informação.
+
+> [!attention]
+Amassar e jogar no lixo papel contendo dados pessoais de alunos de uma escola ou de clientes, por exemplo, é totalmente contrário à proteção da privacidade. Esse descarte irresponsável está previsto na LGPD e tipifica violação passível de severas sanções.
+
+## Compartilhamento de dados
+Caso a organização tenha que compartilhar seus dados com outras entidades públicas ou privadas, deverá informá-lo sobre este trâmite.
+
+Comunicar esse compartilhamento faz parte do processo de tratamento que deve ser informado de modo claro e transparente ao titular dos dados e pode estar também relacionado ao seu consentimento, nos casos em que a Lei autoriza.
+
+A transferência de dados entre entidades privadas pode ocorrer no navegador de nossos computadores, por meio do uso dos _cookies_. Trata-se de arquivos que são gerados por sites que visitamos e que são salvos em nosso computador, por meio do navegador, a fim de nos identificar, personalizar a página de acordo com nosso perfil etc. Neles são armazenados fragmentos de dados que podem ser lidos ou transferidos a outros sites sem nosso consentimento, até agora.
+
+> [!attention]
+Fique sempre atento às autorizações que são requeridas em sites e aplicativos.
+
+## Revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais
+De acordo com o artigo 20, a LGPD determina que:
+
+_“O titular dos dados tem direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.”_
+
+Isso significa que a LGPD busca minimizar os riscos desencadeados pelo crescente uso de algoritmos e inteligência artificial (IA) para realização de julgamentos e avaliações das pessoas.
+
+Por exemplo, uma mídia social consegue analisar as preferências de um usuário por meio de postagens, curtidas, localização, serviços acessados, histórico etc. Dessa forma, ela vai disponibilizar a esse usuário determinadas informações, restringir outras, atraí-lo para o consumo de determinado produto por meio da personalização de anúncios ou até mesmo manipular uma opinião.
+
+Portanto, para garantir o mínimo de transparência dessas ações, a *LGPD determina que a organização controladora dos dados deverá fornecer, sempre que solicitadas pelo titular, informações claras e adequadas a respeito dos critérios e dos procedimentos utilizados para a decisão automatizada, observados os segredos comercial e industrial.*
+
+# Violação de direitos
+
+Se algum dos direitos que a Lei assegura for descumprido total ou parcialmente, ou se você estiver desconfortável com alguma situação, você deve contatar, primeiramente, a organização que violou seus direitos.
+
+Caso a reclamação não seja solucionada no prazo estabelecido em regulamentação, você pode, então, acionar a **Autoridade Nacional de Proteção de Dados (ANPD)** para a defesa dos seus direitos.
+
+De acordo com o artigo 55-J, inciso V, compete à ANPD:
+
+_“apreciar petições de titular contra controlador após comprovada pelo titular a apresentação de reclamação ao controlador não solucionada no prazo estabelecido em regulamentação;_
+
+# Proteção de dados de crianças e adolescentes
+
+O direito à privacidade é fundamental para a manutenção das relações sociais e proteger esse direito dos mais vulneráveis, como as crianças e os adolescentes, é responsabilidade de todos.
+
+O Estatuto da Criança e do Adolescente (ECA) considera que crianças são as pessoas até 12 anos de idade incompletos, e adolescentes são aquelas entre 12 e 18 anos de idade.
+
+E, para estes casos, a LGPD define que o tratamento deverá ser realizado em seu melhor interesse e com o consentimento específico, no caso de crianças, de pelo menos um dos pais ou responsável legal.
+
+A importância desse cuidado é assegurar que os dados pessoais dos menores estejam amparados por todas as leis aplicáveis neste país.
+
+Aqui, cabe observar a importância de se atentar para o **acesso a jogos e aplicativos**, que solicitam informações para o cadastro e acesso a serviços.
+
+Como tutor e responsável, é muito importante estar atento ao fornecimento desses dados, pois muitas dessas organizações que atuam no mercado digital não possuem sede operacional no Brasil e, como o acesso a domínios estrangeiros é irrestrito, elas podem não estar adequadas à nossa legislação.
+
+Assim, o direito sobre o tratamento das informações das crianças e adolescentes pode ficar comprometido pela restrição de alcance da lei nacional.
+
+# Infração aos direitos garantidos pela LGPD
+
+A LGPD visa **proteger os direitos do cidadão em relação à privacidade dos seus dados**. As situações mencionadas a seguir podem tipificar infração a esses direitos, a partir de sua vigência.
+
+## Contatos suspeitos
+
+Ao receber um telefonema, mensagem ou qualquer outro tipo de contato por parte de algumas organizações, devemos questionar:
+
+Esse tipo de situação mostra como nossos dados e informações circulavam pela rede entre as organizações de forma irrestrita, até agora.
+
+Você já deve ter ouvido falar no termo **SPAM**, sigla de _Sending and Posting Advertisement in Mass_, que em português significa **Envio e Postagem de Publicidade em Massa**.
+
+O envio dessas publicidades ocorre desrespeitando a privacidade da pessoa e pode causar prejuízos e muito incômodo.
+
+## Requisição de dados
+
+Outra situação é nos depararmos com a requisição de dados pessoais, como nome, telefone, endereço, sem termos finalizado a contratação ou compra de determinado serviço. Neste caso, também devemos questionar:
+
+É como se, ao entrar em um restaurante, você fosse impedido de escolher o prato sem antes fornecer alguns de seus dados pessoais.
+
+A partir da vigência da Lei, os casos de não cumprimento da Legislação serão muito comuns, pois o processo de adequação exige que a organização reveja suas estratégias de mercado, processos e procedimentos internos.
+
+É fundamental que os profissionais das organizações estejam alinhados às políticas, aos códigos de ética e treinados para que atuem na defesa dos interesses da pessoa, evitando a abertura de prerrogativas nos interesses pessoais.
