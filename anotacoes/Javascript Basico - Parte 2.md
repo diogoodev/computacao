@@ -23,3 +23,8 @@ tag: JavaScript
 - [[Comparar com o operador menor ou igual]]
 - [[Comparar com o operador lógico AND]]
 - [[Comparar com o operador lógico OR]]
+- [[Introduzir instruções else]]
+- [[Introduzir instruções else if]]
+- [[Usar a ordem lógica em instruções if else]]
+- [[Encadear instruções if else]]
+- [[Jogar golfe de código]]
