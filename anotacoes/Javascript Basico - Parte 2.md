@@ -28,3 +28,4 @@ tag: JavaScript
 - [[Usar a ordem lógica em instruções if else]]
 - [[Encadear instruções if else]]
 - [[Jogar golfe de código]]
+- [[Selecionar entre várias opções com instruções switch]]
