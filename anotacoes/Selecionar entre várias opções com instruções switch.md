@@ -17,7 +17,7 @@ switch (fruit) {
 }
 ```
 
-Valores `case` são testados com o operador de igualdade estrita (`===`). O `break` diz ao JavaScript parar interromper a execução das instruções. Se o `break` for omitido, a próxima instrução case será executada.
+Valores `case` são testados com o operador de igualdade estrita `(===)`. O `break` diz ao JavaScript parar interromper a execução das instruções. Se o `break` for omitido, a próxima instrução case será executada.
 
 ---
 
