@@ -29,3 +29,6 @@ tag: JavaScript
 - [[Encadear instruções if else]]
 - [[Jogar golfe de código]]
 - [[Selecionar entre várias opções com instruções switch]]
+- [[Adicionar uma opção padrão em instruções switch]]
+- [[Lidar com várias opções idênticas em instruções switch]]
+- [[Substituir cadeias de if else por switch]]

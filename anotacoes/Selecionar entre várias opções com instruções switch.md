@@ -2,7 +2,7 @@ Tópico:: #JavaScript
 Links:: [[Javascript - FCC]]
 
 ---
-Se você precisar corresponder um valor a muitas opções, pode usar uma instrução switch. Uma instrução `switch` compara o valor a uma instrução de caso, que define os diversos valores possíveis. Quaisquer instruções JavaScript válidas podem ser executadas dentro de um bloco de caso (case) e serão executadas a partir do primeiro valor de `case` correspondente até que um `break` seja encontrado.
+Se você precisar corresponder um valor a muitas opções, pode usar uma instrução switch. Uma instrução `switch` *compara o valor a uma instrução de caso, que define os diversos valores possíveis*. Quaisquer instruções JavaScript válidas podem ser executadas dentro de um bloco de caso (case) e serão executadas a partir do primeiro valor de `case` correspondente até que um `break` seja encontrado.
 
 Aqui está um exemplo de uma instrução `switch`:
 
@@ -26,3 +26,29 @@ Escreva uma instrução switch que testa `val` e define `answer` para as seguint
 `2` - `beta`  
 `3` - `gamma`  
 `4` - `delta`
+
+```js
+function testSwitch(val){
+	let answer = "";
+
+	switch(val){
+		case 1:
+		answer = "alpha"
+		break;
+		case 2:
+		answer = "beta"
+		break;
+		case 3:
+		answer = "gamma"
+		break;
+		case 4:
+		answer = "delta"
+		break;
+	}
+	return answer;
+}
+
+testSwitch(2);
+
+
+```
