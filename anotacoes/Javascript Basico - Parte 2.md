@@ -32,3 +32,4 @@ tag: JavaScript
 - [[Adicionar uma opção padrão em instruções switch]]
 - [[Lidar com várias opções idênticas em instruções switch]]
 - [[Substituir cadeias de if else por switch]]
+- [[Retornar valores booleanos das funções]]
