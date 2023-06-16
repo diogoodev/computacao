@@ -33,3 +33,5 @@ tag: JavaScript
 - [[Lidar com várias opções idênticas em instruções switch]]
 - [[Substituir cadeias de if else por switch]]
 - [[Retornar valores booleanos das funções]]
+- [[Retornar o padrão inicial para funções]]
+- [[Contar cartas]]

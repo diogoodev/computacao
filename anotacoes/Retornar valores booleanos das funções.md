@@ -17,7 +17,7 @@ function isEqual(a, b) {
 }
 ```
 
-Mas há uma forma melhor de fazer isso. Já que `===` retorna `true` ou `false`, podemos retornar o resultado da comparação:
+Mas há uma forma melhor de fazer isso. Já que `(===)` retorna `true` ou `false`, podemos *retornar o resultado da comparação*:
 
 ```js
 function isEqual(a, b) {
@@ -28,3 +28,37 @@ function isEqual(a, b) {
 ---
 
 Corrija a função `isLess` para remover as instruções `if/else`.
+
+```js 
+function isLess(a, b) {
+
+// Altere apenas o código abaixo desta linha
+
+if (a < b) {
+
+return true;
+
+} else {
+
+return false;
+
+}
+
+// Altere apenas o código acima desta linha
+
+}
+
+  
+
+isLess(10, 15);
+```
+
+Modo corrigido
+
+```js 
+function isLess(a, b){
+return a < b;
+}
+
+isLess(10, 15)
+```
