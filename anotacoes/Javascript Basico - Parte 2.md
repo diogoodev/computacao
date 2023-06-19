@@ -35,3 +35,7 @@ tag: JavaScript
 - [[Retornar valores booleanos das funções]]
 - [[Retornar o padrão inicial para funções]]
 - [[Contar cartas]]
+- [[Criar objetos JavaScript]]
+- [[Acessar propriedades de objetos com notação de pontos]]
+- [[Acessar propriedades de objeto com notação de colchetes]]
+- [[Acessar propriedades de objetos com variáveis]]
