@@ -43,3 +43,7 @@ tag: JavaScript
 - [[Adicionar novas propriedades para um objeto JavaScript]]
 - [[Excluir propriedades de um objeto JavaScript]]
 - [[Usar objetos para pesquisas]]
+- [[Testar objetos por propriedades]]
+- [[Manipular objetos complexos]]
+- [[Acessar objetos aninhados]]
+- [[Acessar arrays aninhados]]
