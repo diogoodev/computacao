@@ -37,6 +37,32 @@ Após a última linha mostrada acima, `ourDog` se parece com:
 
 Exclua a propriedade `tails` de `myDog`. Você pode usar tanto notação de ponto quanto notação de colchetes.
 
-```js 
 
+
+```js 
+const myDog ={
+"name": "Melissa"
+"legs": 4,
+"tails": 1,
+"friends": ["Diogo", "Jenifer"]
+};
+
+delete myDog["tails"];
+```
+
+outra forma 
+
+```js
+const myDog = {
+
+"name": "Happy Coder",
+"legs": 4,
+"tails": 1,
+"friends": ["freeCodeCamp Campers"],
+"bark": "woof"
+
+};
+  
+
+delete myDog.tails;
 ```

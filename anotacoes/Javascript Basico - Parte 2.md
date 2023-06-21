@@ -42,3 +42,4 @@ tag: JavaScript
 - [[Atualizar propriedades do objeto]]
 - [[Adicionar novas propriedades para um objeto JavaScript]]
 - [[Excluir propriedades de um objeto JavaScript]]
+- [[Usar objetos para pesquisas]]
