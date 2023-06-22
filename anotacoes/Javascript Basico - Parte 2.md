@@ -47,3 +47,4 @@ tag: JavaScript
 - [[Manipular objetos complexos]]
 - [[Acessar objetos aninhados]]
 - [[Acessar arrays aninhados]]
+- [[Exibir uma coleção de discos]]
