@@ -62,7 +62,6 @@ if(recordCollection.prop ==  recordCollection.tracks && recordCollection.value !
  recordCollection[id]["tracks"]=[]
  }
  
- }
 return records;
 
 }
