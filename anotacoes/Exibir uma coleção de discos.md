@@ -1,4 +1,4 @@
-ntTópico:: #JavaScript 
+Tópico:: #JavaScript 
 Links:: [[Javascript - FCC]]
 
 ---
