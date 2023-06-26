@@ -48,4 +48,7 @@ tag: JavaScript
 - [[Acessar objetos aninhados]]
 - [[Acessar arrays aninhados]]
 - [[Exibir uma coleção de discos]]
-- 
+-  [[Iterar com laços while em JavaScript]]
+- [[Iterar com laços for em JavaScript]]
+- [[Iterar números ímpares com um laço for]]
+- [[Contar para trás com um laço for]]

@@ -1,4 +1,4 @@
-
+[[10-dicas-para-se-tornar-ninja-em-javascript]]
 <br/>
 
 ```button
