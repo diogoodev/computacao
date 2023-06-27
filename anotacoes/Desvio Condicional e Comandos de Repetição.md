@@ -38,18 +38,27 @@ Obs. 2: Os textos deverão ser representados sempre entre apóstrofes/aspas  par
 Obs. 3: Toda cadeia sempre tem a posição do primeiro caractere indexada com  a índice zero.
 Obs. 4: o operador **+** também pode ser utilizado com operador de concatenação de cadeias
 ### Vetores
+- Mas afinal, o que é um vetor?  
+	Um vetor pode ser visto como uma variável que possui diversas posições, e com isso armazena diversos valores, porém todos do mesmo tipo
+- Um vetor sempre tem sua posição inicial indexada por zero;  
+- Um vetor do tipo cadeia que vai armazenar os nomes de 10 pessoas pode ser declarado da seguinte forma:  
+
+`cadeia pessoas[10]`
+
+Mais sobre vetores
 - [[Vetores]]
+-
 ## Checklist Semanal 05 (11 a 18/06)
 >[!todo]
 > - [ ] Leitura do Livro sobre Programação em Portugol
 >  - [ ] Explorar os exemplos de código do GitHub do Lucas Dev RJ
 >  - [ ] Revisar os slides da Aula 5
->  - [ ] Implementar o código SubstituirVogais
+>  - [x] Implementar o código SubstituirVogais
 >  - [ ] Implementar o código BuscaMaiorElementoVetor
 >  - [ ] Resolver o exercício Exercicio2-ManipulandoCadeias
->  - [ ] Estudar o conceito de Escopo de Variáveis
->  - [ ] Implementar o código UmaLetraPorLinha
+>  - [x] Estudar o conceito de Escopo de Variáveis
+>  - [x] Implementar o código UmaLetraPorLinha
 >  - [ ] Implementar o código EncontrarMaisVelhoDuranteLeitura
 >  - [ ] Consultar a TABELA ASCII
 >  - [ ] Realizar os exercícios propostos na aula 5
->  - [ ] Participar do Fórum Semanal 05 (Vencimento: domingo, 18 jun 2023, 22:59)
+>  - [x] Participar do Fórum Semanal 05 (Vencimento: domingo, 18 jun 2023, 22:59)
