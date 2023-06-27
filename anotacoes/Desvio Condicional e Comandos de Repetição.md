@@ -54,11 +54,11 @@ Mais sobre vetores
 >  - [ ] Explorar os exemplos de código do GitHub do Lucas Dev RJ
 >  - [ ] Revisar os slides da Aula 5
 >  - [x] Implementar o código SubstituirVogais
->  - [ ] Implementar o código BuscaMaiorElementoVetor
+>  - [x] Implementar o código BuscaMaiorElementoVetor
 >  - [ ] Resolver o exercício Exercicio2-ManipulandoCadeias
 >  - [x] Estudar o conceito de Escopo de Variáveis
 >  - [x] Implementar o código UmaLetraPorLinha
->  - [ ] Implementar o código EncontrarMaisVelhoDuranteLeitura
+>  - [x] Implementar o código EncontrarMaisVelhoDuranteLeitura
 >  - [ ] Consultar a TABELA ASCII
 >  - [ ] Realizar os exercícios propostos na aula 5
 >  - [x] Participar do Fórum Semanal 05 (Vencimento: domingo, 18 jun 2023, 22:59)
