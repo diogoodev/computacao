@@ -20,6 +20,6 @@ Links:: [[011-1 Primeiro Semestre]]
 | 5ª     | 10/06  | [[Desvio Condicional e Comandos de Repetição]]  |
 | 6ª     | 17/06  | Desvio Multi-Condicional                    |
 | 7ª     | 24/06  | Estruturas Complexas: Strings e Vetores     |
-| 8ª     | 01/07  | Estruturas Complexas: Matrizes              |
+| 8ª     | 01/07  | [[Estruturas Complexas - Matrizes]]              |
 | 9ª     | 08/07  | Modularização e Funções                     |
 | 10ª    | 15/07  | Exame final                                 |
