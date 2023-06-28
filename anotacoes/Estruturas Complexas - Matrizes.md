@@ -39,12 +39,12 @@ que indicam a posição de cada elemento;
 
 Matriz 3x3, primeiro índice designa a linha, o segundo a coluna.
 
-`Acessando o último elemento da matriz Mat[2][2]`
-| colunas `[0]`| colunas `[1]` | colunas `[2]  `                     |
-|--------|--------|--------------------------------------------|
-|linhas  `[0] ` | linhas  | linhas                 |
-| linhas `[1]`   | linhas   | linhas            |
-| linhas `[2]`  | linhas   |`Mat[2][2] `   |
+| colunas `[0]` | colunas `[1]` | colunas `[2]`      |
+|--------------|--------------|--------------------|
+| linhas `[0]` | linhas       | linhas             |
+| linhas `[1]` | linhas       | linhas             |
+| linhas `[2]` | linhas       | `Mat[2][2]`        |
+
 ## Exercícios
 1) Manipulação de Matrizes
 

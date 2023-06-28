@@ -53,3 +53,4 @@ tag: JavaScript
 - [[Iterar números ímpares com um laço for]]
 - [[Contar para trás com um laço for]]
 - [[Iterar através de um array com laço for]]
+- [[Aninhar laços for]]
