@@ -21,3 +21,19 @@ Isso exibe no console cada subelemento dentro de `arr`, um de cada vez. Note qu
 ---
 
 Modifique a função `multiplyAll` para que retorne o produto de todos os números nos sub-arrays de `arr`.
+
+```js
+function multiplyAll(arr) {
+let product = 1;
+
+// Altere apenas o código abaixo desta linha
+for(let i = 0; i < arr.length; i++){
+	for(let j = 0; j < arr[i].length; j++){
+	product = product * arr[i][j]
+	}
+}
+// Altere apenas o código acima desta linha
+return product;
+}
+multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+```

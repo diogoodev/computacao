@@ -54,3 +54,5 @@ tag: JavaScript
 - [[Contar para trás com um laço for]]
 - [[Iterar através de um array com laço for]]
 - [[Aninhar laços for]]
+- [[Iterar com laços do...while em JavaScript]]
+- [[Substituir laços usando recursão]]
