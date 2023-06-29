@@ -78,10 +78,10 @@ function fatorial(n){
       ```js
 function fibonacci(n){
 
-	if(n <= 1){
-		return 0; 0 + 1 + 1
+	if(n <= 0){
+		return 0; 
 	}else{ 
-		//som n = n - 1 + n - 2 2  1
+	
 						2      2  
 		return fibonacci(n-1) + n-2  
 	}
