@@ -16,3 +16,24 @@ Se `name` *não corresponder a nenhum dos contato*s, então retorne a string `No
 Se `prop` *não corresponder a nenhuma propriedade válida* de um contato encontrado para coincidir com `name` então retorne a string `No such property`.
 
 ---
+
+```js
+for(let i = 0; i <= contacts.length; i++ ){
+
+if(name == contacts[i].firstName){
+
+return prop
+
+}else if(name !== contacts[i].firstName){
+
+return "No such contact"
+
+}else{
+
+return "No such property"
+
+  
+
+}
+```
+
