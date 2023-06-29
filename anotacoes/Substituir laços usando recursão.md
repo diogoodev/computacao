@@ -78,14 +78,17 @@ function fatorial(n){
       ```js
 function fibonacci(n){
 
-	if(n <= 0){
-		return 0; 
-	}else{ 
-	
-						2      2  
-		return fibonacci(n-1) + n-2  
+	if(n === 0) {
+		return 0;
+  }else if(n === 1) {
+		return 1;
+	}else{   							
+
+		return fibonacci(n-1) + fibonacci(n-2)
 	}
 }
+
+fibonacci(5)
 ```
 4. Contagem Regressiva: Escreva uma função recursiva que recebe um número inteiro positivo `n` e imprime os números de `n` até 1 em ordem decrescente.
       ```js
