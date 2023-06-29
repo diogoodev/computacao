@@ -56,3 +56,4 @@ tag: JavaScript
 - [[Aninhar laços for]]
 - [[Iterar com laços do...while em JavaScript]]
 - [[Substituir laços usando recursão]]
+- [[Pesquisar perfil]]
