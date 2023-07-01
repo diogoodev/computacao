@@ -20,20 +20,12 @@ Se `prop` *não corresponder a nenhuma propriedade válida* de um contato encont
 ```js
 for(let i = 0; i <= contacts.length; i++ ){
 
-if(name == contacts[i].firstName){
+	if((name === contacts[i]["firstName"] ) && (contacts[i].hasOwnProperty(prop))){
 
-return prop
+		return contacts[i][prop]
 
-}else if(name !== contacts[i].firstName){
+	}
 
-return "No such contact"
-
-}else{
-
-return "No such property"
-
-  
-
-}
+  }
 ```
 
