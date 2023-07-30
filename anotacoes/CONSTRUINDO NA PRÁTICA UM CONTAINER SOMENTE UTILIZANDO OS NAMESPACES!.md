@@ -14,7 +14,7 @@ debootstrap stable /mnt/debian/ http://deb.debian.org/debian
 Agora usando os namespaces do linux para realizar o isolamento do sistema e a montagem do container.
 
 ```
-unshare --mount --pid --net --uts --ipc --user --map-root-user --fork /mnt/debian/ /bin/bash/
+unshare --mount --pid --net --uts --ipc --user --map-root-user --fork chroot /mnt/debian/ /bin/bash/
 ```
 
 Esse comando é utilizado no Linux para criar um novo espaço de nomes (namespace) isolado para os recursos especificados. Isso permite executar um processo ou um conjunto de processos em um ambiente isolado do restante do sistema. Vamos entender cada opção:
@@ -37,3 +37,14 @@ Esse comando é utilizado no Linux para criar um novo espaço de nomes (namespac
 
     --fork: Após criar o novo namespace, esse parâmetro faz com que o processo corrente se bifurque (fork) em um novo processo. O processo pai continua sua execução normal, enquanto o processo filho assume o novo namespace isolado.
 
+A parte chroot /mnt/debian/ /bin/bash/ é um comando que executa um novo processo dentro do ambiente raiz de um sistema de arquivos isolado (chroot jail). O comando chroot é usado para alterar o diretório raiz para um diretório diferente do diretório raiz do sistema, criando assim um ambiente isolado para a execução de comandos.
+
+Vamos entender cada parte do comando:
+
+    chroot: É o comando em si, que é utilizado para alterar o diretório raiz do sistema para o diretório especificado.
+
+    /mnt/debian/: É o diretório que será definido como o novo diretório raiz. Todos os caminhos dentro do ambiente chroot serão resolvidos relativamente a este diretório. Portanto, qualquer referência a / dentro do ambiente chroot se refere a /mnt/debian/, não ao diretório raiz do sistema principal.
+
+    /bin/bash/: É o caminho para o executável que será executado dentro do ambiente chroot. Neste caso, o shell Bash (bash) está sendo executado. Isso permitirá que o usuário interaja com o ambiente chroot através do shell Bash, como se estivesse executando o Bash em um sistema autônomo com /mnt/debian/ como seu diretório raiz.
+
+O uso do chroot é comum para criar ambientes isolados e seguros para executar aplicativos ou realizar tarefas de manutenção em sistemas Linux. Isso é especialmente útil para testar programas em um ambiente controlado ou para reparar sistemas quando o sistema principal não está funcionando corretamente.
