@@ -5,4 +5,6 @@
 --- 
 
 - [[O modelo de rede TCP IP de cinco camadas]]
+- [[O modelo de rede OSI]]
+- [[Visão Geral dos Dispositivos de Rede]]
 
