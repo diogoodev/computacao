@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f4dc
+---
 Links: [[000 UFT]]
 
 # Primeiro Ano
