@@ -7,5 +7,5 @@ Links: [[000 UFT]] [[011 - Primeiro Ano]]
 Link para as matérias do primeiro semestre do curso:
 
 ## Modulo I
-
+[[Programação de Computadores - PC]]
 ## Modulo II
