@@ -9,4 +9,5 @@ Link para as matérias do primeiro semestre do curso:
 ## Modulo I
 [[Programação de Computadores - PC]]
 [[ Fundamentos Filosóficos e Sociológicos da Educação - FFSE]]
+[[Matemática Elementar e Discreta - MED]]
 ## Modulo II
