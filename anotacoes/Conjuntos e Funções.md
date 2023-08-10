@@ -95,3 +95,58 @@ d) B ⊅ A F
 e) 15 ∉ B F
 
 ## Operações entre conjuntos
+União, interseção, diferença, produto cartesiano e a diferença simétrica.
+
+### União
+Dados dois conjuntos A e B, chamamos de união de A e B e denotamos por A ∪ B, ao conjunto C que possui todos os elementos que pertencem a A e todos os elementos que pertencem a B e nenhum outro elemento que não esteja em um dos conjuntos
+
+**A ∪ B = C = {x | x ∈ A ou x ∈ B}.**
+
+![[Conjuntos e Funções 2023-08-10 06.51.57.excalidraw]]
+Representações de união no diagrama de Venn
+Dados os conjuntos A = {0, 2 ,4, 6, 8} e B = {1, 2, 3, 4}, temos que:
+A ∪ B={0, 1, 2, 3, 4, 6, 8}
+
+**Propriedades:** se A, B e C são conjuntos quaisquer, então valem as seguintes
+propriedades da união:
+• A ∪ A = A (idempotente)
+• A ∪ ∅ = A (elemento neutro)
+• A ∪ B = B ∪ A (comutativa)
+• (A ∪ B) ∪ C = A ∪ (B ∪ C) (associativa).
+
+### Interseção
+ Dados dois conjuntos A e B, chamamos de interseção de A e B ao conjunto C que possui todos os elementos que pertencem a A e pertencem a B e nenhum outro elemento que não esteja nos dois conjuntos. Representamos a interseção dos conjuntos A ∩ B por:
+ 
+**A ∩ B = C = {x | x ∈ A e x ∈ B}.**
+
+![[Conjuntos e Funções 2023-08-10 07.09.58.excalidraw]]
+
+Dados os conjuntos A = {0, 2, 4, 6, 8} e B = {1, 2, 3, 4}, temos que:
+A ∩ B={2, 4}.
+
+**Propriedades:** se A, B e C são conjuntos quaisquer, então valem as seguintes propriedades da interseção:
+• A ∩ A = A (idempotente)
+• A ∩ ∅ = ∅ (elemento neutro)
+• A ∩ B = B ∩ A (comutativa)
+• (A ∩ B) ∩ C = A ∩ (B ∩ C) (associativa)
+
+Além dessas propriedades podemos, verificar que o número de elementos da união de dois conjuntos A e B é dada por:
+
+n(A ∪ B) = n(A) + n(B) − n(A ∩ B).
+
+Para três conjuntos A,B e C, temos que:
+n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A ∩ B) − n(A ∩ C) − n(B ∩ C) + n(A ∩ B ∩ C)
+
+Dos onze jogadores do time de futebol ABC, oito tem pelo menos vinte cinco anos e sete tem no máximo 30 anos. Se A = {x | x é jogador do ABC que tem pelo menos 25 anos} e B = {x | x é jogador do ABC e tem no máximo 30 anos}, podemos determinar o número de jogadores que possuem idade entre 25 e 30 anos. Como A ∪ B= {x | x é jogador do time de futebol ABC}, assim:
+
+	n(A ∪ B) = n(A) + n(B) − n(A ∩ B)
+	11 = 8 + 7 − n(A ∩ B)
+	n(A ∩ B) = 4.
+
+- **União (A ∪ B):** Contém todos os elementos que pertencem a A, a B ou a ambos.
+- **Interseção (A ∩ B):** Contém apenas os elementos que pertencem tanto a A quanto a B.
+
+### Diferença
+Considere dois conjuntos A e B, chamamos de diferença entre A e B ao conjunto C dos elementos de A que não pertencem a B. Denotamos por A − B a diferença entre os conjuntos A e B e representamos:
+
+A − B= C ={x | x ∈ A e x ∉ B}
