@@ -150,3 +150,5 @@ Dos onze jogadores do time de futebol ABC, oito tem pelo menos vinte cinco anos 
 Considere dois conjuntos A e B, chamamos de diferença entre A e B ao conjunto C dos elementos de A que não pertencem a B. Denotamos por A − B a diferença entre os conjuntos A e B e representamos:
 
 A − B= C ={x | x ∈ A e x ∉ B}
+
+![[Conjuntos e Funções 2023-08-10 07.52.04.excalidraw]]
