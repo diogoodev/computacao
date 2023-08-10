@@ -152,3 +152,19 @@ Considere dois conjuntos A e B, chamamos de diferença entre A e B ao conjunto C
 A − B= C ={x | x ∈ A e x ∉ B}
 
 ![[Conjuntos e Funções 2023-08-10 07.52.04.excalidraw]]
+A diferença não é comutativa e nem associativa
+
+Sejam dados os conjuntos A = {−3, −2, −1, 0, 1, 2} e B = {0, 1,2, 3, 4, 5}. Determinamos os conjuntos A − B e B - A e verificamos que nãopossuem elementos comuns.
+
+A − B  = {−3, −2, −1} 
+B - A  = { 3, 4, 5}
+(A − B) ∩ (B − A) = ∅
+
+###  Diferença simétrica
+A diferença simétrica entre dois conjuntos A e B, denotada por A ∆ B, é o conjunto C que possui todos os elementos de A que não pertencem a B e todos os elementos de B que não pertencem a A, e nenhum outro elemento, assim: 
+
+A ∆ B = C= {x | (x ∈ A e x ∉ B) ou (x ∉ A e x ∈ B)} = (A − B) ∪ (B − A)
+
+Podemos verificar facilmente que (A − B) ∪ (B − A)=(A ∪ B) − (A ∩ B).
+
+![[Conjuntos e Funções 2023-08-10 08.44.32.excalidraw]]
