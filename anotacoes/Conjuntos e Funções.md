@@ -136,7 +136,7 @@ n(A ∪ B) = n(A) + n(B) − n(A ∩ B).
 
 Para três conjuntos A,B e C, temos que:
 n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A ∩ B) − n(A ∩ C) − n(B ∩ C) + n(A ∩ B ∩ C)
-
+complementar
 Dos onze jogadores do time de futebol ABC, oito tem pelo menos vinte cinco anos e sete tem no máximo 30 anos. Se A = {x | x é jogador do ABC que tem pelo menos 25 anos} e B = {x | x é jogador do ABC e tem no máximo 30 anos}, podemos determinar o número de jogadores que possuem idade entre 25 e 30 anos. Como A ∪ B= {x | x é jogador do time de futebol ABC}, assim:
 
 	n(A ∪ B) = n(A) + n(B) − n(A ∩ B)
@@ -179,9 +179,8 @@ A ∆ B = C= {x | (x ∈ A e x ∉ B) ou (x ∉ A e x ∈ B)} = (A − B) ∪ (B
 • A ∆ A = ∅
 • A ∆ B = B ∆ A .
 
-Quando A e B são conjuntos com A ⊂ B, chamamos de complementar de A
-em relação a B ao conjunto formado pelos elementos de B que não perten-
-cem a A, isto é, a diferença B - A, denotado por CAB
+Quando A e B são conjuntos com A ⊂ B, chamamos de **complementar** de A
+em relação a B ao conjunto formado pelos elementos de B que não pertencem a A, isto é, a diferença B - A, denotado por CAB
 A e representado por
 C^Ab = {x | x ∉ A e x ∈ B} = B − A
 
