@@ -187,3 +187,70 @@ C^Ab = {x | x ∉ A e x ∈ B} = B − A
 Dados A = {1, 2, 3, 4} e B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} podemos
 determinar o complementar de A em relação a B
 C^AB = B − A = {5,6,7,8,9,10}
+
+### Produto Cartesiano
+Dados os conjuntos A e B, chamamos de produto cartesiano, e representamos por A x B, ao conjunto C formado por pares ordenados encontrados combinando cada um dos elementos do conjunto A com todos os elementos do conjunto B, nesta ordem, e nenhum outro elemento.
+
+A x B = C = {(x,y) | x ∈ A e y ∈ B}.
+
+Sejam A = {0, 1, 3, 5} e B = {2, 3}, determinamos A x B, B x A e B x B.
+
+A x B = {(0,1),(0,3),(1,2),(1,3)(3,2),(3,3),(5,2),(5,3)}
+B x A = {(2,0),(2,1),(2,3),(2,5),(3,0),(3,1),(3,3),(3,5)}
+B x B= {(2,2),(2,3),(3,2),(3,3)}
+
+Observamos que o produto cartesian**o não é comutativo**, ou seja A x B ≠ B ⨯ A. Podemos ainda determinar o número de elementos do produto que é:
+
+n(A⨯B) = n(A) ∙ n(B)
+
+Dados dois conjuntos A com 5 elementos e B com 4 elementos, o número de elementos de A⨯B é:
+
+n(A x B) = n(A) . n(B) = 5 . 4 = 20
+
+1. Dados A = {1, 2, 3, 4}, B = {2, 3, 6, 7, 8} e C = {3, 4, 5, 6}, determine o que se pede:
+a) A ∪ B = {1,2,3,4,6,7,8}
+
+b) A ∩ C = {1,2,5,6}
+
+c) A ∪ (B ∪ C)
+
+D = (B ∪ C) = {2,3,4,5,6,7,8}
+ A ∪ D = {1,2,3,4,5,6,7,8}
+ 
+d) A - (B ∪ C)
+D = (B ∪ C) = {2,3,4,5,6,7,8}
+ A - D = {1}
+e) A ∆ B = {1,4,6,7,8}
+
+f) A x B = {(1,2),(1,3),(1,6),(1,7)(1,8),(2,2),(2,3),(2,6),(2,7),(2,8),(3,2),(3,3)(3,6),(3,7),(3,8),(4,2),(4,3)(4,6),(4,7),(4,8)}
+
+2. Considere A = {2, 3, 5} e B = {1, 2, 3, 4, 5, 6}. Determine o número de elementos  de:
+a) A ∪ B = 6 elementos
+b) A x B  = 18 elementos
+
+3. Sejam A e B dois conjuntos distintos. Assinale a sentença verdadeira.
+a) A − B = B − A              F
+b) (A − B) ⊂ (A ∩ B)       F
+c) (A − B) ⊂ (A ∪ B)       V
+d) (A − B) ∪ (B − A) = A ∪ B.  F
+
+4. Dados os conjuntos A = {0, 1, 2, 3, 4, 5, 6, 7},B = {4, 5}, C = {1, 2} e D = {2, 3, 4}. Determine:
+
+(A − C)∩(B ∪ D) = {0,3,4,5,6,7} ∩ {2,3,4,5} = {3,4,5}
+
+5. Sejam A = {−2, −1, 0, 1, 2} e B = {0, 1, 2}. Sobre o produto cartesiano, é correto afirmar que:
+a) A x B possui 8 elementos   F
+b) A x B = B x A                          F
+c) A x A possui 25 elementos V
+d) B x B possui 15 elementos.  F
+
+6. Dados A, B e C conjuntos quaisquer, verifique se as seguintes propriedades envolvendo união e interseção são verdadeiras ou falsas:
+a) A ∪ (A ∩ B) = A    V
+b) A ∩ (A ∪ B) = A  V
+c) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) V
+d) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C).        F
+
+7. Considere que A x B = {(0, −2), (0, −1), (1, −2), (1, −1), (2, −2), (2, −1), (5, −2), (5,−1)}. Determine os conjuntos A e B.
+A = {0,1,2,5}
+B ={-2,-1}
+
