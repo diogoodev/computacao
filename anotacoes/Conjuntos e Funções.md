@@ -154,7 +154,7 @@ A − B= C ={x | x ∈ A e x ∉ B}
 ![[Conjuntos e Funções 2023-08-10 07.52.04.excalidraw]]
 A diferença não é comutativa e nem associativa
 
-Sejam dados os conjuntos A = {−3, −2, −1, 0, 1, 2} e B = {0, 1,2, 3, 4, 5}. Determinamos os conjuntos A − B e B - A e verificamos que nãopossuem elementos comuns.
+Sejam dados os conjuntos A = {−3, −2, −1, 0, 1, 2} e B = {0, 1,2, 3, 4, 5}. Determinamos os conjuntos A − B e B - A e verificamos que não possuem elementos comuns.
 
 A − B  = {−3, −2, −1} 
 B - A  = { 3, 4, 5}
@@ -168,3 +168,23 @@ A ∆ B = C= {x | (x ∈ A e x ∉ B) ou (x ∉ A e x ∈ B)} = (A − B) ∪ (B
 Podemos verificar facilmente que (A − B) ∪ (B − A)=(A ∪ B) − (A ∩ B).
 
 ![[Conjuntos e Funções 2023-08-10 08.44.32.excalidraw]]
+
+Considerando os conjuntos A = {1, 2, 3, 4, 5, 6} e B = {2, 3, 5, 7,11, 13}, determinamos a diferença simétrica entre A e B.
+
+A ∆ B = C= {x | (x ∈ A e x ∉ B) ou (x ∉ A e x ∈ B)} = (A − B) ∪ (B − A)
+ C= {1,4,6,7,11,13 } 
+ 
+**Propriedades:** Sejam A e B conjuntos quaisquer, valem as seguintes propriedades para a diferença simétrica:
+• A ∆ ∅ = A
+• A ∆ A = ∅
+• A ∆ B = B ∆ A .
+
+Quando A e B são conjuntos com A ⊂ B, chamamos de complementar de A
+em relação a B ao conjunto formado pelos elementos de B que não perten-
+cem a A, isto é, a diferença B - A, denotado por CAB
+A e representado por
+C^Ab = {x | x ∉ A e x ∈ B} = B − A
+
+Dados A = {1, 2, 3, 4} e B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} podemos
+determinar o complementar de A em relação a B
+C^AB = B − A = {5,6,7,8,9,10}
