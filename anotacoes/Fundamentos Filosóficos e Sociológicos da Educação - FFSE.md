@@ -14,7 +14,7 @@ Links::
 | SEMANA | INÍCIO   | TÓPICO                                              |
 |--------|----------|-----------------------------------------------------|
 | 1ª     | 05/08    | [[O papel da filosofia na educação]]                   |
-| 2ª     | 12/08    | A história da filosofia e a história da humanidade |
+| 2ª     | 12/08    | [[A história da filosofia e a história da humanidade]] |
 | 3ª     | 19/08    | A relação professor e aluno e a reflexão crítica   |
 | 4ª     | 26/08    | Questões sociais e a educação                      |
 | 5ª     | 02/09    | Desigualdade social                                |
