@@ -254,3 +254,73 @@ d) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C).        F
 A = {0,1,2,5}
 B ={-2,-1}
 
+### Conjuntos Numéricos
+Conjunto dos números naturais, formado pelos números 0, 1, 2, 3, 4, … e representado pela letra *N.*
+N = {0, 1, 2, 3, 4, …}
+N* = {1, 2, 3, 4, …}.
+
+O conjunto dos números inteiros, representado por **Z,** é formado por todos os
+números naturais, acrescidos dos números negativos, portanto:
+Z = {…,−3, −2, −1, 0, 1, 2, 3, …}.
+
+Notamos que N é um subconjunto de Z, ou seja, **N ⊂ Z**
+
+O  conjunto dos números racionais, representado por Q, é formado por todos
+os números que podem ser escritos na forma de fração, desta forma:
+*Q = {x | x= a/b ,com a, b ∈ Z e b ≠ 0}*
+
+São exemplos de racionais todos os números naturais, inteiros, decimais exa-
+tos, decimais infinitos periódicos.
+Exemplos: 1/4 = 0,25 e -5/9 = −0,555 …
+
+Chamaremos de conjunto dos números reais e representaremos por R, ao con-
+junto que possui os números racionais e os decimais infinitos não periódicos.
+
+O conjunto formado por todos os números que não podem ser escritos na forma de fração, ou seja, decimais infinitos e não periódicos, será chamado de conjunto dos números irracionais e representado por I.
+
+São exemplos de números irracionais: √2, √3, π = 3,14159265....
+
+Notamos que a união do conjunto dos números racionais com o conjuntos dos irracionais resulta no conjuntos dos números reais, ou seja,
+R = Q ∪ I.
+
+o conjunto dos números complexos, representado por C, formado por números da forma:Q = {x | x= a/b ,com a, b ∈ Z e b ≠ 0}Q = {x | x= a/b ,com a, b ∈ Z e b ≠ Q = {x | x= a/b ,com a, b ∈ Z e b ≠ 0}Q = {x | x= a/b ,com a, b ∈ Z e b ≠ 0}0}
+c = a + bi, com a, b ∈ R e i é um número complexo que corresponde a √−1.
+
+Este conjunto possui as seguintes operações de soma e produto:
+( i ) (a + bi) + (c + di) = (a + c) + (b + d)i
+( ii ) (a + bi) ∙ (c + di) = (a ∙ c - b ∙ d) + (b ∙ c + a ∙ d)i.
+
+Atividades
+Assinale V para as sentenças verdadeiras e F para as sentenças falsas:
+(V ) Z ⊂ R
+( V) √2 ∈ R
+(F ) I ⊃ Q
+( F) - 3/5 ∉ Q
+
+2. Verifique se as equação do segundo grau a seguir possuem raízes reais
+ou complexas:
+a) x2 − 5 ∙ x + 6 = 0
+b) 2x2 + 8 = 0
+c) x2 − 4 ∙ x + 5 = 0
+
+### Resumo
+Dados dois conjuntos A e B, apresentamos as operações entre conjuntos:
+União: A ∪ B = {x | x ∈ A ou x ∈ B}
+Interseção: A ∩ B = {x | x ∈ A e x ∈ B}
+Diferença: A - B = {x | x ∈ A e x ∉ B}
+Diferença simétrica: A ∆ B = (A ∪ B) - (A ∩ B)
+Complementar: CBA = B - A = {x | x ∉ A e x ∈ B}, com A ⊂ B.
+Definimos o produto cartesiano dos conjuntos A e B como o conjunto
+dos pares ordenados encontrados combinando cada um dos elementos do
+conjunto A com todos os elementos do conjunto B.
+	A ⨯ B = {(x,y) | x ∈ A e y ∈ B}
+	
+Verificamos que o número de elementos da união de dois A e B conjuntos é dada por:
+	n(A ∪ B) = n(A) + n(B) - n(A ∩ B)
+	
+Para três conjuntos A, B e C, temos que:
+	n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A ∩ B)- n(A ∩ C)- n(B ∩ C) + n(A ∩ B ∩ C)
+	
+Observamos que o produto cartesiano não é comutativo, ou seja A ⨯ B ≠ B ⨯ A
+e ainda determinamos o número de elementos do produto que é:
+n(A ⨯ B) = n(A) ∙ n(B)
