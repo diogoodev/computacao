@@ -19,4 +19,3 @@ Links:: [[Programação de Computadores - PC]]
 
 - Avaliação Semanal 02 (12 a 20/08)
   
-  
