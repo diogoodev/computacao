@@ -9,7 +9,7 @@ Links:: [[011-2 Segundo Semestre]]
 | SEMANA | INÍCIO   | TÓPICO                                      |
 |--------|----------|---------------------------------------------|
 | 1ª     | 05/08    | [[Desenvolvimento de Algoritmos em Linguagem de Programação ]]|
-| 2ª     | 12/08    | Constantes e Variáveis                      |
+| 2ª     | 12/08    | [[Constantes e Variáveis]]                      |
 | 3ª     | 19/08    | Estruturas de Controle Sequencial e Condicional |
 | 4ª     | 26/08    | Estruturas de Repetição                     |
 | 5ª     | 02/09    | Variáveis Compostas Homogêneas              |
