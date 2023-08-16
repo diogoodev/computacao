@@ -24,6 +24,23 @@ Links::
 **-  Periodo helênico**, a preocupação em romper barreiras e culturas entre os diferentes.
 - A Felicidade só é possível ao conviver entre os diferentes.
 ### Comentario sobre o artigo de Barry Stroud
+
+É interessante notar como é difícil definir o que é filosofar, e a busca do autor para responder essa questão torna a leitura ótima, pois passa por descartar o que não é filosofia. Logo no início do texto, quando o autor diz que apreciamos música, a qual é som e silêncio, já dá mostras do caminho a ser tomado no artigo, e para mim pessoalmente torna o texto intrigante, à medida que começo a debater comigo mesmo. Então, pensar é filosofia, mas logo o autor refuta meu pensamento quando diz que pintar é marcar uma superfície com cor. Portanto, no mesmo nível de verdade banal, podemos dizer que filosofia é pensamento.
+
+Assim segue o autor e eu em um embate em que, quando acho que agora sei o que é filosofia, o autor mostra que não é bem assim. O debate acerca do local propício para filosofar atualmente, no caso a academia, também me chamou a atenção. Confesso que muito pelo fato de não ter parado para pensar onde se produz filosofia hoje em dia. E entender que a academia é o melhor ambiente para a produção de filosofia é interessante quando comparamos com o passado e como ela era produzida.
+
+Uma das melhores partes do texto é quando o autor define o que não é filosofia para ele: "Quando digo que a filosofia, como a concebo, não é um credo, nem a busca por um credo, ou por um conjunto de doutrinas – tampouco um credo ou uma ideologia social, política, nem um credo religioso, nem um conjunto de atitudes religiosas – também quero dizer que não é a busca pelo que pode ser chamado de credo filosófico, nem um conjunto filosófico de teses ou de doutrinas."
+
+
+Para mim, é especial porque basicamente diz que para fazermos filosofia, devemos ser “ateus” filosoficamente falando. Ora, se não devemos buscar um credo, seja ele religioso ou filosófico, então partimos da descrença. Nesse lugar saem as ideias, atiça a curiosidade e a instigação sem limites. Outra parte ótima do texto é quando ele conclui que o fato de não haver resultados é porque em filosofia: "Assim que há resultados reais, não conta mais como filosofia." Nesse caso, uma crítica a como a filosofia é tratada, quer dizer então que quando um filósofo chega a uma teoria, posteriormente comprovada pelas ciências, ela deixa de ser filosofia e se torna física, química ou matemática. Como o autor diz, a profissionalização e cientificismo que muita gente agora tem de como proceder em filosofia é infeliz.
+
+A partir daqui, a discussão no texto caminha para a crítica de por que isso é prejudicial para a filosofia, tendo em vista a falta de questionamentos das teorias filosóficas por conta do interesse de estar associado a alguma linha de pensamento filosófico. Posso estar sendo repetitivo no meu comentário, mas isso, para mim, é intrigante, pois não havia pensado ainda em como estamos no cenário da filosofia hoje em dia.
+
+
+Na parte final do texto, caminhando para a conclusão, outra definição muito interessante é apontada: "A frase que Wittgenstein escreve, em alemão, é: 'Der Philosoph behandelt eine Frage; wie eine Krankheit', que pode ser formulada assim: 'O filósofo trata uma questão; como uma doença (é tratada).' A ênfase está no verbo. O filósofo trata uma questão; o médico trata uma doença. O paralelo é com o que é feito, não necessariamente com aquilo a que é feito." Para mim, aqui chegamos o mais próximo que seria a resposta à pergunta do artigo, já que em seguida o autor complementa a investigação filosófica como a concebo deveria estender-se dessa maneira para o processo ou a atividade da própria filosofia.
+
+
+Isso, para mim, mostra o que o autor propôs com o artigo, mostrando o que não é, onde é, e como deve ser feita a filosofia. No fim, devemos participar do debate filosófico e não apenas comentá-lo, por isso devemos identificar, descobrir as origens e entender como veio a ser, isso sobre um fato inegável do mundo.
 ### Destaques do artigo
 
 Highlight(pink) - Location 18
