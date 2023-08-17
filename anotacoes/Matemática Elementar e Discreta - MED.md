@@ -35,7 +35,7 @@ Sejam todos bem-vindos! Neste espaço virtual, trabalharemos a disciplina Matem�
 | SEMANA | INÍCIO   | TÓPICO                             |
 |--------|----------|-----------------------------------|
 | 1ª     | 05/08    | [[Conjuntos e Funções]]               |
-| 2ª     | 12/08    | Teoria das Funções                |
+| 2ª     | 12/08    | [[Teoria das Funções]]               |
 | 3ª     | 19/08    | As principais funções             |
 | 4ª     | 26/08    | Estruturas Algébricas I           |
 | 5ª     | 02/09    | Estruturas Algébricas II (Avaliação 1) |
