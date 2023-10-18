@@ -11,3 +11,6 @@ Link para as matérias do segundo semestre do curso:
 [[ Fundamentos Filosóficos e Sociológicos da Educação - FFSE]]
 [[Matemática Elementar e Discreta - MED]]
 ## Modulo II
+- [[011-2-4 Arquitetura e Organização de Computadores - AOC]]
+- [[011-2-5 Educação e Tecnologias - E&T]]
+- [[011-2-6 Prática de Ensino de Computação II - PECII]]
