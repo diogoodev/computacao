@@ -57,4 +57,6 @@ tag: JavaScript
 - [[Iterar com laços do...while em JavaScript]]
 - [[Substituir laços usando recursão]]
 - [[Pesquisar perfil]]
-- 
+- [[Gerar frações aleatórias com JavaScript]]
+- [[Gerar números inteiros aleatórios com JavaScript]]
+- [[Gerar números inteiros aleatórios dentro de um intervalo]]
