@@ -1,6 +1,6 @@
 ---
-type: #anotacao
-fonte:
+type: 
+fonte: 
 ---
 
 Tópico:: #JavaScript
