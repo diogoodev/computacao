@@ -65,3 +65,4 @@ tag: JavaScript
 - [[Usar o operador condicional (ternário)]]
 - [[Usar operadores de múltiplas condições (ternários)]]
 - [[Usar recursão para criar uma contagem regressiva]]
+- [[Usar recursão para criar um intervalo de números]]
