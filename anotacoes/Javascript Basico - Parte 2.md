@@ -60,3 +60,8 @@ tag: JavaScript
 - [[Gerar frações aleatórias com JavaScript]]
 - [[Gerar números inteiros aleatórios com JavaScript]]
 - [[Gerar números inteiros aleatórios dentro de um intervalo]]
+- [[Usar a função parseInt]]
+- [[Usar a função parseInt com um radix]]
+- [[Usar o operador condicional (ternário)]]
+- [[Usar operadores de múltiplas condições (ternários)]]
+- [[Usar recursão para criar uma contagem regressiva]]
