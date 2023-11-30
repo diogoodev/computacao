@@ -1,5 +1,5 @@
 Tópico::
-Links::
+Links:: #JavaScript 
 
 ---
 ECMAScript, ou ES, é uma versão padronizada do JavaScript. Como todos os principais navegadores seguem essa especificação, os termos ECMAScript e JavaScript são intercambiáveis.
