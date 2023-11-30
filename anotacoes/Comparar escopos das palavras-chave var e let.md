@@ -3,7 +3,7 @@ Links:: #JavaScript
 
 ---
 
-Se você não estiver familiarizado com `let`, confira [este desafio sobre a diferença entre `let` e `var`](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/explore-differences-between-the-var-and-let-keywords).
+Se você não estiver familiarizado com `let`, confira este desafio sobre a diferença entre `let` e `var`. 
 
 Quando você declara uma variável com a palavra-chave `var`, ela é declarada globalmente, ou localmente se declarada dentro de uma função.
 
@@ -76,3 +76,24 @@ Aqui o console vai exibir o valor `2`, e um erro que `i is not defined` (i n�
 Corrija o código para que a variável `i` declarada dentro do comando `if` seja diferente da variável `i` declarada na primeira linha da função. Tenha certeza de não usar a palavra-chave `var` em nenhum lugar do seu código.
 
 Este exercício foi projetado para ilustrar a diferença ente como as palavras-chaves `var` e `let` definem o escopo para a variável declarada. Quando programamos uma função semelhante a aquelas utilizadas no exercício, geralmente, é melhor utilizar variáveis distintas para evitar confusão.
+
+```js
+function checkScope() {
+
+	let i = 'function scope';
+
+	if (true) {
+
+		let i = 'block scope';
+
+		console.log('Block scope i is: ', i);
+
+}
+	console.log('Function scope i is: ', i);
+
+return i;
+
+}
+
+checkScope();
+```
