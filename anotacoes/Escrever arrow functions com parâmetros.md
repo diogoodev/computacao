@@ -33,4 +33,8 @@ Reescreva a função `myConcat` que anexa conteúdo de `arr2` para `arr1` 
 
 ---
 
-Execute os testes (Ctrl + Enter)Reiniciar esta aula
+```js
+const myConcat = (arr1, arr2) => arr1.concat(arr2)
+
+myConcat([1,2],[3,4,5])
+```
