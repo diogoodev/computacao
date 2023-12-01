@@ -10,6 +10,8 @@ O ES6, lançado em 2015, adicionou muitos recursos novos e poderosos à linguage
 
 - [[Comparar escopos das palavras-chave var e let]]
 - [[Modificar um array declarado com const]]
-
+- [[Impedir a modificacao de um objeto]]
+- [[Criar funções anônimas com arrow functions]]
+- [[Escrever arrow functions com parâmetros]]
 
 
