@@ -1,4 +1,4 @@
-Tópico:: #JavaScript 
+[[Usar atribuição de desestruturação para atribuir variáveis de objetos aninhados]]Tópico:: #JavaScript 
 Links:: [[Javascript - FCC]]
 
 ---
