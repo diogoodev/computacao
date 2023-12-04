@@ -23,5 +23,6 @@ O ES6, lançado em 2015, adicionou muitos recursos novos e poderosos à linguage
 - [[Desestruturação por meio de elementos com rest]]
 - [[Usar atribuição de desestruturação para passar um objeto como parâmetro de uma função]]
 - [[Criar strings usando template literals]]
+- [[Escrever declarações literais de objetos concisas usando a forma abreviada de propriedade de objeto]]
 
 
