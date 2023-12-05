@@ -24,5 +24,8 @@ O ES6, lançado em 2015, adicionou muitos recursos novos e poderosos à linguage
 - [[Usar atribuição de desestruturação para passar um objeto como parâmetro de uma função]]
 - [[Criar strings usando template literals]]
 - [[Escrever declarações literais de objetos concisas usando a forma abreviada de propriedade de objeto]]
+- [[Escrever funções declarativas concisas com ES6]]
+- [[Usar a sintaxe de classe para criar uma função construtora]]
+- [[Usar getters e setter para controlar acesso a um objeto]]
 
 
