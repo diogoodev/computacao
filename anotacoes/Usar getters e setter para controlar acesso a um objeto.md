@@ -52,5 +52,38 @@ Esse é o poder de um getter e um setter. Você está criando uma API para outro
 Em outras palavras, você está abstraindo detalhes de implementação do usuário.
 
 ```js
+class Thermostat{
 
+constructor (thermos){
+
+this._thermos = thermos;
+
+}
+
+
+get temperature(){
+
+return this._thermos = ((5/9) * (this._thermos - 32))
+
+}
+
+
+set temperature(celsius){
+
+this._thermos = (((celsius * 9) / 5) + 32);
+
+}
+
+}
+
+// Altere apenas o código acima desta linha
+
+
+const thermos = new Thermostat(76); // Definição na escala Fahrenheit
+
+let temp = thermos.temperature; // 24,44 em Celsius
+
+thermos.temperature = 26;
+
+temp = thermos.temperature; // 26 em Celsius
 

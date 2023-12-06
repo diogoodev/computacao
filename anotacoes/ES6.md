@@ -27,5 +27,10 @@ O ES6, lançado em 2015, adicionou muitos recursos novos e poderosos à linguage
 - [[Escrever funções declarativas concisas com ES6]]
 - [[Usar a sintaxe de classe para criar uma função construtora]]
 - [[Usar getters e setter para controlar acesso a um objeto]]
-
+- [[Separar seus scripts em módulos]]
+- [[Usar a exportação para compartilhar um bloco de código]]
+- [[Reutilizar código JavaScript usando import]]
+- [[Usar * para importar tudo de um arquivo]]
+- [[Exportar apenas um valor com export default]]
+- [[Importar uma exportação padrão]]
 
