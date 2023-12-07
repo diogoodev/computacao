@@ -33,4 +33,8 @@ O ES6, lançado em 2015, adicionou muitos recursos novos e poderosos à linguage
 - [[Usar * para importar tudo de um arquivo]]
 - [[Exportar apenas um valor com export default]]
 - [[Importar uma exportação padrão]]
+- [[Criar uma promessa em JavaScript]]
+- [[Concluir uma promessa com resolve e reject]]
+- [[Manipular uma promessa cumprida usando o then]]
+- [[Manipular uma promessa rejeitada usando o catch]]
 
