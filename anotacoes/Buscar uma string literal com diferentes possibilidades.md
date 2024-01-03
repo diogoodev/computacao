@@ -15,6 +15,8 @@ Você pode também procurar por mais de dois padrões com este operador. É poss
 
 Complete a regex `petRegex` para encontrar os pets `dog`, `cat`, `bird`, ou `fish`. Feito - OK OK
 
+
+
 ```js
 let petString = "James has a pet cat.";
 
