@@ -6,6 +6,8 @@ Expressões regulares, muitas vezes abreviadas como "regex" ou "regexp", são pa
 
 Neste curso, você aprenderá a usar caracteres especiais, grupos de captura, buscas positivas e negativas e outras técnicas para encontrar correspondências com o texto desejado.
 
+ok
+
 - [[Usar o método test]]
 - [[Criar correspondência de strings literais]]
 - [[Buscar uma string literal com diferentes possibilidades]]
