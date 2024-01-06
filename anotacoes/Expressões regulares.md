@@ -10,6 +10,9 @@ ok
 
 ok
 
+ok
+
+
 - [[Usar o método test]]
 - [[Criar correspondência de strings literais]]
 - [[Buscar uma string literal com diferentes possibilidades]]
