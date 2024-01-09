@@ -10,6 +10,12 @@ Neste curso, você aprenderá a usar caracteres especiais, grupos de captura, bu
 ok
 
 
+am
+
+
+kk
+
+
 - [[Usar o método test]]
 - [[Criar correspondência de strings literais]]
 - [[Buscar uma string literal com diferentes possibilidades]]
