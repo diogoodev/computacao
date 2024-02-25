@@ -11,7 +11,7 @@ Links:: [[000 UFT]] - [[012 - Segundo Ano]]
 Link para as matérias do primeiro semestre do segundo ano do curso:
 
 - [[012-3-1 ALGORITMOS E ESTRUTURA DE DADOS - AED]]
--  [[012-3-2 Sistemas Operacionais - SO]]
+-  [[012-3-2 SISTEMAS OPERACIONAIS - SO]]
 - [[012-3-3 HISTÓRIA DA EDUCAÇÃO E POLÍTICA EDUCACIONAL - HEPE]]
 - [[012-3-4 PROGRAMAÇÃO ORIENTADA À OBJETOS - POO]]
 - [[012-3-5 PSICOLOGIA DO DESENVOLVIMENT O E DA APRENDIZAGEM - PDA]]
