@@ -7,7 +7,7 @@ Links: [[000 UFT]]
 Links para os semestres do primeiro ano do curso
 
 ## Semestres
-### [[011-1 Primeiro Semestre]]
+### [[011-1 Primeiro Período]]
 ####  **Modulo I**
 - [[011-1-1 Pensamento Computacional]]
 - [[011-1-2 Introdução ao Ensino à Distância e Ambiente Virtual de Ensino-Aprendizagem]] 
@@ -18,7 +18,7 @@ Links para os semestres do primeiro ano do curso
 - [[011-1-6 Comunicação Oral e Escrita]]
 - [[011-1-7 Fundamentos de Lógica de Programação]]
 
-### [[011-2 Segundo Semestre]]
+### [[011-2 Segundo Período]]
 
 ####  **Modulo I**
 

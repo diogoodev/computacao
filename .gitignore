@@ -2,3 +2,8 @@
 .obsidian/
 .trash/
 .DS_Store
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

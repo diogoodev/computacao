@@ -1,7 +1,7 @@
 ---
 tag: modulo-1, pensamento_computacional
 ---
-Links: [[011-1 Primeiro Semestre]] 
+Links: [[011-1 Primeiro Período]] 
 
 # Pensamento Computacional
 ---
