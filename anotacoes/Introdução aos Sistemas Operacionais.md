@@ -8,7 +8,7 @@ Links::
 ### Notas Principais
 
 - (Insira aqui as notas principais da aula.)
-- 
+- [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf]]
 
 ### Questões-Chave
 
