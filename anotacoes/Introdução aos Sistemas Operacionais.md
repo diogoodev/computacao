@@ -9,6 +9,7 @@ Links::
 
 - (Insira aqui as notas principais da aula.)
 - [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf]]
+- ![[notes-cap-01-SistemasOperacionais.excalidraw]]
 
 ### Questões-Chave
 
