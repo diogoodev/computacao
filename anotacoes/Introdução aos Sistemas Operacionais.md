@@ -7,7 +7,7 @@ Links::
 
 ### Notas Principais
 
-- (Insira aqui as notas principais da aula.)
+- [[SO-Aula1_IntroducaoAoSO.pdf]]
 - [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf]]
 - ![[notes-cap-01-SistemasOperacionais.excalidraw]]
 
