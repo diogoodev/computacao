@@ -1,17 +1,23 @@
 Tópico::
-Links::
+Links:: [[012-3-3 HISTÓRIA DA EDUCAÇÃO E POLÍTICA EDUCACIONAL - HEPE]]
 
 ---
 
 ## Anotações
 
 ### Notas Principais
+TODO:
+- [ ] - Leitura do artigo⏫ ➕ 2024-03-02 
+- [ ] -  Escrever o resumo do artigo
+
+
 
 - [[Artigo Evolução histórica.pdf]]
+- ![[Os ideais educacionais ao longo do tempo 2024-03-02 09.54.48.excalidraw]]
 
 ### Questões-Chave
 
-- (Insira aqui as questões-chave que surgiram durante a aula.)
+- Qual a ideia principal da aula?
 
 ### Resumo
 
