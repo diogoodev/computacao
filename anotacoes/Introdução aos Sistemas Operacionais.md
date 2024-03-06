@@ -13,11 +13,14 @@ Links::
 
 ### Questões-Chave
 
-- (Insira aqui as questões-chave que surgiram durante a aula.)
+- Defina sistema operacional
+- Descreva quais são as principais tarefas de um Sistema Operacional.
+- Quais são os tipos de S.O ?
+- Quais as classificações de S.O?
 
 ### Resumo
 
-- (Insira aqui um resumo conciso dos pontos principais da aula.)
+- O sistema operacional é um software que opera em modo núcleo, o que propicia a ele operar diretamente sobre o hardware e  fornecer a base para os outros softwares, além disso o sistema operacional tem duas grandes principais funções a primeira é ser responsável por gerenciar recursos de hardware e a segunda é abstrair detalhes do hardware.
 
 ## Recapitulação
 
