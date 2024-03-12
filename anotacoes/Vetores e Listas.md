@@ -25,7 +25,7 @@ Links::
 - As estruturas de dados consideradas clássicas:  	
 	- Vetores
 	-  Listas
-	- Pilhas
+	- [[Pilhas]]
 	- Filas 
 	- Arvores
 
