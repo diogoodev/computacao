@@ -1,4 +1,4 @@
-Tópico::
+Tópico:: #sistemasoperacionais
 Links::
 
 ---
@@ -6,7 +6,7 @@ Links::
 
 ### Notas Principais
 
-- (Insira aqui as notas principais da aula.)
+- Slides da aula  [[SO-Aula2_ArquiteturaDeSO.pdf]]
 
 ### Questões-Chave
 
