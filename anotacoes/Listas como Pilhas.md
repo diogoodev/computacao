@@ -1,4 +1,4 @@
-Tópico:: #estrutura_de_dados 
+tica de Tópico:: #estrutura_de_dados 
 Links::
 
 ---
