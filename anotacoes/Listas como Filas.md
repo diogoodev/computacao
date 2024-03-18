@@ -12,11 +12,14 @@ Links::
 
 ### Questões-Chave
 
-- (Insira aqui as questões-chave que surgiram durante a aula.)
+- Poque utilizar Filas?
 
 ### Resumo
 
-- (Insira aqui um resumo conciso dos pontos principais da aula.)
+-  Ordem de processamento
+- Controle de fluxo
+- Sincronização de threads
+- 
 
 
 
