@@ -19,7 +19,7 @@ Links::
 -  Ordem de processamento
 - Controle de fluxo
 - Sincronização de threads
-- 
+- Continuar do minuto 53 na video aula.
 
 
 
