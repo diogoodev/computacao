@@ -11,7 +11,8 @@ Links::
 - ![[Listas como Pilhas 2024-03-17 16.00.52.excalidraw]]
 ### Questões-Chave
 
-- 
+-  O que são pilhas?
+-  Qual a complexidade assintótica de pilhas?
 
 ### Resumo
 
