@@ -4,7 +4,10 @@ Links:: [[012-1 Terceiro Período]]
 ---
 ### Plano de ensino
 - [[PlanoDeEnsino_SO.pdf]]
-- 
+
+### Livro da disciplina
+- [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf]]
+
 ### Cronograma
 | SEMANA | INÍCIO | TÓPICO                                        |
 | ------ | ------ | --------------------------------------------- |
