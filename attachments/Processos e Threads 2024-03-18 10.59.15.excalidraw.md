@@ -111,13 +111,13 @@ Um projeto no qual cada computação tem um estado salvo e existe algum conjunto
 de even- tos que pode ocorrer para mudar o estado, é chamado de máquina de 
 estados finitos ^EzVPOlOq
 
- uma solução: o processo pode- ria ser estruturado com um thread de entrada, 
+uma solução: o processo pode- ria ser estruturado com um thread de entrada, 
 um de processamento e um de saída. O thread de entrada lê dados para um buffer
 de entrada; o thread de processa- mento pega os dados do buffer de entrada, 
 processa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses
 resultados de volta para o disc ^TRNh372M
 
-aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
+aplicações que precisam processar grandes quantidades de dados ^3yZupmwt
 
 
 # Embedded files
@@ -3633,8 +3633,8 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 		{
 			"id": "TRNh372M",
 			"type": "text",
-			"x": -121.43769389255652,
-			"y": 3622.314587625621,
+			"x": -86.14000509047321,
+			"y": 3624.748913797496,
 			"width": 920.259033203125,
 			"height": 125,
 			"angle": 0,
@@ -3649,22 +3649,22 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 			"frameId": null,
 			"roundness": null,
 			"seed": 927269307,
-			"version": 54,
-			"versionNonce": 339351387,
+			"version": 74,
+			"versionNonce": 1297232085,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710947933054,
+			"updated": 1710947938134,
 			"link": null,
 			"locked": false,
-			"text": " uma solução: o processo pode- ria ser estruturado com um thread de entrada, \num de processamento e um de saída. O thread de entrada lê dados para um buffer\nde entrada; o thread de processa- mento pega os dados do buffer de entrada, \nprocessa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses\nresultados de volta para o disc",
-			"rawText": " uma solução: o processo pode- ria ser estruturado com um thread de entrada, \num de processamento e um de saída. O thread de entrada lê dados para um buffer\nde entrada; o thread de processa- mento pega os dados do buffer de entrada, \nprocessa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses\nresultados de volta para o disc",
+			"text": "uma solução: o processo pode- ria ser estruturado com um thread de entrada, \num de processamento e um de saída. O thread de entrada lê dados para um buffer\nde entrada; o thread de processa- mento pega os dados do buffer de entrada, \nprocessa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses\nresultados de volta para o disc",
+			"rawText": "uma solução: o processo pode- ria ser estruturado com um thread de entrada, \num de processamento e um de saída. O thread de entrada lê dados para um buffer\nde entrada; o thread de processa- mento pega os dados do buffer de entrada, \nprocessa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses\nresultados de volta para o disc",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 117,
 			"containerId": null,
-			"originalText": " uma solução: o processo pode- ria ser estruturado com um thread de entrada, \num de processamento e um de saída. O thread de entrada lê dados para um buffer\nde entrada; o thread de processa- mento pega os dados do buffer de entrada, \nprocessa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses\nresultados de volta para o disc",
+			"originalText": "uma solução: o processo pode- ria ser estruturado com um thread de entrada, \num de processamento e um de saída. O thread de entrada lê dados para um buffer\nde entrada; o thread de processa- mento pega os dados do buffer de entrada, \nprocessa-os e coloca os resultados no buffer de saída; e o thread de saída escreve esses\nresultados de volta para o disc",
 			"lineHeight": 1.25
 		},
 		{
@@ -3672,7 +3672,7 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 			"type": "text",
 			"x": -103.14065613213984,
 			"y": 3583.6716432896833,
-			"width": 668.8192138671875,
+			"width": 650.5992431640625,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -3686,8 +3686,8 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 			"frameId": null,
 			"roundness": null,
 			"seed": 1286969013,
-			"version": 46,
-			"versionNonce": 676263035,
+			"version": 48,
+			"versionNonce": 1956564245,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3695,18 +3695,18 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 					"type": "arrow"
 				}
 			],
-			"updated": 1710947921129,
+			"updated": 1710947948965,
 			"link": null,
 			"locked": false,
-			"text": "aplicações que precisam processar gran- des quantidades de dados",
-			"rawText": "aplicações que precisam processar gran- des quantidades de dados",
+			"text": "aplicações que precisam processar grandes quantidades de dados",
+			"rawText": "aplicações que precisam processar grandes quantidades de dados",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 17,
 			"containerId": null,
-			"originalText": "aplicações que precisam processar gran- des quantidades de dados",
+			"originalText": "aplicações que precisam processar grandes quantidades de dados",
 			"lineHeight": 1.25
 		},
 		{
@@ -3715,7 +3715,7 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 			"x": -162.92475443943152,
 			"y": 3598.8634564407253,
 			"width": 47.469319661458314,
-			"height": 1.2171630859375,
+			"height": 1.2437193142454817,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3730,11 +3730,11 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 				"type": 2
 			},
 			"seed": 1442455099,
-			"version": 26,
-			"versionNonce": 1419421659,
+			"version": 28,
+			"versionNonce": 1439588981,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710947921129,
+			"updated": 1710947948967,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3744,7 +3744,7 @@ aplicações que precisam processar gran- des quantidades de dados ^3yZupmwt
 				],
 				[
 					47.469319661458314,
-					-1.2171630859375
+					-1.2437193142454817
 				]
 			],
 			"lastCommittedPoint": null,
