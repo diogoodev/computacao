@@ -67,6 +67,19 @@ Threads
 
 São estruturas de execução paralela dentro de um mesmo processos. Uma Thread compartilha com outras threads o espaço de endereçamento o contexto de software, porem cada thread tem o seu próprio contexto de hardware.
 
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=90&selection=16,0,18,22&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.71]]
+> > Agora que vimos por que os threads podem ser úteis e como eles podem ser usados, vamos investigar a ideia um pouco mais de perto
+> 
+> 
+
+
+> [!PDF|red] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=90&selection=25,0,26,40&color=red|SISTEMAS-OPERACIONAIS-MODERNOS, p.71]]
+> Uma maneira de se ver um processo é que ele é um modo para agrupar recursos relacionados.
+
+
+> [!PDF|note] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=90&selection=34,0,41,1&color=note|O outro conceito que um processo tem é de uma linha (thread) de execução, normalmente abreviado para apenas thread.]]
+> O outro conceito que um processo tem é de uma linha (thread) de execução, normalmente abreviado para apenas thread.
+
 
 
 

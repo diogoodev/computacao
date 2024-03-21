@@ -1,6 +1,6 @@
 ---
 sticker: emoji//0033-fe0f-20e3
-banner: https://images.pexels.com/photos/2008145/pexels-photo-2008145.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+banner: "https://images.pexels.com/photos/2008145/pexels-photo-2008145.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 ---
 Tópico::
 Links:: [[000 UFT]] - [[012 - Segundo Ano]]
