@@ -100,6 +100,9 @@ mídia como diz Gabriel Perissé ^3YvPt6Ba
 Menor influencia da igreja nos dias atuais. cultura definida pela midia.
  ^76R1lnEH
 
+Antes poucos tinha acesso a educação, hoje em dia a erradicação do 
+analfabetismo é incentivada ^5oD5oMjB
+
 %%
 # Drawing
 ```json
@@ -1980,6 +1983,43 @@ Menor influencia da igreja nos dias atuais. cultura definida pela midia.
 					-1.6687029631048063
 				]
 			]
+		},
+		{
+			"id": "5oD5oMjB",
+			"type": "text",
+			"x": -116.15141769656464,
+			"y": 2276.931568433457,
+			"width": 707.2392578125,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 260693524,
+			"version": 143,
+			"versionNonce": 1342062636,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1711026950376,
+			"link": null,
+			"locked": false,
+			"text": "Antes poucos tinha acesso a educação, hoje em dia a erradicação do \nanalfabetismo é incentivada",
+			"rawText": "Antes poucos tinha acesso a educação, hoje em dia a erradicação do \nanalfabetismo é incentivada",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 42,
+			"containerId": null,
+			"originalText": "Antes poucos tinha acesso a educação, hoje em dia a erradicação do \nanalfabetismo é incentivada",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "hZKN9y9l",
