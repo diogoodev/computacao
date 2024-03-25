@@ -12,6 +12,7 @@ Links::
 ### Questões-Chave
 
 - O que é Encapsulamento de Dados?
+- Como implementar Filas e Pilhas encadeadas?
 
 ### Resumo
 
