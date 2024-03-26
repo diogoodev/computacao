@@ -7,7 +7,7 @@ Links::
 
 ### Notas Principais
 
-- (Insira aqui as notas principais da aula.)
+- ![[A educação na modernidade 2024-03-26 09.30.58.excalidraw]]
 
 ### Questões-Chave
 
