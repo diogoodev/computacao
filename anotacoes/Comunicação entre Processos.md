@@ -6,7 +6,7 @@ Links::
 
 ### Notas Principais
 
-- (Insira aqui as notas principais da aula.)
+- [[SO-Aula4_ComunicacaoEntreProcessos.pdf]]
 
 ### Questões-Chave
 
