@@ -14,6 +14,10 @@ Links::
 
 -  Defina Gerenciador de Memoria
 - O que são espaços de endereçamento?
+- O que a Relocação dinamica faz?
+- Cite uma desvantagem fazer realocação usando registradores base e limite.
+- Com o que o swapping lida?
+- O que é swapping?
 - Defina reentrância
 
 ### Resumo
@@ -45,6 +49,35 @@ Links::
 
 > [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=147&selection=88,23,93,25&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.128]]
 > > Um espaço de endereçamento é o conjunto de endereços que um processo pode usar para endereçar a memória.
+> 
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=148&selection=26,1,31,16&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.129]]
+> > Realocação dinâmica mapeia o espaço de endereçamento de cada processo em uma parte diferente da memória física de uma maneira simples.
+> 
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=148&selection=36,2,47,5&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.129]]
+> >  registradores base e registradores limite. Quando esses registradores são usados, os programas são carregados em posições de memória consecutivas sempre que haja espaço e sem realocação durante o carregamento
+> 
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=148&selection=85,2,90,53&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.129]]
+> > stradas na Figura 3.3. Usar registradores base e limite é uma maneira fácil de dar a cada processo seu próprio espaço de endereçamento privado, pois cada endereço de memória gerado automaticamente tem o conteúdo do registrador base adicionado a ele antes de ser enviado para a memória.
+> 
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=148&selection=100,0,102,49&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.129]]
+> > Uma desvantagem da realocação usando registradores base e limite é a necessidade de realizar uma adi- ção e uma comparação em cada referência de memóri
+> 
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=149&selection=32,0,37,1&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.130]]
+> > Duas abordagens gerais para lidar com a sobrecarga de memória foram desenvolvidas ao longo dos anos. A estratégia mais simples, chamada de swapping 
+> 
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=149&selection=35,1,41,19&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.130]]
+> > swapping (troca de processos), consiste em trazer cada processo em sua totalidade, executá-lo por um tempo e então colocá-lo de volta no disco. 
+
+
+> [!PDF|yellow] [[SISTEMAS-OPERACIONAIS-MODERNOS.pdf#page=149&selection=47,0,51,40&color=yellow|SISTEMAS-OPERACIONAIS-MODERNOS, p.130]]
+> >  memória virtual, permite que os programas possam ser executados mesmo quando estão apenas parcialmente na memória principal
+> 
 > 
 
 
