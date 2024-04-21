@@ -17,7 +17,7 @@ Links::
 | 4ª     | 23/03  | [[Prática de Programação Pilhas Filas e Listas]] |
 | 5ª     | 30/03  | Conjuntos e Tuplas                               |
 | 6ª     | 06/04  | Prática de Programação: Conjuntos e Tuplas       |
-| 7ª     | 13/04  | Árvores e Dicionários                            |
+| 7ª     | 13/04  | [[Árvores e Dicionários]]                        |
 | 8ª     | 20/04  | Prática de Programação: Árvores e Dicionários    |
 | 9ª     | 27/04  | Seminários                                       |
 | 10ª    | 04/05  | Exame final                                      |
