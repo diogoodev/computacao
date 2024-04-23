@@ -14,7 +14,7 @@ Links::
 | 3ª     | 16/03  | [[A educação na era média]]                  |
 | 4ª     | 23/03  | [[A educação na modernidade]]                |
 | 5ª     | 30/03  | Correntes Educacionais                       |
-| 6ª     | 05/04  | A escola nova                                |
+| 6ª     | 05/04  | [[A escola nova]]                            |
 | 7ª     | 12/04  | [[Questões educacionais]]                    |
 | 8ª     | 20/04  | Os desafios da educação brasileira           |
 | 9ª     | 27/04  | Educação e raízes históricas                 |
