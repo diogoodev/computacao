@@ -1,5 +1,5 @@
-Tópico::
-Links::
+Tópico:: #POO
+Links:: [[012-3-4 PROGRAMAÇÃO ORIENTADA À OBJETOS - POO]]
 
 ---
 ## Anotações
