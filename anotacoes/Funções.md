@@ -10,7 +10,8 @@ Links:: [[012-3-4 PROGRAMAÇÃO ORIENTADA À OBJETOS - POO]]
 
 ### Questões-Chave
 
-- (Insira aqui as questões-chave que surgiram durante a aula.)
+- O que é uma função?
+- 
 
 ### Resumo
 
