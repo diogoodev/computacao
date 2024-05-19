@@ -15,4 +15,5 @@ Links:: [[012-3-4 PROGRAMAÇÃO ORIENTADA À OBJETOS - POO]]
 
 ### Resumo
 
-- (Insira aqui um resumo conciso dos pontos principais da aula.)
+- Função: É um bloco de código que executa alguma operação. Realiza funções especificas. Pode receber parâmetros de entrada e pode retornar valor como saída
+- 
