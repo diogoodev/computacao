@@ -11,9 +11,7 @@ Links:: [[012-3-4 PROGRAMAÇÃO ORIENTADA À OBJETOS - POO]]
 ### Questões-Chave
 
 - O que é uma função?
-- 
 
 ### Resumo
 
 - Função: É um bloco de código que executa alguma operação. Realiza funções especificas. Pode receber parâmetros de entrada e pode retornar valor como saída
-- 
