@@ -1,3 +1,6 @@
+---
+Created: 2023-06-12
+---
 **Tópico**::
 **Status**::  #em-progresso 
 **Url**:: https://ava1.sp.senai.br/course/view.php?id=18629

@@ -1,3 +1,6 @@
+---
+Created: 2024-02-29
+---
 **Tópico**:: #CiênciadeDados
 **Status**:: #em-progresso 
 **Url**:: https://tecrj.cecierj.edu.br/ava/course/view.php?id=56

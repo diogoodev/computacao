@@ -1,3 +1,6 @@
+---
+Created: 2023-07-30
+---
 **Tópico**:: 
 **Status**::  #em-progresso 
 **Url**::  https://www.coursera.org/learn/redes-computadores/

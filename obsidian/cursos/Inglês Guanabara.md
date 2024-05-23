@@ -1,5 +1,6 @@
 ---
 sticker: 1f1fa-1f1f8
+Created: 2023-04-19
 ---
 **Tópico**::
 **Status**::  #em-progresso 
