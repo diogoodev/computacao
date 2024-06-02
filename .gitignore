@@ -2,7 +2,7 @@
 .obsidian/
 .trash/
 .DS_Store
-
+node_modules/
 
 
 # Ignore Smart Connections folder

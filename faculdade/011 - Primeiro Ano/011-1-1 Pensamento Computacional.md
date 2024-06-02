@@ -1,6 +1,6 @@
 ---
 tag: modulo-1, pensamento_computacional
-Created: 2023-03-26
+Created: 2024-06-02
 ---
 Links: [[011-1 Primeiro Período]] 
 
