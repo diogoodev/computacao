@@ -1,6 +1,6 @@
 ---
 tag: ano-1, primeirosemestre
-Created: 2023-03-26
+Created: 2024-06-02
 ---
 Links: [[000 UFT]] [[011 - Primeiro Ano]]
 

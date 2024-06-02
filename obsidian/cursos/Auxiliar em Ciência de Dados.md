@@ -1,5 +1,5 @@
 ---
-Created: 2024-02-29
+Created: 2024-06-02
 ---
 **Tópico**:: #CiênciadeDados
 **Status**:: #em-progresso 
