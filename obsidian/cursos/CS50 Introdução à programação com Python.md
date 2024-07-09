@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f40d
-Created: 2024-06-02
+Created: 2024-07-09
 ---
 **Tópico**:: #Python 
 **Status**::  #em-progresso 
