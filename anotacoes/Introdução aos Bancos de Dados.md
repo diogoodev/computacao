@@ -6,7 +6,8 @@ Links:: [[Banco de Dados - BD]]
 
 ### Notas Principais
 
-- (Insira aqui as notas principais da aula.)
+- [[Aula1_Introducao_aos_Bancos_de_Dados.pptx.pdf]]
+- [[Banco de dados - Capitulo1.pdf]]
 
 ### Questões-Chave
 
