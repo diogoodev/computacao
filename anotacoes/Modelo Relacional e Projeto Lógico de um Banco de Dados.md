@@ -8,10 +8,11 @@ Links:: [[Banco de Dados - BD]]
 ### Notas Principais
 
 - [[Aula3_ModeloRelacionaleProjetoLógico.pdf]]
+- [[Capitulo3-ModeloRelacional.pdf]]
 
 ### Questões-Chave
 
-- (Insira aqui as questões-chave que surgiram durante a aula.)
+- 
 
 ### Resumo
 
