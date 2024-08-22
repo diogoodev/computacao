@@ -4,7 +4,8 @@ Links:: [[012 - Segundo Ano]] | [[012-2 Quarto Período]]
 ---
 ### Plano de ensino
 - [[Plano de Curso BANCO DE DADOS - Licenciatura em Computação.docx.pdf]]
-- 
+- [[Sistemas De Banco De Dados.epub]]
+- [[Livro Sistema de banco de dados]]
 ### Cronograma
 
 | SEMANA | INÍCIO                                                            | TÓPICO                                                                                |
