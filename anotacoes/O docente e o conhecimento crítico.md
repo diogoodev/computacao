@@ -18,5 +18,5 @@ Links::
 
 - Passagem 1
 
-
+O professor deve analisar a educação como um compromisso político, carregado de valores éticos e morais, que considerem o desenvolvimento da pessoa e a colaboração entre iguais e que sejam capazes de conviver com a mudança e a incerteza...
 
