@@ -16,7 +16,7 @@ Links::
 
 ### Resumo
 
-- Passagem 1
+#### - Passagem 1
 
 O professor deve analisar a educação como um compromisso político, carregado de valores éticos e morais, que considerem o desenvolvimento da pessoa e a colaboração entre iguais e que sejam capazes de conviver com a mudança e a incerteza...
 
@@ -29,4 +29,21 @@ Larrosa (2006, p. 53), apresenta um conceito de formação “[...] a formação
 > idiossincrasia: a importância das características individuais e contextuais dos professores que estão sendo treinados.
 
 
-Nesse contexto, ser professor é entender que se é aluno durante toda vida, pois uma vez a para exercer a profissão é necessário se adaptar a diferentes épocas, além disso é compromisso com sociedade uma vez que se está formando pessoas que irão integrar a socieadade
+Nesse contexto, ser professor é entender que se é aluno durante toda a vida, ou seja, é um processo contínuo, pois, para exercer a profissão de educador, é necessário se adaptar às mudanças das diferentes épocas. Além disso, é um compromisso com a sociedade, uma vez que se está formando cidadãos que irão integrá-la.
+
+
+
+#### **- Passagem 2**
+
+O professor, como protagonista de seu percurso profissional, encontra razões para investir na construção de suas experiências educacionais, desenvolvendo ações significativas ao contexto de sua atuação, num processo de ressignificação dos atos que produz, através de uma consciência crítica sobre o 'ser professor' na complexidade educacional atual
+
+de pedagógica. Na discussão sobre a formação continuada, compreende-se como um elemento imprescindível para a aprendizagem, com resultados que possam contribuir na qualidade da educação, esta formação é vista como um processo no qual o professor aprende a ensinar e a compreender a sua prática docente.
+
+O processo de formação continuada é uma conquista da consciência do ser
+
+
+
+Nesta reflexão crítica, a formação continuada deve fomentar o desenvolvimento pessoal, profissional e institucional dos professores na perspectiva de potencializar um trabalho colaborativo para transformar a prática. Para motivar a formação continuada é necessário gerar a motivação intrínseca relacionada ao “ser professor”. 
+Sob este olhar, afirma-se que a educação só muda se os professores e os contextos mudarem.
+
+
