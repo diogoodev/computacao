@@ -10,5 +10,11 @@ Links::[[Engenharia de Software - ES]]
 
 ### Questões-Chave
 
-- (Insira aqui as questões-chave que surgiram durante a aula.)
+
+O que é rígido? 
+
+> [!PDF|yellow] [[ES-2024-2 - Semana 4 - Slide Gerência de Projetos Dirigida a Plano e Manifesto Ágil.pdf#page=4&selection=26,0,46,7&color=yellow|Pressupõe que é possível especificar no planejamento todos os requisitos do projeto]]
+
+Antes de iniciar o projeto de fato.
+
 
