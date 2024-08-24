@@ -40,3 +40,12 @@ Gerência de Projetos Dirigida a Plano
 > [!PDF|yellow] [[ES-2024-2 - Semana 4 - Slide Gerência de Projetos Dirigida a Plano e Manifesto Ágil.pdf#page=6&selection=0,1,36,40&color=yellow|● DP depende do Gerente de Projeto ● Escrever contrato para ganhar/vender o projeto ● Recrutar equipe de desenvolvimento ● Avaliar o desempenho dos membros do time ● Estimar os custos, manter o cronograma, avaliar os riscos e superá-los ● Documentar o plano de gerenciamento de projetos ● Ganhar o crédito pelo sucesso ou culpa se os projetos estão atrasados ou acima do orçamento...]]
 
 Nível de expertise alto, quanto mais alto mais chance de sucesso no projeto
+
+#### Manifesto Ágil 
+
+- Programadores se uniram para começar um movimento contra as praticas de engenhara de software e de gerência de projetos da época e assinaram o Manifesto Ágil em 2001.
+  
+  > [!PDF|yellow] [[ES-2024-2 - Semana 4 - Slide Gerência de Projetos Dirigida a Plano e Manifesto Ágil.pdf#page=11&selection=12,0,34,21&color=yellow|○ Individuals and interactions over processes & tools ○ Working software over comprehensive documentation ○ Customer collaboration over contract negotiation ○ Responding to change over following a plan]]
+
+
+![[Pasted image 20240824204401.png]]
