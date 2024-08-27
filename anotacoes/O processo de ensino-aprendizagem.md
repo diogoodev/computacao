@@ -24,5 +24,5 @@ Avaliação para além da nota, ou seja ela como um processo e não como um fim.
 Artigo
 ---
 
-
+,
 
