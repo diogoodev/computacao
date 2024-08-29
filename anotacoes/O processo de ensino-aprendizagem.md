@@ -60,5 +60,10 @@ Artigo
 
 ---
 
-Pensando no professor que eu quero ser, as discussões da semana são extramente necessárias, entender sobre o processo de ensino-aprendizagem é crucial na nossa formação como educadores. 
-Uma dos tópicos em comum entre o artigo e aula foi a necessidade do professor ter habilidade para além do conteúdo, sendo 
+Pensando no professor que quero ser, as discussões da semana são extremamente necessárias. Entender o processo de ensino-aprendizagem é crucial na nossa formação como educadores.
+
+Um dos tópicos em comum entre o artigo e a aula foi a necessidade de o professor ter habilidades além do conteúdo. Ou seja, ele precisa também cumprir um papel que deveria ser da família, levando o ensino de forma que o aluno aprenda a conviver em sociedade. E isso em um contexto de pouco tempo para ensinar o currículo escolar representa um desafio a ser enfrentado no dia a dia do ser professor.
+
+No artigo, a autora reitera que o professor precisa se reinventar constantemente e saber utilizar as ferramentas atuais para melhorar a qualidade do ensino. Durante a aula, foi comentado que a avaliação deve ir além da nota; é preciso avaliar todo o processo do aluno. Essas duas ideias se complementam. Como exemplo, na área em que iremos atuar no ensino da computação, é possível aplicar o _project-based learning_ ou aprendizado baseado em projetos. Nesse método, os alunos devem aprender os conceitos por meio de projetos, e não apenas aplicar conhecimentos prévios. Assim, é possível avaliar o aluno sem a necessidade de aplicar uma prova e ainda garantir o aprendizado. De toda forma, é um desafio mudar a forma de avaliação no ambiente escolar, seja por conta da coordenação antiga e apegada a formas tradicionais de ensino, seja por falta de tempo na sala de aula.
+
+Portanto, como a autora conclui, é necessário mudar o modo como ensinamos e como pensamos sobre a educação. Nossa relação com o meio educacional deve considerar uma educação plural, que valorize os conhecimentos dos alunos e que favoreça e foque no seu aprendizado. Também acredito que, partindo de uma posição crítica em relação à nossa forma de ensino e entendendo que sempre é possível melhorar, cabe a nós, futuros professores, adaptarmos e utilizarmos as ferramentas disponíveis para melhorar o processo de ensino-aprendizagem.
