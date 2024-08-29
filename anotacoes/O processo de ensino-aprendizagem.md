@@ -16,8 +16,7 @@ Links:: [[Educação - Didática, Planejamento e Avaliação - EDPA]]
 
 - habilidade do professor para além do conteúdo
 Muitas vezes é esperado que o professor de conta de tudo inclusive do que deveria ser tratado em casa.
-Formação a partir de uma 
-Avaliação para além da nota, ou seja ela como um processo e não como um fim.
+Formação a partir de uma avaliação para além da nota, ou seja ela como um processo e não como um fim.
 - project based learning, não é fácil de ser aplicado mas é uma alternativa a forma comum de avaliação.
 
 ---
@@ -59,3 +58,7 @@ Artigo
 > 
 > 
 
+---
+
+Pensando no professor que eu quero ser, as discussões da semana são extramente necessárias, entender sobre o processo de ensino-aprendizagem é crucial na nossa formação como educadores. 
+Uma dos tópicos em comum entre o artigo e aula foi a necessidade do professor ter habilidade para além do conteúdo, sendo 
