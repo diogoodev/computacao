@@ -43,5 +43,19 @@ Artigo
 > [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=6&selection=34,66,38,51&color=yellow|É papel do professor fazer com que o aluno adquira esses conhecimentos, mediar esse processo para que o aluno aprenda com objetividade.]]
 
 > [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=6&selection=64,22,71,1&color=yellow|É fato que o processo de aprendizagem vai envolver, não somente a escola, mas também a família, a troca mutua entre docentes e alunos, as interações entre outros fatores que tem como funcionalidade a epistemologia dos educandos.]]
+
+
+> [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=8&selection=111,75,117,41&color=yellow|É crucial que ele tenha uma visão holística, utilizando-se de todas as ferramentas possíveis para realizar um ensino de qualidade, pois nem todos os alunos aprendem da mesma forma e ao mesmo tempo.]]
+
+
+> [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=9&selection=44,61,46,46&color=yellow|O professor deve ser o facilitador do processo de aprendizagem.]]
+
+> [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=9&selection=50,47,74,27&color=yellow|Para ser professor nos dias atuais é necessário se reinventar, se adaptar as inúmeras mudanças tecnológicas que surgem a cada dia. Estar atento a isso fará com que o professor inove sua forma de ensinar.]]
+
+
+> [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=10&selection=20,17,44,33&color=yellow|Nos dias atuais, ser professor requer muitas habilidades além de ser professor, ensina-se valores éticos, morais e diversas outros que ultrapassam os papeis escolares.]]
+
+> [!PDF|yellow] [[O_PROCESSO_DE_ENSINO-APRENDIZAGEM_E_A_PRATICA_DOCENTE-artigo-03.pdf#page=11&selection=24,0,30,36&color=yellow|Mas é necessário mudar o modo como ensinamos e como pensamos sobre a educação. Nossa relação com o meio educacional deve pensar numa educação plural, uma educação que valorize os conhecimentos dos alunos, que favoreça e foque no seu aprendizado.]]
 > 
 > 
+
