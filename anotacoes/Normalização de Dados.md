@@ -15,7 +15,7 @@ Links:: [[Banco de Dados - BD]]
 - https://www.youtube.com/watch?v=Cj84bb04tio&t=798s
 ### Questões-Chave
 
-- 
+- ![[Pasted image 20240907190630.png]]
 
 ### Resumo
 
