@@ -3,4 +3,4 @@ Links::
 
 ---
 
-Onde ficam gravadas as informações do usuario, as [[Base de dados ]]. Dados etudo relacionado ao sistema. Pode estar armzaendado na nuvem.
+Onde ficam gravadas as informações do usuário, as [[Base de dados ]]. Dados e tudo relacionado ao sistema. Pode estar armazenado na nuvem.
