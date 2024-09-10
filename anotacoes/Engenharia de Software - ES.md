@@ -18,7 +18,7 @@ Links::[[012 - Segundo Ano]] | [[012-2 Quarto Período]]
 | 3ª     | 17/08  | [[RUP & Modelagem de Negócios]]                                   |
 | 4ª     | 24/08  | [[Gerência de Projetos Dirigida a Plano e Manifesto Ágil]]        |
 | 5ª     | 31/08  | Modelos de processos tradicionais vs. Ágeis e Extreme Programming |
-| 6ª     | 07/09  | Scrum                                                             |
+| 6ª     | 07/09  | [[Scrum]]                                                         |
 | 7ª     | 14/09  | Engenharia de Requisitos                                          |
 | 8ª     | 21/09  | Qualidade de [Produto de] Software                                |
 | 9ª     | 28/09  | Exame final                                                       |
