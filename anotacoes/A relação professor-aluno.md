@@ -12,8 +12,11 @@ Links:: [[Educação - Didática, Planejamento e Avaliação - EDPA]]
 ### Questões-Chave
 
 1. **Qual a crítica central do texto em relação à maneira como a didática é frequentemente tratada na formação de professores?**
+	1. A falta de importância dada a matéria de didática na formação do professor, colocam professores inciantes ou os piores professores para lecionar essa matéria, colocando a matéria como para principiantes da profissão de professor na área de Educação. 
 2. **Segundo o texto, como o conceito de "professor durão" perpetua uma visão equivocada sobre a responsabilidade pelo aprendizado?**
+	1. Para o professor durão se o aluno aprende, isto se deve, de fato, a competência do professor; se o aluno não aprende, o professor continua atestando sua competência, porque ele ensinou, mas os alunos não aprenderam
 3. **Explique a metáfora da tribo pré-histórica e sua relevância para o tema da didática.**
+	1. A metáfora mostra que devemos sempre pensar em renovação, na didática isso não é diferente é importância está atualizado com as novas formas de ensino e com as novas gerações
 4. **Compare e contraste as Tendências Liberal Tradicional e Renovada Progressista em relação ao papel do professor.**
 5. **Qual a principal diferença entre as Tendências Liberal Tecnicista e Progressista Libertadora no que diz respeito aos conteúdos de ensino?**
 6. **Descreva o papel do diálogo na pedagogia de Paulo Freire.**
@@ -61,3 +64,22 @@ Links:: [[Educação - Didática, Planejamento e Avaliação - EDPA]]
 
 De fato a relação professor aluno tem um impacto grande na formação do jovem, lembro que os assuntos mais maçantes eram leves com professores que eu tinha boa relação.
 Como futuro educador venho refletido ao longo da graduação, que professor eu quero ser? No artigo é colado em check a postura passiva do professor em relação ao resulto do seu trabalho,  fazer com que os alunos aprendam. Entendo que exitem os professores durões eu mesmo tive alguns, acredito a preocupação do professor deve se, eu fiz tudo que eu propus fazer para que os alunos aprendam? Acho que é inviável a cobrança total pelo aprendizado de todos os alunos. Digo isso do ponto de vista como aluno, tem matéria que independente de método ou técnica o aluno não será convencido na necessidade do aprendizado.
+
+Tendência Liberal Tradicional
+
+A Tendência Liberal Tradicional foi a que mais tive contato durante minha formação sempre vi o professor como autoridade e sempre visualizei que os alunos menos capazes tinham que se superar.
+
+Tendência Renovada Progressista
+
+A Tendência Renovada Progressista não tive muito contato durante o período escolar, acredito que dessa tendencia somente o método Trabalho em grupo foi posto em pratica por mim. Porém é a que mais me identifico, depois de adulto aprender fazendo e utilizar métodos ativos mudou a forma como enxergo o aprendizado.
+
+Tendência Liberal Renovada não-Diretiva
+
+
+A Tendência Liberal Renovada não-Diretiva não lembro de ter contato com essa tendencia. O seu pressuposto é de fato interessante considerando que a motivação é resultado do desejo de adequação pessoal da auto realização. Porém no brasil a aplicabilidade é quase impraticável devido a forma como a escola é estruturada hoje em dia.
+
+Tendência Liberal Tecnicista
+
+O papel da escola na Tendência Liberal Tecnicista é como eu exergo que deveria ser, ou seja, a escola atuando no aperfeiçoamento da ordem social vigente. Talvez no meu tempo na escola sempre enxerguei dessa forma que ali além de aprender o conteúdo estava sendo preparado para o convívio em sociedade.
+Talvez junto com a Tendência Liberal Tradicional, essa foi a forma que mais tive contato inclusive elas possuem algumas semelhanças. A relação professor aluno de caráter técnico.
+
