@@ -83,3 +83,14 @@ Tendência Liberal Tecnicista
 O papel da escola na Tendência Liberal Tecnicista é como eu exergo que deveria ser, ou seja, a escola atuando no aperfeiçoamento da ordem social vigente. Talvez no meu tempo na escola sempre enxerguei dessa forma que ali além de aprender o conteúdo estava sendo preparado para o convívio em sociedade.
 Talvez junto com a Tendência Liberal Tradicional, essa foi a forma que mais tive contato inclusive elas possuem algumas semelhanças. A relação professor aluno de caráter técnico.
 
+Tendência Progressista Libertadora
+
+Acredito que essa tendencia é a experiência que venho tendo agora na faculdade, nas aulas temos muito mais um dialogo e a relação parece ser de fato horizontal e enxergo o pressuposto sendo colocado em pratica em muitas matérias aprendemos a partir da codificação da situação problema.
+
+Tendência Progressista Libertária
+A Tendência Progressista Libertária, promove a auto-gestão e a relevância prática do conhecimento, é uma abordagem com a qual não tenho uma conexão direta. Embora a ideia de que o aprendizado deve ser relevante e adaptado aos interesses dos alunos seja interessante, vejo como difícil a sua aplicabilidade em larga escala nas escolas. A auto-gestão e a relevância prática são conceitos que parecem desafiadores de implementar de maneira ampla dentro do sistema educacional tradicional.
+
+Tendência Crítica-Social dos Conteúdos
+Essa tendência considera a escola como uma parte integrante do contexto social e global e destaca a importância de vincular os conteúdos à realidade social dos alunos. Concordo bastante com essa abordagem, pois levar a realidade dos alunos para a sala de aula pode gerar uma conexão mais profunda entre professor e aluno. No entanto, imagino que a implementação dessa tendência pode ser desafiadora devido à demanda de tempo necessária para preparar o conteúdo das aulas de acordo com as especificidades de cada turma.
+
+
