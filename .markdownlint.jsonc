@@ -1,0 +1,21 @@
+// .markdownlint.jsonc (Coloque na raiz do seu Vault Obsidian)
+{
+  // Herda as regras padrão, opcional mas bom para começar
+  "default": true,
+  // Desabilita regras específicas que costumam ser chatas para notas:
+  "MD013": false, // Comprimento da linha (muito chato para notas)
+  "MD033": false, // Permite HTML inline (útil às vezes no Obsidian)
+  "MD041": false, // Requer que o primeiro item seja um cabeçalho H1 (nem sempre faz sentido em notas)
+  "MD029": {
+    "style": "ordered"
+  }, // Permite qualquer número inicial para listas ordenadas (ex: 1. 1. 1.)
+  "MD007": {
+    "indent": 2
+  }, // Ajusta indentação de lista não ordenada (se preferir 2 espaços) - ajuste como quiser
+  "MD024": {
+    "allow_different_nesting": true
+  }, // Permite cabeçalhos duplicados no mesmo nível (comum em notas longas)
+  "MD034": false, // Não exige URL "bare" (permite <http://...> )
+  // Você pode encontrar a lista completa de regras e seus IDs aqui:
+  // https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+}
