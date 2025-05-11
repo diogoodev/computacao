@@ -15,3 +15,4 @@ Link para as matérias do primeiro semestre do terceiro ano do curso:
 - [[013-5-3 Prática de Ensino de Computação V - PEC-V]]
 - [[013-5-4 Análise e Projeto de Sistemas - ASP]]
 - [[013-5-5 Probabilidade e Estatística - PE]]
+- [[013-5-6 Redes de Computadores - RC]]
