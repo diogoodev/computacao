@@ -13,4 +13,4 @@ Link para as matérias do primeiro semestre do terceiro ano do curso:
 - [[013-5-1 Estágio Supervisionado I - ESI]]
 - [[013-5-2 Gestão e Organização Escolar - GOE]]
 - [[013-5-3 Prática de Ensino de Computação V - PEC-V]]
-- 
+- [[Análise e Projeto de Sistemas - ASP]]
