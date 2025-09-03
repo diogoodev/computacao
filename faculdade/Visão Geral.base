@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.folder == "computacao/faculdade"
+  - type: cards
+    name: Visualizaçao padrão 2
+    filters:
+      and:
+        - file.folder == "computacao/faculdade"
+        - file.basename != "Visão Geral"
