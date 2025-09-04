@@ -30,22 +30,23 @@ Links:: [[Ingles IFPA]]
 ## TV media Vocabulary
 Links: #englishflashcards
 Broadcast::: A TV or radio program transmitted by the network or affiliate station.
+<!--SR:!2025-09-07,3,250!2025-09-07,3,250-->
 Network::: A group of radio or TV stations that broadcast programs at the same time.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-13,9,250!2025-09-11,7,250-->
 Affiliate:::A local station connected with or controlled by a TV or radio network.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-12,8,250!2025-09-13,9,250-->
 Headlines::: A kind of tease read at the beginning of a TV news broadcast, announcing the stories which will be explored during the show.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-13,9,250!2025-09-12,8,250-->
 Break::: A pause from TV news broadcast for commercials.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-11,7,250!2025-09-12,8,250-->
 Commercials::: Aka spots – advertisements that run during breaks. They may be designed to persuade people to buy something or inform the population about relevant issues.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-12,8,250!2025-09-13,9,250-->
 News feeds::: Stories or current issues the affiliates receive from the network to air on the individual stations.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-11,7,250!2025-09-12,8,250-->
 Live shot::: Aka live report – a TV news story during which a news anchor or reporter is live at a remote location.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-13,9,250!2025-09-11,7,250-->
 TV viewership::: The measurement of audience, to know the type and number of people who watch a certain program.
-<!--SR:!2023-03-24,3,250!2023-03-24,3,250-->
+<!--SR:!2025-09-11,7,250!2025-09-12,8,250-->
 
 ## Second Conditional
 
