@@ -1,5 +1,6 @@
 ---
 Created: 2024-07-09
+sticker: emoji//0033-fe0f-20e3
 ---
 # Terceiro Ano
 
