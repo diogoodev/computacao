@@ -2,9 +2,9 @@ Tópico::
 Links:: [[Expressões Lógicas na Programação]]
 
 ---
-Como vimos anteriormente [[Fluxogramas]] são uma das formas de se representar [[algoritmos]];  
+Como vimos anteriormente [[Fluxogramas]] são uma das formas de se representar [[Algoritmos]];  
  - Outra forma é através de [[Linguagem de programação|Linguagens de Programação]];  
-- O que é uma [[Linguagem de Programação]]? 
+- O que é uma [[Linguagem de programação]]? 
 -!![[Linguagem de programação]]
 
 ## O que é Portugol?

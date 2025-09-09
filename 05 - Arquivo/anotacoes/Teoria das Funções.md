@@ -22,7 +22,7 @@ Links::[[Matemática Elementar e Discreta - MED]]
 
 ## Textos
 
-- Slides da aula 2 [Slides da aula 2](slides-aula-2-med-2023.pdf)
+- Slides da aula 2 [Slides da aula 2](05%20-%20Arquivo/anotacoes/slides-aula-2-med-2023.pdf)
 - Texto complementar 2 [Texto complementar 2](Função_composta_e_função.pdf)
 
 ## Atividades
