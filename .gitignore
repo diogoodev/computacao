@@ -7,7 +7,9 @@ node_modules/
 
 # Ignore Smart Connections folder
 .smart-connections
-
+.makemd
+.space
+.trash
 
 
 
