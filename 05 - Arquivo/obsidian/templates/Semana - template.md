@@ -24,7 +24,7 @@ sort by due
 
 ```dataview
 LIST
-FROM "obsidian/journal/dailynote"
+FROM "06 - Diario/journal/dailynote"
 WHERE file.ctime >= date(today) - dur(7 days)
 ```
 

@@ -14,6 +14,6 @@ action QuickAdd: Adicionar curso
 
 ```dataview 
 table without id file.link as Curso, Status, Tópico, Url
-from "obsidian/cursos" 
+from "01 - Projetos/cursos" 
 sort file.name asc
 ```

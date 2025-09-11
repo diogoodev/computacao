@@ -13,7 +13,7 @@ action QuickAdd: Adicionar nota
 
 ```dataview 
 TABLE rows.file.link as "Título" 
-from "anotacoes"
+from "05 - Arquivo/anotacoes"
 FLATTEN Tópico
 Group by Tópico
 ```
