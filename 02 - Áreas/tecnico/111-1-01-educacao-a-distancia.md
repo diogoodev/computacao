@@ -37,7 +37,7 @@ Aqui você irá centralizar os links para suas anotações de cada unidade do cu
 -  [[2025-09-02-ambientacao-do-curso-e-disciplina|Ambientação do Curso e Disciplina]]
 
 ### Unidade I: Início de Conversa (09/09 - 15/09)
-- 2025-09-09-o-que-e-ead|O que é Educação a Distância
+- [[2025-09-09-o-que-e-ead|O que é Educação a Distância]]
 - 2025-09-12-caracteristicas-da-ead|Características da EaD
 
 ### Unidade II: Componentes e Papeis (16/09 - 22/09)
