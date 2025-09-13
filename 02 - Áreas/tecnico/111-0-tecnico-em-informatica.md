@@ -11,6 +11,10 @@ summary: "Painel de controle central para o Curso Técnico em Informática EaD."
 ---
 ## 📚 Disciplinas do Módulo I (2º Sem/2025)
 
+
+```base
+
+```
  
 
 ```dataview
