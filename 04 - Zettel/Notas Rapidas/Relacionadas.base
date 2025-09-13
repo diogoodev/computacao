@@ -24,13 +24,14 @@ views:
     name: Related
     filters:
       or:
-        - formula.LinksOverlap > 2
+        - formulas.LinksOverlap == 2
         - file.hasLink(this)
         - this.file.hasLink(file)
     order:
       - file.name
-      - formula.Related
     sort:
+      - property: file.name
+        direction: ASC
       - property: formula.LinksOverlap
         direction: DESC
       - property: formula.TagsOverlap
