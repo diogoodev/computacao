@@ -12,41 +12,6 @@ summary: "Painel de controle central para o Curso Técnico em Informática EaD."
 ## 📚 Disciplinas do Módulo I (2º Sem/2025)
 
 
-```base
-filters:
-  and:
-    - file.folder == "02 - Áreas/tecnico"
-    - file.name != "111-0-tecnico-em-informatica"
-    - "!professor.isEmpty()"
-formulas:
-  CH: (date(fim).date() - date(inicio).date())
-properties:
-  file.name:
-    displayName: Disciplina
-  note.professor:
-    displayName: Professor
-  formula.CH:
-    displayName: C.H.
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - professor
-      - inicio
-      - formula.CH
-      - fim
-    sort:
-      - property: formula.CH
-        direction: DESC
-      - property: fim
-        direction: DESC
-    columnSize:
-      formula.CH: 283
-
-```
- 
-
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Disciplina",
