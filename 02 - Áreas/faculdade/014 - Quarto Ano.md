@@ -11,3 +11,4 @@ Links para os semestres do quarto ano do curso
 
 ---
 tags: [area/faculdade]
+https://authenticator.cc/
