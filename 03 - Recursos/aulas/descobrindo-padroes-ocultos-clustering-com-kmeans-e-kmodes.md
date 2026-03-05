@@ -1,5 +1,5 @@
-Tópico::
-Links::
+Tópico:: Descobrindo Padrões Ocultos: Clustering com K-means e K-modes
+Links:: [[014-7-4 Introdução ao Aprendizado de Máquina - IAM]]
 
 ---
 ## Anotações Principais

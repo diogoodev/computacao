@@ -21,14 +21,18 @@ alias:
 
 
 ---
-## 📚 Disciplinas do Módulo II (2º Sem/2025)
-
- 
+## 📚 Disciplinas do Terceiro Ano
 
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Disciplina",
+  professor AS "Professor",
+  ch AS "C.H.",
+  "**" + dateformat(inicio, "dd/MM") + "** - **" + dateformat(fim, "dd/MM") + "**" AS "Período de Aula",
+  reavaliacao AS "Reavaliação",
+  exame_final AS "Exame Final"
 FROM "02 - Áreas/faculdade"
+WHERE startswith(file.name, "013-") AND (semestre = 5 OR semestre = 6)
 SORT file.name ASC
 ```
 

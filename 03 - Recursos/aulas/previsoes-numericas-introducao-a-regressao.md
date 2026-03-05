@@ -1,5 +1,5 @@
-Tópico::
-Links::
+Tópico:: Previsões Numéricas: Introdução à Regressão
+Links:: [[014-7-4 Introdução ao Aprendizado de Máquina - IAM]]
 
 ---
 ## Anotações Principais

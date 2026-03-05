@@ -1,5 +1,5 @@
-Tópico::
-Links::
+Tópico:: Refinando o Modelo: Outliers e Seleção de Variáveis
+Links:: [[014-7-4 Introdução ao Aprendizado de Máquina - IAM]]
 
 ---
 ## Anotações Principais

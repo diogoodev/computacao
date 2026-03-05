@@ -1,5 +1,5 @@
-Tópico::
-Links::
+Tópico:: Medindo Desempenho: Métricas e Avaliação de Classificadores
+Links:: [[014-7-4 Introdução ao Aprendizado de Máquina - IAM]]
 
 ---
 ## Anotações Principais

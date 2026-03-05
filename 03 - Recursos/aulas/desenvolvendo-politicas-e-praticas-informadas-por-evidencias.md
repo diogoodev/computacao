@@ -1,5 +1,5 @@
-Tópico::
-Links::
+Tópico:: Desenvolvendo políticas e práticas informadas por evidências.
+Links:: [[014-7-6 Prática de Ensino de Computação VII - PECVII]]
 
 ---
 ## Anotações Principais
