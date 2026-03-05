@@ -5,7 +5,7 @@ Links::[[014 - Quarto Ano]] [[014-1-sétimo-semestre]]
 ---
 
 ### Plano de ensino
-- 
+- [[PlanoDeEnsino_PraticasDeEnsino7_assinado.pdf|Plano de Ensino]]
 - 
 ### Cronograma
 | SEMANA | INÍCIO | TÓPICO                                                                                                                                                                                |

@@ -5,6 +5,7 @@ Links::[[014 - Quarto Ano]] [[014-1-sétimo-semestre]]
 ---
 
 ### Plano de ensino
+- [[Plano de Curso - Introdução ao Aprendizado de Máquina.pdf|Plano de Curso]]
 - 
 
 

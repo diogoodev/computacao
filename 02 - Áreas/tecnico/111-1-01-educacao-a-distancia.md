@@ -1,6 +1,7 @@
 ---
 tags: [area/tecnico, moc, materia]
 alias: ["Educação à Distância"]
+modulo: 1
 professor: "Profª. Dra. Cristiane Fortes Gris Baldan"
 ch: "45h"
 duracao: "3 semanas"

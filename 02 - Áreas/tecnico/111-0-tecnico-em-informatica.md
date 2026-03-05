@@ -28,11 +28,26 @@ TABLE WITHOUT ID
   reavaliacao AS "Reavaliação",
   exame_final AS "Exame Final"
 FROM "02 - Áreas/tecnico"
-WHERE professor
+WHERE modulo = 1
 SORT file.name ASC
 ```
 
-![[Disciplinas.base|no-toolbar]]
+## 📚 Disciplinas do Módulo II (1º Sem/2026)
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Disciplina",
+  professor AS "Professor",
+  ch AS "C.H.",
+  "**" + dateformat(inicio, "dd/MM") + "** - **" + dateformat(fim, "dd/MM") + "**" AS "Período de Aula",
+  reavaliacao AS "Reavaliação",
+  exame_final AS "Exame Final"
+FROM "02 - Áreas/tecnico"
+WHERE modulo = 2
+SORT file.name ASC
+```
+
+
 
 ## 🎯 Projetos Ativos do Curso
 
