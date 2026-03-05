@@ -1,0 +1,35 @@
+properties:
+  file.name:
+    displayName: Materia
+  note.professor:
+    displayName: Professor
+  note.ch:
+    displayName: CH
+  note.duracao:
+    displayName: Duracão
+  note.exame_final:
+    displayName: Exame Final
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - "!professor.isEmpty()"
+    order:
+      - file.name
+      - professor
+      - ch
+      - duracao
+      - exame_final
+      - inicio
+      - fim
+      - reavaliacao
+    sort:
+      - property: duracao
+        direction: ASC
+      - property: ch
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Visualizaçao padrão

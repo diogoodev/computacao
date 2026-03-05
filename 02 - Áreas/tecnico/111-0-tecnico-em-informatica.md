@@ -25,6 +25,7 @@ WHERE professor
 SORT file.name ASC
 ```
 
+![[Disciplinas.base]]
 ## 🎯 Projetos Ativos do Curso
 
 Projetos criados na pasta para/projects com a tag #area/tecnico aparecerão aqui.
