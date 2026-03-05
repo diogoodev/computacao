@@ -19,11 +19,8 @@ views:
       - file.name
       - professor
       - ch
-      - duracao
-      - exame_final
       - inicio
       - fim
-      - reavaliacao
     sort:
       - property: duracao
         direction: ASC
@@ -31,5 +28,10 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
+    columnSize:
+      note.professor: 189
   - type: table
     name: Visualizaçao padrão
+    order:
+      - file.name
+      - professor

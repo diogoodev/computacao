@@ -1,7 +1,14 @@
 ---
-tags: [moc, area/tecnico]
-alias: ["MOC Curso Técnico", "Técnico IFSuldeMinas", "Técnico em Informatica"]
-summary: "Painel de controle central para o Curso Técnico em Informática EaD."
+tags:
+  - moc
+  - area/tecnico
+alias:
+  - MOC Curso Técnico
+  - Técnico IFSuldeMinas
+  - Técnico em Informatica
+summary: Painel de controle central para o Curso Técnico em Informática EaD.
+cssclasses:
+  - no-toolbar
 ---
 
 # 🗺️  Técnico em Informática  
@@ -25,7 +32,8 @@ WHERE professor
 SORT file.name ASC
 ```
 
-![[Disciplinas.base]]
+![[Disciplinas.base|no-toolbar]]
+
 ## 🎯 Projetos Ativos do Curso
 
 Projetos criados na pasta para/projects com a tag #area/tecnico aparecerão aqui.
